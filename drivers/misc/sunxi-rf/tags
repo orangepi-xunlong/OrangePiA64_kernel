@@ -1,0 +1,57 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUDDY_DEBUG	sunxi-wlan.c	17;"	d	file:
+GPL	sunxi-bluetooth.c	/^MODULE_LICENSE(GPL);/;"	v
+GPL	sunxi-wlan.c	/^MODULE_LICENSE(GPL);$/;"	v
+bt_power	sunxi-bluetooth.c	/^	struct regulator *bt_power;$/;"	m	struct:sunxi_bt_platdata	typeref:struct:sunxi_bt_platdata::regulator	file:
+bt_power_name	sunxi-bluetooth.c	/^	char *bt_power_name;$/;"	m	struct:sunxi_bt_platdata	file:
+bus_index	sunxi-wlan.c	/^	int bus_index;$/;"	m	struct:sunxi_wlan_platdata	file:
+gpio_bt_rst	sunxi-bluetooth.c	/^	int gpio_bt_rst;$/;"	m	struct:sunxi_bt_platdata	file:
+gpio_wlan_hostwake	sunxi-wlan.c	/^	int gpio_wlan_hostwake;$/;"	m	struct:sunxi_wlan_platdata	file:
+gpio_wlan_regon	sunxi-wlan.c	/^	int gpio_wlan_regon;$/;"	m	struct:sunxi_wlan_platdata	file:
+io_regulator	sunxi-bluetooth.c	/^	struct regulator *io_regulator;$/;"	m	struct:sunxi_bt_platdata	typeref:struct:sunxi_bt_platdata::regulator	file:
+io_regulator	sunxi-wlan.c	/^	struct regulator *io_regulator;$/;"	m	struct:sunxi_wlan_platdata	typeref:struct:sunxi_wlan_platdata::regulator	file:
+io_regulator_name	sunxi-bluetooth.c	/^	char *io_regulator_name;$/;"	m	struct:sunxi_bt_platdata	file:
+io_regulator_name	sunxi-wlan.c	/^	char *io_regulator_name;$/;"	m	struct:sunxi_wlan_platdata	file:
+line	sunxi-wlan.c	19;"	d	file:
+line	sunxi-wlan.c	21;"	d	file:
+lpo	sunxi-bluetooth.c	/^	struct clk 	*lpo;$/;"	m	struct:sunxi_bt_platdata	typeref:struct:sunxi_bt_platdata::clk	file:
+lpo	sunxi-wlan.c	/^	struct clk 	*lpo;$/;"	m	struct:sunxi_wlan_platdata	typeref:struct:sunxi_wlan_platdata::clk	file:
+pdev	sunxi-bluetooth.c	/^	struct platform_device *pdev;$/;"	m	struct:sunxi_bt_platdata	typeref:struct:sunxi_bt_platdata::platform_device	file:
+pdev	sunxi-wlan.c	/^	struct platform_device *pdev;$/;"	m	struct:sunxi_wlan_platdata	typeref:struct:sunxi_wlan_platdata::platform_device	file:
+power_state	sunxi-bluetooth.c	/^	int power_state;$/;"	m	struct:sunxi_bt_platdata	file:
+power_state	sunxi-wlan.c	/^	int power_state;$/;"	m	struct:sunxi_wlan_platdata	file:
+power_state_show	sunxi-wlan.c	/^static ssize_t power_state_show(struct device *dev,$/;"	f	file:
+power_state_store	sunxi-wlan.c	/^static ssize_t power_state_store(struct device *dev,$/;"	f	file:
+rfkill	sunxi-bluetooth.c	/^	struct rfkill *rfkill;$/;"	m	struct:sunxi_bt_platdata	typeref:struct:sunxi_bt_platdata::rfkill	file:
+sunxi_bt_driver	sunxi-bluetooth.c	/^module_platform_driver(sunxi_bt_driver);$/;"	v
+sunxi_bt_driver	sunxi-bluetooth.c	/^static struct platform_driver sunxi_bt_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_bt_ids	sunxi-bluetooth.c	/^static const struct of_device_id sunxi_bt_ids[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_bt_on	sunxi-bluetooth.c	/^static int sunxi_bt_on(struct sunxi_bt_platdata *data, bool on_off)$/;"	f	file:
+sunxi_bt_platdata	sunxi-bluetooth.c	/^struct sunxi_bt_platdata {$/;"	s	file:
+sunxi_bt_probe	sunxi-bluetooth.c	/^static int sunxi_bt_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_bt_remove	sunxi-bluetooth.c	/^static int sunxi_bt_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_bt_rfkill_ops	sunxi-bluetooth.c	/^static const struct rfkill_ops sunxi_bt_rfkill_ops = {$/;"	v	typeref:struct:rfkill_ops	file:
+sunxi_bt_set_block	sunxi-bluetooth.c	/^static int sunxi_bt_set_block(void *data, bool blocked)$/;"	f	file:
+sunxi_wlan_driver	sunxi-wlan.c	/^module_platform_driver(sunxi_wlan_driver);$/;"	v
+sunxi_wlan_driver	sunxi-wlan.c	/^static struct platform_driver sunxi_wlan_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_wlan_get_bus_index	sunxi-wlan.c	/^EXPORT_SYMBOL_GPL(sunxi_wlan_get_bus_index);$/;"	v
+sunxi_wlan_get_bus_index	sunxi-wlan.c	/^int sunxi_wlan_get_bus_index(void)$/;"	f
+sunxi_wlan_get_oob_irq	sunxi-wlan.c	/^EXPORT_SYMBOL_GPL(sunxi_wlan_get_oob_irq);$/;"	v
+sunxi_wlan_get_oob_irq	sunxi-wlan.c	/^int sunxi_wlan_get_oob_irq(void)$/;"	f
+sunxi_wlan_get_oob_irq_flags	sunxi-wlan.c	/^EXPORT_SYMBOL_GPL(sunxi_wlan_get_oob_irq_flags);$/;"	v
+sunxi_wlan_get_oob_irq_flags	sunxi-wlan.c	/^int sunxi_wlan_get_oob_irq_flags(void)$/;"	f
+sunxi_wlan_ids	sunxi-wlan.c	/^static const struct of_device_id sunxi_wlan_ids[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_wlan_on	sunxi-wlan.c	/^static int sunxi_wlan_on(struct sunxi_wlan_platdata *data, bool on_off)$/;"	f	file:
+sunxi_wlan_platdata	sunxi-wlan.c	/^struct sunxi_wlan_platdata {$/;"	s	file:
+sunxi_wlan_probe	sunxi-wlan.c	/^static int sunxi_wlan_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_wlan_remove	sunxi-wlan.c	/^static int sunxi_wlan_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_wlan_set_power	sunxi-wlan.c	/^EXPORT_SYMBOL_GPL(sunxi_wlan_set_power);$/;"	v
+sunxi_wlan_set_power	sunxi-wlan.c	/^void sunxi_wlan_set_power(bool on_off)$/;"	f
+wlan_data	sunxi-wlan.c	/^static struct sunxi_wlan_platdata *wlan_data = NULL;$/;"	v	typeref:struct:sunxi_wlan_platdata	file:
+wlan_power	sunxi-wlan.c	/^	struct regulator *wlan_power;$/;"	m	struct:sunxi_wlan_platdata	typeref:struct:sunxi_wlan_platdata::regulator	file:
+wlan_power_name	sunxi-wlan.c	/^	char *wlan_power_name;$/;"	m	struct:sunxi_wlan_platdata	file:

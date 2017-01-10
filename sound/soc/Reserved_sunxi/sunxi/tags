@@ -1,0 +1,2646 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AC_ADC_CNT	sun8iw10_codec.h	26;"	d
+AC_ADC_CNT	sun8iw11_codec.h	26;"	d
+AC_ADC_DG	sun8iw10_codec.h	28;"	d
+AC_ADC_DG	sun8iw11_codec.h	28;"	d
+AC_ADC_FIFOC	sun8iw10_codec.h	21;"	d
+AC_ADC_FIFOC	sun8iw11_codec.h	21;"	d
+AC_ADC_FIFOS	sun8iw10_codec.h	22;"	d
+AC_ADC_FIFOS	sun8iw11_codec.h	22;"	d
+AC_ADC_RXDATA	sun8iw10_codec.h	23;"	d
+AC_ADC_RXDATA	sun8iw11_codec.h	23;"	d
+AC_ADC_TXDATA	sun8iw10_codec.h	24;"	d
+AC_ADC_TXDATA	sun8iw11_codec.h	24;"	d
+AC_DAC_CNT	sun8iw10_codec.h	25;"	d
+AC_DAC_CNT	sun8iw11_codec.h	25;"	d
+AC_DAC_DG	sun8iw10_codec.h	27;"	d
+AC_DAC_DG	sun8iw11_codec.h	27;"	d
+AC_DAC_DPC	sun8iw10_codec.h	18;"	d
+AC_DAC_DPC	sun8iw11_codec.h	18;"	d
+AC_DAC_FIFOC	sun8iw10_codec.h	19;"	d
+AC_DAC_FIFOC	sun8iw11_codec.h	19;"	d
+AC_DAC_FIFOS	sun8iw10_codec.h	20;"	d
+AC_DAC_FIFOS	sun8iw11_codec.h	20;"	d
+AC_HMIC_CTRL	sun8iw11_codec.h	29;"	d
+AC_HMIC_DATA	sun8iw11_codec.h	30;"	d
+AC_PR_ADDR	sun8iw10_codec.h	134;"	d
+AC_PR_ADDR	sun8iw11_codec.h	163;"	d
+AC_PR_CFG	sun8iw10_codec.h	30;"	d
+AC_PR_CFG	sun8iw11_codec.h	32;"	d
+AC_PR_RST	sun8iw10_codec.h	132;"	d
+AC_PR_RST	sun8iw11_codec.h	161;"	d
+AC_PR_RW	sun8iw10_codec.h	133;"	d
+AC_PR_RW	sun8iw11_codec.h	162;"	d
+ADCDFEN	sun8iw10_codec.h	82;"	d
+ADCDFEN	sun8iw11_codec.h	86;"	d
+ADCEN	sun8iw10_codec.h	211;"	d
+ADCFDT	sun8iw11_codec.h	85;"	d
+ADCG	sun8iw10_codec.h	212;"	d
+ADCG	sun8iw11_codec.h	266;"	d
+ADCG	sunxi_codec.h	1875;"	d
+ADCLEN	sun8iw11_codec.h	265;"	d
+ADCLEN	sunxi_codec.h	1874;"	d
+ADCL_AGC_ENA	sunxi_codec.h	994;"	d
+ADCREN	sun8iw11_codec.h	264;"	d
+ADCREN	sunxi_codec.h	1873;"	d
+ADCR_AGC_ENA	sunxi_codec.h	995;"	d
+ADC_AP_EN	sun8iw11_codec.h	48;"	d
+ADC_A_CTR	sun8iw10_codec.h	45;"	d
+ADC_CTRL	sunxi_codec.h	1723;"	d
+ADC_DIGITAL_MOD_CLK_EN	sunxi_codec.h	410;"	d
+ADC_DIGITAL_MOD_RST_CTL	sunxi_codec.h	427;"	d
+ADC_DRC1_ENA	sunxi_codec.h	1008;"	d
+ADC_DRQ_EN	sun8iw10_codec.h	86;"	d
+ADC_DRQ_EN	sun8iw11_codec.h	90;"	d
+ADC_FIFO_FLUSH	sun8iw10_codec.h	89;"	d
+ADC_FIFO_FLUSH	sun8iw11_codec.h	93;"	d
+ADC_FUN_CTRL	sun8iw10_codec.h	49;"	d
+ADC_IRQ_EN	sun8iw10_codec.h	87;"	d
+ADC_IRQ_EN	sun8iw11_codec.h	91;"	d
+ADC_MIX_MUTE	sun8iw10_codec.h	43;"	d
+ADC_MONO_EN	sun8iw10_codec.h	84;"	d
+ADC_MONO_EN	sun8iw11_codec.h	88;"	d
+ADC_OVERRUN_IRQ_EN	sun8iw10_codec.h	88;"	d
+ADC_OVERRUN_IRQ_EN	sun8iw11_codec.h	92;"	d
+ADC_VOL_L	sunxi_codec.h	719;"	d
+ADC_VOL_R	sunxi_codec.h	720;"	d
+ADDA_APT1	sun8iw11_codec.h	50;"	d
+ADDA_APT2	sun8iw11_codec.h	51;"	d
+ADDA_APTO	sun8iw11_codec.h	49;"	d
+ADDA_DIGITAL_ANALOG_DBG	sunxi_codec.h	727;"	d
+ADDA_LOOP_EN	sun8iw10_codec.h	69;"	d
+ADDA_LOOP_EN	sun8iw11_codec.h	72;"	d
+ADDA_PR_RDAT	sun8iw10_codec.h	136;"	d
+ADDA_PR_RDAT	sun8iw11_codec.h	165;"	d
+ADDA_PR_WDAT	sun8iw10_codec.h	135;"	d
+ADDA_PR_WDAT	sun8iw11_codec.h	164;"	d
+ADFIR32	sunxi_codec.h	710;"	d
+ADFS	sun8iw10_codec.h	79;"	d
+ADFS	sun8iw11_codec.h	82;"	d
+ADOUT_DLY	sunxi_codec.h	712;"	d
+ADOUT_DTS	sunxi_codec.h	711;"	d
+ADSW	sunxi_codec.h	726;"	d
+AD_SWP	sun8iw10_codec.h	129;"	d
+AD_SWP	sun8iw11_codec.h	158;"	d
+AGC_OUTPUT_CHAN_NOISE_STATE	sunxi_codec.h	967;"	d
+AIF1CLK_ENA	sunxi_codec.h	389;"	d
+AIF1CLK_SRC	sunxi_codec.h	390;"	d
+AIF1_AD0L_AGC_ENA	sunxi_codec.h	986;"	d
+AIF1_AD0L_ENA	sunxi_codec.h	474;"	d
+AIF1_AD0L_MXL_SRC	sunxi_codec.h	512;"	d
+AIF1_AD0L_MXL_SRC_ADCL	sunxi_codec.h	510;"	d
+AIF1_AD0L_MXL_SRC_AIF1DA0L	sunxi_codec.h	508;"	d
+AIF1_AD0L_MXL_SRC_AIF2DACL	sunxi_codec.h	509;"	d
+AIF1_AD0L_MXL_SRC_AIF2DACR	sunxi_codec.h	511;"	d
+AIF1_AD0L_MXR_GAIN	sunxi_codec.h	561;"	d
+AIF1_AD0L_SRC	sunxi_codec.h	478;"	d
+AIF1_AD0L_VOL	sunxi_codec.h	529;"	d
+AIF1_AD0R_AGC_ENA	sunxi_codec.h	987;"	d
+AIF1_AD0R_ENA	sunxi_codec.h	475;"	d
+AIF1_AD0R_MXR_GAIN	sunxi_codec.h	562;"	d
+AIF1_AD0R_MXR_SRC	sunxi_codec.h	517;"	d
+AIF1_AD0R_MXR_SRC_ADCR	sunxi_codec.h	515;"	d
+AIF1_AD0R_MXR_SRC_AIF1DA0R	sunxi_codec.h	513;"	d
+AIF1_AD0R_MXR_SRC_AIF2DACL	sunxi_codec.h	516;"	d
+AIF1_AD0R_MXR_SRC_AIF2DACR	sunxi_codec.h	514;"	d
+AIF1_AD0R_SRC	sunxi_codec.h	479;"	d
+AIF1_AD0R_VOL	sunxi_codec.h	530;"	d
+AIF1_AD1L_AGC_ENA	sunxi_codec.h	988;"	d
+AIF1_AD1L_ENA	sunxi_codec.h	476;"	d
+AIF1_AD1L_MXR_ADCL	sunxi_codec.h	519;"	d
+AIF1_AD1L_MXR_AIF2_DACL	sunxi_codec.h	518;"	d
+AIF1_AD1L_MXR_GAIN	sunxi_codec.h	563;"	d
+AIF1_AD1L_SRC	sunxi_codec.h	480;"	d
+AIF1_AD1L_VOL	sunxi_codec.h	537;"	d
+AIF1_AD1R_AGC_ENA	sunxi_codec.h	989;"	d
+AIF1_AD1R_ENA	sunxi_codec.h	477;"	d
+AIF1_AD1R_MXR_ADCR	sunxi_codec.h	521;"	d
+AIF1_AD1R_MXR_AIF2_DACR	sunxi_codec.h	520;"	d
+AIF1_AD1R_MXR_GAIN	sunxi_codec.h	564;"	d
+AIF1_AD1R_SRC	sunxi_codec.h	481;"	d
+AIF1_AD1R_VOL	sunxi_codec.h	538;"	d
+AIF1_ADC1_DRC1_ENA	sunxi_codec.h	1006;"	d
+AIF1_ADCDAT_SRC	sunxi_codec.h	694;"	d
+AIF1_ADCP_ENA	sunxi_codec.h	482;"	d
+AIF1_ADUL_ENA	sunxi_codec.h	483;"	d
+AIF1_BCLK_DIV	sunxi_codec.h	462;"	d
+AIF1_BCLK_INV	sunxi_codec.h	460;"	d
+AIF1_CLK	sunxi_codec.h	18;"	d
+AIF1_DA0L_ENA	sunxi_codec.h	491;"	d
+AIF1_DA0L_SRC	sunxi_codec.h	495;"	d
+AIF1_DA0L_VOL	sunxi_codec.h	545;"	d
+AIF1_DA0R_ENA	sunxi_codec.h	492;"	d
+AIF1_DA0R_SRC	sunxi_codec.h	496;"	d
+AIF1_DA0R_VOL	sunxi_codec.h	546;"	d
+AIF1_DA1L_ENA	sunxi_codec.h	493;"	d
+AIF1_DA1L_SRC	sunxi_codec.h	497;"	d
+AIF1_DA1L_VOL	sunxi_codec.h	553;"	d
+AIF1_DA1R_ENA	sunxi_codec.h	494;"	d
+AIF1_DA1R_SRC	sunxi_codec.h	498;"	d
+AIF1_DA1R_VOL	sunxi_codec.h	554;"	d
+AIF1_DAC0_DRC0_ENA	sunxi_codec.h	1001;"	d
+AIF1_DAC0_DRC1_ENA	sunxi_codec.h	1005;"	d
+AIF1_DAC1_DRC0_ENA	sunxi_codec.h	1002;"	d
+AIF1_DACDAT_SRC	sunxi_codec.h	695;"	d
+AIF1_DACP_ENA	sunxi_codec.h	499;"	d
+AIF1_DATA_FMT	sunxi_codec.h	465;"	d
+AIF1_DAUL_ENA	sunxi_codec.h	500;"	d
+AIF1_FS	sunxi_codec.h	435;"	d
+AIF1_LOOP_ENA	sunxi_codec.h	501;"	d
+AIF1_LRCK_DIV	sunxi_codec.h	463;"	d
+AIF1_LRCK_INV	sunxi_codec.h	461;"	d
+AIF1_MOD_CLK_EN	sunxi_codec.h	402;"	d
+AIF1_MOD_RST_CTL	sunxi_codec.h	419;"	d
+AIF1_MSTR_MOD	sunxi_codec.h	459;"	d
+AIF1_RXD_CTRL_DISCARD	sunxi_codec.h	570;"	d
+AIF1_SLOT_SIZ	sunxi_codec.h	484;"	d
+AIF1_TDMM_ENA	sunxi_codec.h	467;"	d
+AIF1_WORD_SIZ	sunxi_codec.h	464;"	d
+AIF2CLK_ENA	sunxi_codec.h	391;"	d
+AIF2CLK_SRC	sunxi_codec.h	392;"	d
+AIF2_ADC1_DRC1_ENA	sunxi_codec.h	1007;"	d
+AIF2_ADCDAT_SRC	sunxi_codec.h	692;"	d
+AIF2_ADCL_AGC_ENA	sunxi_codec.h	990;"	d
+AIF2_ADCL_EN	sunxi_codec.h	591;"	d
+AIF2_ADCL_MXR_GAIN	sunxi_codec.h	648;"	d
+AIF2_ADCL_MXR_SRC	sunxi_codec.h	620;"	d
+AIF2_ADCL_MXR_SRC_ADCL	sunxi_codec.h	619;"	d
+AIF2_ADCL_MXR_SRC_AIF1DA0L	sunxi_codec.h	616;"	d
+AIF2_ADCL_MXR_SRC_AIF1DA1L	sunxi_codec.h	617;"	d
+AIF2_ADCL_MXR_SRC_AIF2DACR	sunxi_codec.h	618;"	d
+AIF2_ADCL_SRC	sunxi_codec.h	593;"	d
+AIF2_ADCL_VOL	sunxi_codec.h	632;"	d
+AIF2_ADCP_ENA	sunxi_codec.h	595;"	d
+AIF2_ADCR_AGC_ENA	sunxi_codec.h	991;"	d
+AIF2_ADCR_EN	sunxi_codec.h	592;"	d
+AIF2_ADCR_MXR_GAIN	sunxi_codec.h	649;"	d
+AIF2_ADCR_MXR_SRC	sunxi_codec.h	625;"	d
+AIF2_ADCR_MXR_SRC_ADCR	sunxi_codec.h	624;"	d
+AIF2_ADCR_MXR_SRC_AIF1DA0R	sunxi_codec.h	621;"	d
+AIF2_ADCR_MXR_SRC_AIF1DA1R	sunxi_codec.h	622;"	d
+AIF2_ADCR_MXR_SRC_AIF2DACL	sunxi_codec.h	623;"	d
+AIF2_ADCR_SRC	sunxi_codec.h	594;"	d
+AIF2_ADCR_VOL	sunxi_codec.h	633;"	d
+AIF2_ADUL_ENA	sunxi_codec.h	596;"	d
+AIF2_BCLK_DIV	sunxi_codec.h	580;"	d
+AIF2_BCLK_INV	sunxi_codec.h	578;"	d
+AIF2_CLK	sunxi_codec.h	19;"	d
+AIF2_DAC0_DRC0_ENA	sunxi_codec.h	1003;"	d
+AIF2_DACDAT_SRC	sunxi_codec.h	693;"	d
+AIF2_DACL_AGC_ENA	sunxi_codec.h	992;"	d
+AIF2_DACL_ENA	sunxi_codec.h	604;"	d
+AIF2_DACL_SRC	sunxi_codec.h	606;"	d
+AIF2_DACL_VOL	sunxi_codec.h	640;"	d
+AIF2_DACP_ENA	sunxi_codec.h	608;"	d
+AIF2_DACR_AGC_ENA	sunxi_codec.h	993;"	d
+AIF2_DACR_ENA	sunxi_codec.h	605;"	d
+AIF2_DACR_SRC	sunxi_codec.h	607;"	d
+AIF2_DACR_VOL	sunxi_codec.h	641;"	d
+AIF2_DAC_SRC	sunxi_codec.h	689;"	d
+AIF2_DATA_FMT	sunxi_codec.h	583;"	d
+AIF2_DAUL_ENA	sunxi_codec.h	609;"	d
+AIF2_FS	sunxi_codec.h	436;"	d
+AIF2_LOOP_EN	sunxi_codec.h	597;"	d
+AIF2_LRCK_DIV	sunxi_codec.h	581;"	d
+AIF2_LRCK_INV	sunxi_codec.h	579;"	d
+AIF2_MOD_CLK_EN	sunxi_codec.h	403;"	d
+AIF2_MOD_RST_CTL	sunxi_codec.h	420;"	d
+AIF2_MONO_PCM	sunxi_codec.h	584;"	d
+AIF2_MSTR_MOD	sunxi_codec.h	577;"	d
+AIF2_RXD_CTRL_DISCARD	sunxi_codec.h	655;"	d
+AIF2_WORD_SIZ	sunxi_codec.h	582;"	d
+AIF3_ADCDAT_SRC	sunxi_codec.h	691;"	d
+AIF3_ADCP_ENA	sunxi_codec.h	671;"	d
+AIF3_ADC_SRC	sunxi_codec.h	688;"	d
+AIF3_ADUL_ENA	sunxi_codec.h	672;"	d
+AIF3_BCLK_INV	sunxi_codec.h	662;"	d
+AIF3_CLOC_SRC	sunxi_codec.h	665;"	d
+AIF3_DACP_ENA	sunxi_codec.h	679;"	d
+AIF3_DAUL_ENA	sunxi_codec.h	680;"	d
+AIF3_LOOP_ENA	sunxi_codec.h	681;"	d
+AIF3_LRCK_INV	sunxi_codec.h	663;"	d
+AIF3_MOD_CLK_EN	sunxi_codec.h	404;"	d
+AIF3_MOD_RST_CTL	sunxi_codec.h	421;"	d
+AIF3_PINS_TRI	sunxi_codec.h	690;"	d
+AIF3_RXD_CTRL_DISCARD	sunxi_codec.h	701;"	d
+AIF3_WORD_SIZ	sunxi_codec.h	664;"	d
+AIFDVC_FS_SEL	sunxi_codec.h	452;"	d
+APT_REG	sunxi_codec.h	1725;"	d
+ASS	sunxi_codec.h	228;"	d
+AUTOPLEN	sunxi_codec.h	2005;"	d
+B	sunxi_dma.c	/^    unsigned B:1;$/;"	m	struct:headbpcuv	file:
+BCLKDIV	sunxi_codec.h	327;"	d
+BCLK_INF	sunxi-sndspdif.c	/^static __bclk_set_inf BCLK_INF[] =$/;"	v	file:
+BCP	sunxi_codec.h	242;"	d
+BD_CAL_CTRL	sunxi_codec.h	1731;"	d
+BIASCALI	sunxi_codec.h	1925;"	d
+BIASCALIVERIFY	sunxi_codec.h	1942;"	d
+BIASVERIFY	sunxi_codec.h	1932;"	d
+BIAS_CALI_DATA	sun8iw10_codec.h	52;"	d
+BIAS_CALI_DATA	sun8iw11_codec.h	55;"	d
+BIAS_CALI_MODE_SELECT	sunxi_codec.h	1940;"	d
+BIAS_CALI_SET	sun8iw10_codec.h	53;"	d
+BIAS_CALI_SET	sun8iw11_codec.h	56;"	d
+BIAS_CAL_DATA	sunxi_codec.h	1729;"	d
+BIAS_CAL_SET	sunxi_codec.h	1730;"	d
+BIAS_DA16_CAL_CTR	sun8iw11_codec.h	53;"	d
+BIAS_DA16_CTR	sun8iw10_codec.h	50;"	d
+BIAS_HP_CALI_CTRL	sunxi_codec.h	1941;"	d
+BIAS_MIC_CTR	sun8iw10_codec.h	42;"	d
+BIHE_CTRL	sunxi_codec.h	1893;"	d
+BUFFERENABLE	sunxi_codec.h	1948;"	d
+C	sunxi_dma.c	/^    unsigned C:1;$/;"	m	struct:headbpcuv	file:
+CHEN_MASK	sunxi_tdm_utils.h	114;"	d
+CHEN_MASK	sunxi_tdm_utils.h	121;"	d
+CHSEL_MASK	sunxi_tdm_utils.h	115;"	d
+CHSEL_MASK	sunxi_tdm_utils.h	122;"	d
+CH_MAX	sunxi_tdm_utils.h	116;"	d
+CH_MAX	sunxi_tdm_utils.h	123;"	d
+CODEC_CLK_SELECT	sun8iw10_codec.h	120;"	d
+CODEC_CLK_SELECT	sun8iw11_codec.h	149;"	d
+CODEC_UTILS_H_	codec-utils.h	14;"	d
+CONFIG_AW_ASIC_EVB_PLATFORM	sunxi-sndspdif.c	31;"	d	file:
+COS_SLOPE_CTRL	sun8iw10_codec.h	175;"	d
+CP_CLKS	sunxi_codec.h	1953;"	d
+CS4385_CHIP_ID	cs4385.h	22;"	d
+CS4385_DSD_CTR	cs4385.h	25;"	d
+CS4385_FIL_CTR	cs4385.h	26;"	d
+CS4385_GRO_CTR	cs4385.h	28;"	d
+CS4385_INV_CTR	cs4385.h	27;"	d
+CS4385_MOD_CTR	cs4385.h	23;"	d
+CS4385_MUTE_CTR	cs4385.h	30;"	d
+CS4385_NAME	cs4385.c	31;"	d	file:
+CS4385_PCM_CTR	cs4385.h	24;"	d
+CS4385_RAMP_MUTE	cs4385.h	29;"	d
+CS4385_RATES	cs4385.c	32;"	d	file:
+CS4385_TWI	cs4385.h	17;"	d
+CS4385_TWI_ADD	cs4385.h	19;"	d
+CURRENT_TEST_SELECT	sunxi_codec.h	1939;"	d
+DA16_CALI_DATA	sun8iw10_codec.h	51;"	d
+DA16_CALI_DATA	sun8iw11_codec.h	54;"	d
+DA16_CAL_CTRL	sun8iw11_codec.h	52;"	d
+DACALEN	sun8iw10_codec.h	157;"	d
+DACALEN	sun8iw11_codec.h	193;"	d
+DACALEN	sunxi_codec.h	1833;"	d
+DACAREN	sun8iw10_codec.h	156;"	d
+DACAREN	sun8iw11_codec.h	192;"	d
+DACAREN	sunxi_codec.h	1832;"	d
+DACL_MXR_GAIN	sunxi_codec.h	814;"	d
+DACL_MXR_SRC	sunxi_codec.h	801;"	d
+DACL_MXR_SRC_ADCL	sunxi_codec.h	800;"	d
+DACL_MXR_SRC_AIF1DA0L	sunxi_codec.h	797;"	d
+DACL_MXR_SRC_AIF1DA1L	sunxi_codec.h	798;"	d
+DACL_MXR_SRC_AIF2DACL	sunxi_codec.h	799;"	d
+DACR_MXR_GAIN	sunxi_codec.h	815;"	d
+DACR_MXR_SRC	sunxi_codec.h	807;"	d
+DACR_MXR_SRC_ADCR	sunxi_codec.h	806;"	d
+DACR_MXR_SRC_AIF1DA0R	sunxi_codec.h	803;"	d
+DACR_MXR_SRC_AIF1DA1R	sunxi_codec.h	804;"	d
+DACR_MXR_SRC_AIF2DACR	sunxi_codec.h	805;"	d
+DAC_DIGITAL_MOD_CLK_EN	sunxi_codec.h	411;"	d
+DAC_DIGITAL_MOD_RST_CTL	sunxi_codec.h	428;"	d
+DAC_DRC0_ENA	sunxi_codec.h	1004;"	d
+DAC_DRQ_CLR_CNT	sun8iw10_codec.h	67;"	d
+DAC_DRQ_CLR_CNT	sun8iw11_codec.h	70;"	d
+DAC_DRQ_EN	sun8iw10_codec.h	72;"	d
+DAC_DRQ_EN	sun8iw11_codec.h	75;"	d
+DAC_FS	sun8iw10_codec.h	63;"	d
+DAC_FS	sun8iw11_codec.h	66;"	d
+DAC_IRQ_EN	sun8iw10_codec.h	73;"	d
+DAC_IRQ_EN	sun8iw11_codec.h	76;"	d
+DAC_MODU_SELECT	sun8iw10_codec.h	106;"	d
+DAC_MODU_SELECT	sun8iw11_codec.h	135;"	d
+DAC_MOD_DBG	sunxi_codec.h	788;"	d
+DAC_MONO_EN	sun8iw10_codec.h	70;"	d
+DAC_MONO_EN	sun8iw11_codec.h	73;"	d
+DAC_PATTERN_SELECT	sun8iw10_codec.h	114;"	d
+DAC_PATTERN_SELECT	sun8iw11_codec.h	143;"	d
+DAC_PA_SRC	sun8iw10_codec.h	35;"	d
+DAC_PA_SRC	sun8iw11_codec.h	37;"	d
+DAC_PTN_SEL	sunxi_codec.h	789;"	d
+DAC_VOL_L	sunxi_codec.h	778;"	d
+DAC_VOL_R	sunxi_codec.h	779;"	d
+DAFIR32	sunxi_codec.h	770;"	d
+DASW	sunxi_codec.h	786;"	d
+DATA0L_VOL	sunxi_dmic.h	99;"	d
+DATA0R_VOL	sunxi_dmic.h	100;"	d
+DATA0_CHL_EN	sunxi_dmic.h	44;"	d
+DATA0_CHR_EN	sunxi_dmic.h	43;"	d
+DATA0_LR_SWEEP_EN	sunxi_dmic.h	56;"	d
+DATA1L_VOL	sunxi_dmic.h	97;"	d
+DATA1R_VOL	sunxi_dmic.h	98;"	d
+DATA1_CHL_EN	sunxi_dmic.h	42;"	d
+DATA1_CHR_EN	sunxi_dmic.h	41;"	d
+DATA1_LR_SWEEP_EN	sunxi_dmic.h	55;"	d
+DATA2L_VOL	sunxi_dmic.h	105;"	d
+DATA2R_VOL	sunxi_dmic.h	106;"	d
+DATA2_CHL_EN	sunxi_dmic.h	40;"	d
+DATA2_CHR_EN	sunxi_dmic.h	39;"	d
+DATA2_LR_SWEEP_EN	sunxi_dmic.h	54;"	d
+DATA3L_VOL	sunxi_dmic.h	103;"	d
+DATA3R_VOL	sunxi_dmic.h	104;"	d
+DATA3_CHL_EN	sunxi_dmic.h	38;"	d
+DATA3_CHR_EN	sunxi_dmic.h	37;"	d
+DATA3_LR_SWEEP_EN	sunxi_dmic.h	53;"	d
+DATA_CH_EN	sunxi_dmic.h	45;"	d
+DATA_IRQ_EN	sunxi_dmic.h	65;"	d
+DAUDIO_MASTER	sunxi_tdmhdmi.c	43;"	d	file:
+DA_SWP	sun8iw10_codec.h	126;"	d
+DA_SWP	sun8iw11_codec.h	155;"	d
+DITHER	sun8iw11_codec.h	273;"	d
+DITHER	sunxi_codec.h	1891;"	d
+DITHER_CLK_SEL	sunxi_codec.h	1892;"	d
+DMICDFEN	sunxi_dmic.h	52;"	d
+DMICFDT	sunxi_dmic.h	51;"	d
+DMIC_CH0_MAP	sunxi_dmic.h	91;"	d
+DMIC_CH1_MAP	sunxi_dmic.h	90;"	d
+DMIC_CH2_MAP	sunxi_dmic.h	89;"	d
+DMIC_CH3_MAP	sunxi_dmic.h	88;"	d
+DMIC_CH4_MAP	sunxi_dmic.h	87;"	d
+DMIC_CH5_MAP	sunxi_dmic.h	86;"	d
+DMIC_CH6_MAP	sunxi_dmic.h	85;"	d
+DMIC_CH7_MAP	sunxi_dmic.h	84;"	d
+DMIC_CHANMAP_DEFAULT	sunxi_dmic.h	92;"	d
+DMIC_CH_NUM	sunxi_dmic.h	81;"	d
+DMIC_CUNT	sunxi_dmic.h	94;"	d
+DMIC_DATA	sunxi_dmic.h	60;"	d
+DMIC_DATA_CNT	sunxi_dmic.h	78;"	d
+DMIC_FIFO_FLUSH	sunxi_dmic.h	72;"	d
+DMIC_OVERSAMPLE_RATE	sunxi_dmic.h	57;"	d
+DMIC_SR	sunxi_dmic.h	48;"	d
+DRC0_CTRL_COMPLETE	sunxi_codec.h	1116;"	d
+DRC0_CTRL_CONTROL_DRC_EN	sunxi_codec.h	1121;"	d
+DRC0_CTRL_DELAY_USE_BUF	sunxi_codec.h	1118;"	d
+DRC0_CTRL_DEL_FUN_EN	sunxi_codec.h	1123;"	d
+DRC0_CTRL_DRC_ET_EN	sunxi_codec.h	1125;"	d
+DRC0_CTRL_DRC_LT_EN	sunxi_codec.h	1124;"	d
+DRC0_CTRL_GAIN_MAXLIM_EN	sunxi_codec.h	1119;"	d
+DRC0_CTRL_GAIN_MINLIM_EN	sunxi_codec.h	1120;"	d
+DRC0_CTRL_SIGNAL_DEL_TIMESET	sunxi_codec.h	1117;"	d
+DRC0_CTRL_SIGNAL_FUN_SEL	sunxi_codec.h	1122;"	d
+DRC0_EN	sunxi_codec.h	978;"	d
+DRC0_EPSHC_GAIN_FILT_REL_ATT_PARA	sunxi_codec.h	1371;"	d
+DRC0_EPSLC_GAIN_FILT_REL_ATT_PARA	sunxi_codec.h	1377;"	d
+DRC0_HCT_COMP_THRES_SET	sunxi_codec.h	1203;"	d
+DRC0_HET_EXPAN_THRES_SET	sunxi_codec.h	1275;"	d
+DRC0_HHPFC_COEF_SET	sunxi_codec.h	1104;"	d
+DRC0_HKC_SLOPE_SET	sunxi_codec.h	1215;"	d
+DRC0_HKE_EXPAN_SLOPE_SET	sunxi_codec.h	1287;"	d
+DRC0_HKI_LIM_SLOPE_SET	sunxi_codec.h	1251;"	d
+DRC0_HKN_SLOPE_LIN_DET_EQU	sunxi_codec.h	1311;"	d
+DRC0_HLT_LIM_THRES_SET	sunxi_codec.h	1239;"	d
+DRC0_HOPC_COMP_OUT	sunxi_codec.h	1227;"	d
+DRC0_HOPE_EXPAN_DET_EQU	sunxi_codec.h	1299;"	d
+DRC0_HOPL_LIM_THRES_OUT	sunxi_codec.h	1263;"	d
+DRC0_HPFHGAIN_GAIN_HPF_COEFF_SET	sunxi_codec.h	1395;"	d
+DRC0_HPFHGAIN_GAIN_HPF_COEFF_SET	sunxi_codec.h	1698;"	d
+DRC0_HPFLGAIN_GAIN_HPF_COEFF_SET	sunxi_codec.h	1401;"	d
+DRC0_LCT_COMP_THRES_SET	sunxi_codec.h	1209;"	d
+DRC0_LEFT_CHAN_HPF_EN	sunxi_codec.h	979;"	d
+DRC0_LET_EXPAN_THRES_SET	sunxi_codec.h	1281;"	d
+DRC0_LHPFC_COEF_SET	sunxi_codec.h	1110;"	d
+DRC0_LKC_SLOPE_SET	sunxi_codec.h	1221;"	d
+DRC0_LKE_EXPAN_SLOPE_SET	sunxi_codec.h	1293;"	d
+DRC0_LKI_LIM_SLOPE_SET	sunxi_codec.h	1257;"	d
+DRC0_LKN_SLOPE_LIN_DET_EQU	sunxi_codec.h	1317;"	d
+DRC0_LLT_LIM_THRES_SET	sunxi_codec.h	1245;"	d
+DRC0_LOPC_COMP_OUT	sunxi_codec.h	1233;"	d
+DRC0_LOPE_EXPAN_DET_EQU	sunxi_codec.h	1305;"	d
+DRC0_LOPL_LIM_THRES_OUT	sunxi_codec.h	1269;"	d
+DRC0_LPFHAT_ATT_TIME_PARA_SET	sunxi_codec.h	1131;"	d
+DRC0_LPFHRT_REL_TIME_PARA_SET	sunxi_codec.h	1155;"	d
+DRC0_LPFLAT_ATT_TIME_PARA_SET	sunxi_codec.h	1137;"	d
+DRC0_LPFLRT_REL_TIME_PARA_SET	sunxi_codec.h	1161;"	d
+DRC0_LRMSHAT_AVE_TIME_PARA_SET	sunxi_codec.h	1179;"	d
+DRC0_LRMSHAT_AVE_TIME_PARA_SET	sunxi_codec.h	1185;"	d
+DRC0_MNGHS_GAIN_SET_DET_EUQ	sunxi_codec.h	1359;"	d
+DRC0_MNGLS_GAIN_SET_DET_EUQ	sunxi_codec.h	1365;"	d
+DRC0_MXGHS_GAIN_SET_DET_EUQ	sunxi_codec.h	1347;"	d
+DRC0_MXGHS_GAIN_SET_DET_EUQ	sunxi_codec.h	1650;"	d
+DRC0_MXGLS_GAIN_SET_DET_EUQ	sunxi_codec.h	1353;"	d
+DRC0_OPT_DATA_OUTPUT	sunxi_codec.h	1387;"	d
+DRC0_OPT_GAIN_DEFAULT_VAL	sunxi_codec.h	1388;"	d
+DRC0_OPT_GS_COEFF_MOD_SEL	sunxi_codec.h	1384;"	d
+DRC0_OPT_GS_EXP_COEFF_USE_SEL	sunxi_codec.h	1383;"	d
+DRC0_OPT_HYS_GAIN_SMOOTH_DEL_TIME	sunxi_codec.h	1389;"	d
+DRC0_OPT_MIN_ENERGY	sunxi_codec.h	1385;"	d
+DRC0_OPT_RMS_DET_MOD	sunxi_codec.h	1386;"	d
+DRC0_RIGHT_CHAN_HPF_EN	sunxi_codec.h	980;"	d
+DRC0_RPFHAT_ATT_TIME_PARA_SET	sunxi_codec.h	1143;"	d
+DRC0_RPFHRT_REL_TIME_PARA_SET	sunxi_codec.h	1167;"	d
+DRC0_RPFLAT_ATT_TIME_PARA_SET	sunxi_codec.h	1149;"	d
+DRC0_RPFLRT_REL_TIME_PARA_SET	sunxi_codec.h	1173;"	d
+DRC0_RRMSHAT_AVE_TIME_PARA_SET	sunxi_codec.h	1191;"	d
+DRC0_RRMSLAT_AVE_TIME_PARA_SET	sunxi_codec.h	1197;"	d
+DRC0_SFHAT_ATT_TIME_PARAM_SET	sunxi_codec.h	1323;"	d
+DRC0_SFHRT_REL_TIME_PARAM_SET	sunxi_codec.h	1335;"	d
+DRC0_SFLAT_ATT_TIME_PARAM_SET	sunxi_codec.h	1329;"	d
+DRC0_SFLAT_ATT_TIME_PARAM_SET	sunxi_codec.h	1632;"	d
+DRC0_SFLRT_REL_TIME_PARAM_SET	sunxi_codec.h	1341;"	d
+DRC1_CTRL_COMPLETE	sunxi_codec.h	1419;"	d
+DRC1_CTRL_CONTROL_DRC_EN	sunxi_codec.h	1424;"	d
+DRC1_CTRL_DELAY_USE_BUF	sunxi_codec.h	1421;"	d
+DRC1_CTRL_DEL_FUN_EN	sunxi_codec.h	1426;"	d
+DRC1_CTRL_DRC_ET_EN	sunxi_codec.h	1428;"	d
+DRC1_CTRL_DRC_LT_EN	sunxi_codec.h	1427;"	d
+DRC1_CTRL_GAIN_MAXLIM_EN	sunxi_codec.h	1422;"	d
+DRC1_CTRL_GAIN_MINLIM_EN	sunxi_codec.h	1423;"	d
+DRC1_CTRL_SIGNAL_DEL_TIMESET	sunxi_codec.h	1420;"	d
+DRC1_CTRL_SIGNAL_FUN_SEL	sunxi_codec.h	1425;"	d
+DRC1_EN	sunxi_codec.h	975;"	d
+DRC1_EPSHC_GAIN_FILT_REL_ATT_PARA	sunxi_codec.h	1674;"	d
+DRC1_EPSLC_GAIN_FILT_REL_ATT_PARA	sunxi_codec.h	1680;"	d
+DRC1_HCT_COMP_THRES_SET	sunxi_codec.h	1506;"	d
+DRC1_HET_EXPAN_THRES_SET	sunxi_codec.h	1578;"	d
+DRC1_HHPFC_COEF_SET	sunxi_codec.h	1407;"	d
+DRC1_HKC_SLOPE_SET	sunxi_codec.h	1518;"	d
+DRC1_HKE_EXPAN_SLOPE_SET	sunxi_codec.h	1590;"	d
+DRC1_HKI_LIM_SLOPE_SET	sunxi_codec.h	1554;"	d
+DRC1_HKN_SLOPE_LIN_DET_EQU	sunxi_codec.h	1614;"	d
+DRC1_HLT_LIM_THRES_SET	sunxi_codec.h	1542;"	d
+DRC1_HOPC_COMP_OUT	sunxi_codec.h	1530;"	d
+DRC1_HOPE_EXPAN_DET_EQU	sunxi_codec.h	1602;"	d
+DRC1_HOPL_LIM_THRES_OUT	sunxi_codec.h	1566;"	d
+DRC1_HPFLGAIN_GAIN_HPF_COEFF_SET	sunxi_codec.h	1704;"	d
+DRC1_LCT_COMP_THRES_SET	sunxi_codec.h	1512;"	d
+DRC1_LEFT_CHAN_HPF_EN	sunxi_codec.h	976;"	d
+DRC1_LET_EXPAN_THRES_SET	sunxi_codec.h	1584;"	d
+DRC1_LHPFC_COEF_SET	sunxi_codec.h	1413;"	d
+DRC1_LKC_SLOPE_SET	sunxi_codec.h	1524;"	d
+DRC1_LKE_EXPAN_SLOPE_SET	sunxi_codec.h	1596;"	d
+DRC1_LKI_LIM_SLOPE_SET	sunxi_codec.h	1560;"	d
+DRC1_LKN_SLOPE_LIN_DET_EQU	sunxi_codec.h	1620;"	d
+DRC1_LLT_LIM_THRES_SET	sunxi_codec.h	1548;"	d
+DRC1_LOPC_COMP_OUT	sunxi_codec.h	1536;"	d
+DRC1_LOPE_EXPAN_DET_EQU	sunxi_codec.h	1608;"	d
+DRC1_LOPL_LIM_THRES_OUT	sunxi_codec.h	1572;"	d
+DRC1_LPFHAT_ATT_TIME_PARA_SET	sunxi_codec.h	1434;"	d
+DRC1_LPFLAT_ATT_TIME_PARA_SET	sunxi_codec.h	1440;"	d
+DRC1_LPFLRT_REL_TIME_PARA_SET	sunxi_codec.h	1464;"	d
+DRC1_LRMSHAT_AVE_TIME_PARA_SET	sunxi_codec.h	1482;"	d
+DRC1_LRMSHAT_AVE_TIME_PARA_SET	sunxi_codec.h	1488;"	d
+DRC1_MNGHS_GAIN_SET_DET_EUQ	sunxi_codec.h	1662;"	d
+DRC1_MNGLS_GAIN_SET_DET_EUQ	sunxi_codec.h	1668;"	d
+DRC1_MXGLS_GAIN_SET_DET_EUQ	sunxi_codec.h	1656;"	d
+DRC1_OPT_DATA_OUTPUT	sunxi_codec.h	1690;"	d
+DRC1_OPT_GAIN_DEFAULT_VAL	sunxi_codec.h	1691;"	d
+DRC1_OPT_GS_COEFF_MOD_SEL	sunxi_codec.h	1687;"	d
+DRC1_OPT_GS_EXP_COEFF_USE_SEL	sunxi_codec.h	1686;"	d
+DRC1_OPT_HYS_GAIN_SMOOTH_DEL_TIME	sunxi_codec.h	1692;"	d
+DRC1_OPT_MIN_ENERGY	sunxi_codec.h	1688;"	d
+DRC1_OPT_RMS_DET_MOD	sunxi_codec.h	1689;"	d
+DRC1_RIGHT_CHAN_HPF_EN	sunxi_codec.h	977;"	d
+DRC1_RPFHAT_ATT_TIME_PARA_SET	sunxi_codec.h	1446;"	d
+DRC1_RPFHRT_REL_TIME_PARA_SET	sunxi_codec.h	1470;"	d
+DRC1_RPFLAT_ATT_TIME_PARA_SET	sunxi_codec.h	1452;"	d
+DRC1_RPFLRT_REL_TIME_PARA_SET	sunxi_codec.h	1476;"	d
+DRC1_RRMSHAT_AVE_TIME_PARA_SET	sunxi_codec.h	1494;"	d
+DRC1_RRMSLAT_AVE_TIME_PARA_SET	sunxi_codec.h	1500;"	d
+DRC1_SFHAT_ATT_TIME_PARAM_SET	sunxi_codec.h	1626;"	d
+DRC1_SFHRT_REL_TIME_PARAM_SET	sunxi_codec.h	1638;"	d
+DRC1_SFLRT_REL_TIME_PARAM_SET	sunxi_codec.h	1644;"	d
+DRC7_LPFHRT_REL_TIME_PARA_SET	sunxi_codec.h	1458;"	d
+DRV_NAME	sun8iw10_codec.c	36;"	d	file:
+DRV_NAME	sun8iw11_codec.c	36;"	d	file:
+DRV_NAME	sunxi_codec.c	43;"	d	file:
+DRV_NAME	sunxi_cpudai.c	36;"	d	file:
+DRV_NAME	sunxi_daudio.c	37;"	d	file:
+DRV_NAME	sunxi_dmic.c	35;"	d	file:
+DRV_NAME	sunxi_dsd.c	35;"	d	file:
+DRV_NAME	sunxi_i2s.c	38;"	d	file:
+DRV_NAME	sunxi_spdif.c	35;"	d	file:
+DRV_NAME	sunxi_tdmhdmi.c	40;"	d	file:
+DSD_CHANMAP_DEFAULT	sunxi_dsd.h	77;"	d
+DSD_EN_CTRL	sunxi_dsd.h	21;"	d
+DSD_INT_CTRL	sunxi_dsd.h	26;"	d
+DSD_INT_STA	sunxi_dsd.h	28;"	d
+DSD_SAMPLE_RATE	sunxi_dsd.h	37;"	d
+DSD_SR_CTRL	sunxi_dsd.h	22;"	d
+DSD_TX_CHAN_EN	sunxi_dsd.h	42;"	d
+DSD_TX_CHAN_NUM	sunxi_dsd.h	41;"	d
+DSD_TX_CNT	sunxi_dsd.h	29;"	d
+DSD_TX_CONF	sunxi_dsd.h	23;"	d
+DSD_TX_DATA	sunxi_dsd.h	27;"	d
+DSD_TX_DATA_WIDTH	sunxi_dsd.h	45;"	d
+DSD_TX_DRIVER_MODE	sunxi_dsd.h	44;"	d
+DSD_TX_FIFO_CTRL	sunxi_dsd.h	24;"	d
+DSD_TX_FIFO_STA	sunxi_dsd.h	25;"	d
+DSD_TX_MAP	sunxi_dsd.h	30;"	d
+DSD_TX_MODE_SELECT	sunxi_dsd.h	46;"	d
+DSP_MONO_PCM	sunxi_codec.h	466;"	d
+DVC	sunxi_codec.h	790;"	d
+DVOL	sun8iw10_codec.h	59;"	d
+DVOL	sun8iw11_codec.h	62;"	d
+EARPIECE_CTRL0	sunxi_codec.h	1713;"	d
+EARPIECE_CTRL1	sunxi_codec.h	1714;"	d
+EAR_RAMP_TIME	sunxi_codec.h	1779;"	d
+ENAD	sunxi_codec.h	708;"	d
+ENDA	sunxi_codec.h	768;"	d
+ENDM	sunxi_codec.h	709;"	d
+ENDWA_N	sunxi_codec.h	787;"	d
+ENHPF	sunxi_codec.h	769;"	d
+EN_AD	sun8iw10_codec.h	80;"	d
+EN_AD	sun8iw11_codec.h	83;"	d
+EN_DAC	sun8iw10_codec.h	56;"	d
+EN_DAC	sun8iw11_codec.h	59;"	d
+ESPPA_EN	sunxi_codec.h	1786;"	d
+ESPPA_MUTE	sunxi_codec.h	1787;"	d
+ESPSR	sunxi_codec.h	1780;"	d
+ESP_VOL	sunxi_codec.h	1788;"	d
+FIFO_DATA_IRQ_PENDING	sunxi_dmic.h	69;"	d
+FIFO_DRQ_EN	sunxi_dmic.h	63;"	d
+FIFO_FLUSH	sun8iw10_codec.h	76;"	d
+FIFO_FLUSH	sun8iw11_codec.h	79;"	d
+FIFO_MODE	sun8iw10_codec.h	66;"	d
+FIFO_MODE	sun8iw11_codec.h	69;"	d
+FIFO_MODE	sunxi_dmic.h	73;"	d
+FIFO_OVERRUN_IRQ_EN	sun8iw10_codec.h	75;"	d
+FIFO_OVERRUN_IRQ_EN	sun8iw11_codec.h	78;"	d
+FIFO_OVERRUN_IRQ_EN	sunxi_dmic.h	64;"	d
+FIFO_OVERRUN_IRQ_PENDING	sunxi_dmic.h	68;"	d
+FIFO_TRG_LEVEL	sunxi_dmic.h	75;"	d
+FIFO_UNDERRUN_IRQ_EN	sun8iw10_codec.h	74;"	d
+FIFO_UNDERRUN_IRQ_EN	sun8iw11_codec.h	77;"	d
+FIR_VER	sun8iw10_codec.h	64;"	d
+FIR_VER	sun8iw11_codec.h	67;"	d
+FMG	sun8iw11_codec.h	206;"	d
+FMT	sunxi_codec.h	245;"	d
+FM_GCTRL	sun8iw11_codec.h	39;"	d
+FRX	sunxi_codec.h	286;"	d
+FTX	sunxi_codec.h	285;"	d
+GEN	sunxi_codec.h	234;"	d
+GLOBAL_EN	sunxi_dsd.h	34;"	d
+GLOBE_EN	sunxi_dmic.h	36;"	d
+HBIASSEL	sunxi_codec.h	1883;"	d
+HEADSET_DATA	sunxi_sndcodec.c	/^	u32 HEADSET_DATA;	\/*threshod for switch insert*\/$/;"	m	struct:mc_private	file:
+HMICBIASEN	sun8iw11_codec.h	234;"	d
+HMICBIASEN	sunxi_codec.h	2002;"	d
+HMICBIASMODE	sun8iw11_codec.h	236;"	d
+HMIC_DATA	sun8iw11_codec.h	127;"	d
+HMIC_DATA	sunxi_codec.h	757;"	d
+HMIC_DATA_IRQ_EN	sun8iw11_codec.h	113;"	d
+HMIC_DATA_IRQ_MODE	sun8iw11_codec.h	107;"	d
+HMIC_DATA_PEND	sun8iw11_codec.h	126;"	d
+HMIC_KEYDOWN_IRQ	sun8iw11_codec.h	112;"	d
+HMIC_KEYDOWN_PEND	sun8iw11_codec.h	125;"	d
+HMIC_KEYUP_IRQ	sun8iw11_codec.h	111;"	d
+HMIC_KEYUP_PEND	sun8iw11_codec.h	124;"	d
+HMIC_M	sun8iw11_codec.h	105;"	d
+HMIC_M	sunxi_codec.h	734;"	d
+HMIC_N	sun8iw11_codec.h	106;"	d
+HMIC_N	sunxi_codec.h	735;"	d
+HMIC_PLUGIN_IRQ	sun8iw11_codec.h	110;"	d
+HMIC_PLUGIN_PEND	sun8iw11_codec.h	123;"	d
+HMIC_PULLOUT_IRQ	sun8iw11_codec.h	109;"	d
+HMIC_PULLOUT_PEND	sun8iw11_codec.h	122;"	d
+HMIC_SAMPLE_SELECT	sun8iw11_codec.h	114;"	d
+HMIC_SAMPLE_SELECT	sunxi_codec.h	746;"	d
+HMIC_SF	sun8iw11_codec.h	117;"	d
+HMIC_SF	sunxi_codec.h	748;"	d
+HMIC_TH1	sun8iw11_codec.h	119;"	d
+HMIC_TH1_HYSTERESIS	sun8iw11_codec.h	108;"	d
+HMIC_TH2	sun8iw11_codec.h	116;"	d
+HMIC_TH2_HYSTERESIS	sun8iw11_codec.h	115;"	d
+HPCALICKS	sunxi_codec.h	1962;"	d
+HPCALIFIRST	sunxi_codec.h	1959;"	d
+HPCALIMODE	sunxi_codec.h	1960;"	d
+HPCALIVERIFY	sunxi_codec.h	1961;"	d
+HPCOM_FC	sun8iw10_codec.h	173;"	d
+HPCOM_FC	sun8iw11_codec.h	215;"	d
+HPCOM_PT	sun8iw10_codec.h	174;"	d
+HPCOM_PT	sun8iw11_codec.h	216;"	d
+HPDETECTWAY	sunxi_sndcodec.c	/^enum HPDETECTWAY {$/;"	g	file:
+HPF_AGC_MOD_CLK_EN	sunxi_codec.h	407;"	d
+HPF_AGC_MOD_RST_CTL	sunxi_codec.h	424;"	d
+HPF_DRC0_MOD_CLK_EN	sunxi_codec.h	408;"	d
+HPF_DRC0_MOD_RST_CTL	sunxi_codec.h	425;"	d
+HPF_DRC1_MOD_CLK_EN	sunxi_codec.h	409;"	d
+HPF_DRC1_MOD_RST_CTL	sunxi_codec.h	426;"	d
+HPF_EN	sun8iw10_codec.h	58;"	d
+HPF_EN	sun8iw11_codec.h	61;"	d
+HPF_H_COEFFICIENT_SET	sunxi_codec.h	952;"	d
+HPF_L_COEFFICIENT_SET	sunxi_codec.h	958;"	d
+HPINPUTENABLE	sunxi_codec.h	1950;"	d
+HPLCALI	sunxi_codec.h	1980;"	d
+HPLCALIVERIFY	sunxi_codec.h	1986;"	d
+HPMUTENABLE	sunxi_codec.h	1949;"	d
+HPOUTPUTENABLE	sunxi_codec.h	1951;"	d
+HPPAEN	sun8iw10_codec.h	172;"	d
+HPPAEN	sun8iw11_codec.h	214;"	d
+HPPA_DEL	sunxi_codec.h	1952;"	d
+HPPA_EN	sunxi_codec.h	1746;"	d
+HPRCALI	sunxi_codec.h	1968;"	d
+HPRCALIVERIFY	sunxi_codec.h	1974;"	d
+HPVOL	sun8iw10_codec.h	139;"	d
+HPVOL	sun8iw11_codec.h	169;"	d
+HPVOL	sunxi_codec.h	1747;"	d
+HP_CAL_CTRL	sunxi_codec.h	1733;"	d
+HP_CTRL	sun8iw10_codec.h	38;"	d
+HP_CTRL	sunxi_codec.h	1710;"	d
+HP_DETECT_HIGH	sunxi_sndcodec.c	/^	HP_DETECT_HIGH = 0x1,$/;"	e	enum:HPDETECTWAY	file:
+HP_DETECT_LOW	sunxi_sndcodec.c	/^	HP_DETECT_LOW = 0x0,$/;"	e	enum:HPDETECTWAY	file:
+HP_PA_CTRL	sunxi_codec.h	1732;"	d
+HP_VOL	sun8iw10_codec.h	32;"	d
+HP_VOLC	sun8iw11_codec.h	34;"	d
+HS_MBIAS_CTRL	sunxi_codec.h	1724;"	d
+HUB_EN	sun8iw10_codec.h	60;"	d
+HUB_EN	sun8iw11_codec.h	63;"	d
+HUB_EN	sunxi_codec.h	284;"	d
+INNERRESEN	sunxi_codec.h	2001;"	d
+INPUT_SIGNAL_AVE_FILT_COEF_SET	sunxi_codec.h	966;"	d
+JACKDETEN	sunxi_codec.h	2000;"	d
+JACK_DET_IIN_ST	sunxi_sndcodec.c	/^static 	int	JACK_DET_IIN_ST = 3;$/;"	v	file:
+JACK_DET_OUT_ST	sunxi_sndcodec.c	/^static 	int	JACK_DET_OUT_ST = 4;$/;"	v	file:
+JACK_IN_IRQ_EN	sunxi_sndcodec.c	/^static 	int	JACK_IN_IRQ_EN = 4;$/;"	v	file:
+JACK_MIC_CTRL	sunxi_codec.h	1739;"	d
+JACK_OUT_IRQ_EN	sunxi_sndcodec.c	/^static 	int	JACK_OUT_IRQ_EN = 3;$/;"	v	file:
+KEYUP_CLEAR	sun8iw11_codec.h	118;"	d
+LABEL	sun8iw10_codec.h	225;"	d
+LABEL	sun8iw11_codec.h	283;"	d
+LABEL	sunxi_codec.h	2028;"	d
+LABEL_END	sun8iw10_codec.h	226;"	d
+LABEL_END	sun8iw11_codec.h	284;"	d
+LABEL_END	sunxi_codec.h	2029;"	d
+LADCMIXMUTE	sun8iw10_codec.h	200;"	d
+LADCMIXMUTE	sun8iw11_codec.h	242;"	d
+LADCMIXMUTE	sunxi_codec.h	1845;"	d
+LADCMIXMUTELINEINL	sunxi_codec.h	1852;"	d
+LADCMIXMUTELOUTPUT	sunxi_codec.h	1853;"	d
+LADCMIXMUTEMIC1BOOST	sunxi_codec.h	1846;"	d
+LADCMIXMUTEMIC2BOOST	sunxi_codec.h	1847;"	d
+LADCMIXMUTEPHONEN	sunxi_codec.h	1864;"	d
+LADCMIXMUTEPHONENP	sunxi_codec.h	1863;"	d
+LADCMIXMUTEPHONEP	sunxi_codec.h	1850;"	d
+LADCMIXMUTEPHONEPN	sunxi_codec.h	1849;"	d
+LADCMIXMUTEROUTPUT	sunxi_codec.h	1854;"	d
+LADCMIXSC	sun8iw11_codec.h	45;"	d
+LADC_FML	sun8iw11_codec.h	247;"	d
+LADC_LINEINL	sun8iw10_codec.h	203;"	d
+LADC_LINEINL	sun8iw11_codec.h	246;"	d
+LADC_LINEINLR	sun8iw11_codec.h	245;"	d
+LADC_LINEINR	sun8iw10_codec.h	202;"	d
+LADC_LOUT_MIX	sun8iw10_codec.h	204;"	d
+LADC_LOUT_MIX	sun8iw11_codec.h	248;"	d
+LADC_MIC1_BST	sun8iw11_codec.h	243;"	d
+LADC_MIC2_BST	sun8iw11_codec.h	244;"	d
+LADC_MIC_BST	sun8iw10_codec.h	201;"	d
+LADC_ROUT_MIX	sun8iw10_codec.h	205;"	d
+LADC_ROUT_MIX	sun8iw11_codec.h	249;"	d
+LEFT_AGC_EN	sunxi_codec.h	837;"	d
+LEFT_AGC_N_THRESH_FLAG	sunxi_codec.h	822;"	d
+LEFT_AGC_SAT_FLAG	sunxi_codec.h	821;"	d
+LEFT_ATTACK_TIME_COEFF_SET	sunxi_codec.h	903;"	d
+LEFT_CHAN_GAIN_HYSTER_SET	sunxi_codec.h	965;"	d
+LEFT_CHAN_MAX_GAIN_SET	sunxi_codec.h	860;"	d
+LEFT_CHAN_NOISE_THRES_SET	sunxi_codec.h	921;"	d
+LEFT_CHAN_OUT_H_SIG_AVE_LEV	sunxi_codec.h	873;"	d
+LEFT_CHAN_OUT_L_SIG_AVE_LEV	sunxi_codec.h	879;"	d
+LEFT_CHAN_TAR_LEV_SET	sunxi_codec.h	859;"	d
+LEFT_DEC_TIME_COEFF_SET	sunxi_codec.h	897;"	d
+LEFT_ENERGY_VAL_SET	sunxi_codec.h	964;"	d
+LEFT_GAIN_BY_AGC	sunxi_codec.h	823;"	d
+LEFT_HPF_EN	sunxi_codec.h	838;"	d
+LEFT_HYSTERESIS_SET	sunxi_codec.h	840;"	d
+LEFT_INPUT_SIGNAL_H_AVE_FILT	sunxi_codec.h	928;"	d
+LEFT_INPUT_SIGNAL_L_AVE_FILT	sunxi_codec.h	934;"	d
+LEFT_NOISE_DEB_TIME	sunxi_codec.h	841;"	d
+LEFT_NOISE_DETECT_EN	sunxi_codec.h	839;"	d
+LEFT_SIGNAL_DEB_TIME	sunxi_codec.h	842;"	d
+LEFT_SPK_SRC_SEL	sunxi_codec.h	1796;"	d
+LHPIS	sun8iw10_codec.h	163;"	d
+LHPIS	sun8iw11_codec.h	199;"	d
+LHPIS	sunxi_codec.h	1839;"	d
+LHPPAMUTE	sun8iw10_codec.h	161;"	d
+LHPPAMUTE	sun8iw11_codec.h	197;"	d
+LHPPAMUTE	sunxi_codec.h	1837;"	d
+LHP_CAL_DAT	sunxi_codec.h	1736;"	d
+LHP_CAL_SET	sunxi_codec.h	1737;"	d
+LINEING	sun8iw10_codec.h	166;"	d
+LINEING	sun8iw11_codec.h	207;"	d
+LINEING	sunxi_codec.h	1826;"	d
+LINEINLG	sun8iw11_codec.h	202;"	d
+LINEINRG	sun8iw11_codec.h	203;"	d
+LINEIN_CTRL	sunxi_codec.h	1719;"	d
+LINEIN_GCTR	sun8iw10_codec.h	36;"	d
+LINEIN_GCTRL	sun8iw11_codec.h	38;"	d
+LMIXEN	sun8iw10_codec.h	159;"	d
+LMIXEN	sun8iw11_codec.h	195;"	d
+LMIXEN	sunxi_codec.h	1835;"	d
+LMIXMUTE	sun8iw10_codec.h	142;"	d
+LMIXMUTE	sun8iw11_codec.h	172;"	d
+LMIXMUTE	sunxi_codec.h	1753;"	d
+LMIXMUTEDACL	sunxi_codec.h	1755;"	d
+LMIXMUTEDACR	sunxi_codec.h	1754;"	d
+LMIXMUTELINEINL	sunxi_codec.h	1756;"	d
+LMIXMUTEMIC1BOOST	sunxi_codec.h	1760;"	d
+LMIXMUTEMIC2BOOST	sunxi_codec.h	1759;"	d
+LMIXMUTEPHONEN	sunxi_codec.h	1770;"	d
+LMIXMUTEPHONENP	sunxi_codec.h	1771;"	d
+LMIXMUTEPHONEP	sunxi_codec.h	1757;"	d
+LMIXMUTEPHONEPN	sunxi_codec.h	1758;"	d
+LMIX_FML	sun8iw11_codec.h	177;"	d
+LMIX_LDAC	sun8iw10_codec.h	145;"	d
+LMIX_LDAC	sun8iw11_codec.h	178;"	d
+LMIX_LINEINL	sun8iw10_codec.h	144;"	d
+LMIX_LINEINL	sun8iw11_codec.h	176;"	d
+LMIX_LINEINLR	sun8iw11_codec.h	175;"	d
+LMIX_MIC1_BST	sun8iw10_codec.h	143;"	d
+LMIX_MIC1_BST	sun8iw11_codec.h	173;"	d
+LMIX_MIC2_BST	sun8iw11_codec.h	174;"	d
+LMIX_RDAC	sun8iw10_codec.h	146;"	d
+LMIX_RDAC	sun8iw11_codec.h	179;"	d
+LOMIXSC	sun8iw11_codec.h	35;"	d
+LOMIX_SRC	sun8iw10_codec.h	33;"	d
+LOOP	sunxi_codec.h	231;"	d
+LRCP	sunxi_codec.h	241;"	d
+LTRNMUTE	sun8iw10_codec.h	176;"	d
+LTRNMUTE	sun8iw11_codec.h	218;"	d
+L_ADCMIX_SRC	sunxi_codec.h	1721;"	d
+MBIASSEL	sun8iw10_codec.h	192;"	d
+MBIASSEL	sunxi_codec.h	1882;"	d
+MCLK	sunxi_codec.h	20;"	d
+MCLKDIV	sunxi_codec.h	328;"	d
+MCLKO_EN	sunxi_codec.h	326;"	d
+MCLK_INF	sunxi-sndspdif.c	/^static __mclk_set_inf  MCLK_INF[] =$/;"	v	file:
+MDATA_DISCARD	sunxi_codec.h	756;"	d
+MDATA_THRESHOLD	sunxi_codec.h	747;"	d
+MDATA_THRESHOLD_DEBOUNCE	sunxi_codec.h	736;"	d
+MDATA_THRESHOLD_EN	sunxi_codec.h	755;"	d
+MDET_CTRL	sunxi_codec.h	1738;"	d
+MIC1AMPEN	sunxi_codec.h	1810;"	d
+MIC1BOOST	sunxi_codec.h	1811;"	d
+MIC1G	sunxi_codec.h	1809;"	d
+MIC1G_MICBIAS_CTRL	sun8iw11_codec.h	44;"	d
+MIC1_AMPEN	sun8iw11_codec.h	238;"	d
+MIC1_BOOST	sun8iw11_codec.h	239;"	d
+MIC1_CTRL	sunxi_codec.h	1717;"	d
+MIC1_GAIN	sun8iw11_codec.h	210;"	d
+MIC2AMPEN	sun8iw11_codec.h	230;"	d
+MIC2AMPEN	sunxi_codec.h	1819;"	d
+MIC2BOOST	sun8iw11_codec.h	231;"	d
+MIC2BOOST	sunxi_codec.h	1820;"	d
+MIC2G	sunxi_codec.h	1818;"	d
+MIC2G_LINEEN_CTRL	sun8iw11_codec.h	43;"	d
+MIC2_CTRL	sunxi_codec.h	1718;"	d
+MIC2_GAIN	sun8iw11_codec.h	211;"	d
+MIC2_SRC_SEL	sunxi_codec.h	1817;"	d
+MIC2_SS	sun8iw11_codec.h	237;"	d
+MICADCEN	sunxi_codec.h	2003;"	d
+MICDETPL	sunxi_codec.h	2006;"	d
+MICIN_GCTRL	sun8iw11_codec.h	40;"	d
+MIC_AMPEN	sun8iw10_codec.h	196;"	d
+MIC_BOOST	sun8iw10_codec.h	197;"	d
+MIC_DET_IRQ_EN	sunxi_codec.h	739;"	d
+MIC_DET_ST	sunxi_codec.h	761;"	d
+MIC_GAIN	sun8iw10_codec.h	169;"	d
+MIC_GCTR	sun8iw10_codec.h	37;"	d
+MIX_DAC_CTRL	sunxi_codec.h	1720;"	d
+MLS	sunxi_codec.h	254;"	d
+MMICBIASEN	sun8iw10_codec.h	195;"	d
+MMICBIASEN	sun8iw11_codec.h	235;"	d
+MMICBIASEN	sunxi_codec.h	1881;"	d
+MMIC_BIASCHOPEN	sun8iw10_codec.h	215;"	d
+MMIC_BIASCHOPEN	sun8iw11_codec.h	272;"	d
+MMIC_BIAS_CHOP_CLK_SEL	sunxi_codec.h	1890;"	d
+MMIC_BIAS_CHOP_EN	sunxi_codec.h	1889;"	d
+MODQU	sun8iw10_codec.h	57;"	d
+MODQU	sun8iw11_codec.h	60;"	d
+MODQU	sunxi_codec.h	771;"	d
+MODULE_CLK_EN_CTL	sunxi_codec.h	401;"	d
+MODULE_RST_CTL_BIT	sunxi_codec.h	418;"	d
+MS	sunxi_codec.h	229;"	d
+MSB_LSB_FIR_SEL	sunxi_dsd.h	43;"	d
+OL_MIX_CTRL	sunxi_codec.h	1711;"	d
+OPAAF_BIAS_CUR	sunxi_codec.h	1902;"	d
+OPADC1_BIAS_CUR	sunxi_codec.h	1900;"	d
+OPADC2_BIAS_CUR	sunxi_codec.h	1901;"	d
+OPADC_CTR	sun8iw10_codec.h	46;"	d
+OPDAC_BIAS_CUR	sunxi_codec.h	1910;"	d
+OPDRV_OPEAR_CUR	sunxi_codec.h	1899;"	d
+OPMIC_BIAS_CUR	sunxi_codec.h	1908;"	d
+OPMIC_CTR	sun8iw10_codec.h	47;"	d
+OPMIX_BIAS_CUR	sunxi_codec.h	1911;"	d
+OPVR_BIAS_CUR	sunxi_codec.h	1909;"	d
+OP_BIAS_CTRL0	sunxi_codec.h	1726;"	d
+OP_BIAS_CTRL1	sunxi_codec.h	1727;"	d
+OR_MIX_CTRL	sunxi_codec.h	1712;"	d
+OTHER_IRQ	sunxi_sndcodec.c	/^	OTHER_IRQ   = 0x2,$/;"	e	enum:__anon1	file:
+P	sunxi_dma.c	/^    unsigned P:1;$/;"	m	struct:headbpcuv	file:
+PAEN_HP_CTRL	sun8iw11_codec.h	41;"	d
+PA_ANTI_POP_CTRL	sun8iw11_codec.h	217;"	d
+PA_CLK_GATE	sunxi_codec.h	1745;"	d
+PA_CLK_GATING	sun8iw11_codec.h	168;"	d
+PA_POP_CTR	sun8iw10_codec.h	44;"	d
+PA_POP_CTR	sun8iw11_codec.h	47;"	d
+PA_POP_CTRL	sun8iw10_codec.h	208;"	d
+PA_POP_CTRL	sun8iw11_codec.h	261;"	d
+PA_SLOPE_SELECT	sun8iw11_codec.h	269;"	d
+PA_SPEED_SELECT	sun8iw10_codec.h	218;"	d
+PA_SPEED_SELECT	sun8iw11_codec.h	276;"	d
+PA_SPEED_SELECT	sunxi_codec.h	1938;"	d
+PCLK_SOURCE_SELECT	sunxi_dsd.h	40;"	d
+PCM	sunxi_codec.h	230;"	d
+PCM_LRCKR_PERIOD	sunxi_tdmhdmi.c	45;"	d	file:
+PCM_LRCK_PEROID	sunxi_tdmhdmi.c	44;"	d	file:
+PCM_OUT_MUTE	sunxi_codec.h	253;"	d
+PCM_SYNC_OUT	sunxi_codec.h	252;"	d
+PCM_SYNC_PERIOD	sunxi_codec.h	251;"	d
+PHONEOUTEN	sun8iw11_codec.h	223;"	d
+PHONEOUTEN	sunxi_codec.h	2013;"	d
+PHONEOUTG	sun8iw11_codec.h	222;"	d
+PHONEOUTGAIN	sunxi_codec.h	2012;"	d
+PHONEOUTS0	sun8iw11_codec.h	227;"	d
+PHONEOUTS0	sunxi_codec.h	2017;"	d
+PHONEOUTS1	sun8iw11_codec.h	226;"	d
+PHONEOUTS1	sunxi_codec.h	2016;"	d
+PHONEOUTS2	sun8iw11_codec.h	225;"	d
+PHONEOUTS2	sunxi_codec.h	2015;"	d
+PHONEOUTS3	sun8iw11_codec.h	224;"	d
+PHONEOUTS3	sunxi_codec.h	2014;"	d
+PHONEOUT_CTRL	sun8iw11_codec.h	42;"	d
+PHONEOUT_CTRL	sunxi_codec.h	1740;"	d
+PLLCLK	sunxi_codec.h	21;"	d
+PLUG_IN	sunxi_sndcodec.c	/^	PLUG_IN  = 0x1,$/;"	e	enum:dectect_jack	file:
+PLUG_OUT	sunxi_sndcodec.c	/^	PLUG_OUT = 0x0,$/;"	e	enum:dectect_jack	file:
+POPFREE	sunxi_codec.h	2004;"	d
+RADCMIXMUTE	sunxi_codec.h	1860;"	d
+RADCMIXMUTELINEINR	sunxi_codec.h	1865;"	d
+RADCMIXMUTELOUTPUT	sunxi_codec.h	1867;"	d
+RADCMIXMUTEMIC1BOOST	sunxi_codec.h	1861;"	d
+RADCMIXMUTEMIC2BOOST	sunxi_codec.h	1862;"	d
+RADCMIXMUTEROUTPUT	sunxi_codec.h	1866;"	d
+RADCMIXSC	sun8iw11_codec.h	46;"	d
+RADC_FMR	sun8iw11_codec.h	256;"	d
+RADC_LINEINLR	sun8iw11_codec.h	254;"	d
+RADC_LINER	sun8iw11_codec.h	255;"	d
+RADC_LOUT_MIX	sun8iw11_codec.h	258;"	d
+RADC_MIC1_BST	sun8iw11_codec.h	252;"	d
+RADC_MIC2_BST	sun8iw11_codec.h	253;"	d
+RADC_ROUT_MIX	sun8iw11_codec.h	257;"	d
+RESUME_IRQ	sunxi_sndcodec.c	/^	RESUME_IRQ  = 0x0,$/;"	e	enum:__anon1	file:
+RHPIS	sun8iw10_codec.h	162;"	d
+RHPIS	sun8iw11_codec.h	198;"	d
+RHPIS	sunxi_codec.h	1838;"	d
+RHPPAMUTE	sun8iw10_codec.h	160;"	d
+RHPPAMUTE	sun8iw11_codec.h	196;"	d
+RHPPAMUTE	sunxi_codec.h	1836;"	d
+RHP_CAL_DAT	sunxi_codec.h	1734;"	d
+RHP_CAL_SET	sunxi_codec.h	1735;"	d
+RIGHT_AGC_EN	sunxi_codec.h	848;"	d
+RIGHT_AGC_N_THRESH_FLAG	sunxi_codec.h	830;"	d
+RIGHT_AGC_SAT_FLAG	sunxi_codec.h	829;"	d
+RIGHT_ATTACK_TIME_COEFF_SET	sunxi_codec.h	915;"	d
+RIGHT_CHAN_GAIN_HYSTER_SET	sunxi_codec.h	969;"	d
+RIGHT_CHAN_MAX_GAIN_SET	sunxi_codec.h	867;"	d
+RIGHT_CHAN_NOISE_THRES_SET	sunxi_codec.h	922;"	d
+RIGHT_CHAN_OUT_H_SIG_AVE_LEV	sunxi_codec.h	885;"	d
+RIGHT_CHAN_OUT_L_SIG_AVE_LEV	sunxi_codec.h	891;"	d
+RIGHT_CHAN_TAR_LEV_SET	sunxi_codec.h	866;"	d
+RIGHT_DEC_TIME_COEFF_SET	sunxi_codec.h	909;"	d
+RIGHT_ENERGY_VAL_SET	sunxi_codec.h	968;"	d
+RIGHT_GAIN_BY_AGC	sunxi_codec.h	831;"	d
+RIGHT_HPF_EN	sunxi_codec.h	849;"	d
+RIGHT_HYSTERESIS_SET	sunxi_codec.h	851;"	d
+RIGHT_INPUT_SIGNAL_H_AVE_FILT	sunxi_codec.h	940;"	d
+RIGHT_INPUT_SIGNAL_L_AVE_FILT	sunxi_codec.h	946;"	d
+RIGHT_NOISE_DEB_TIME	sunxi_codec.h	852;"	d
+RIGHT_NOISE_DETECT_EN	sunxi_codec.h	850;"	d
+RIGHT_SIGNAL_DEB_TIME	sunxi_codec.h	853;"	d
+RIGHT_SPK_SRC_SEL	sunxi_codec.h	1797;"	d
+RMIXEN	sun8iw10_codec.h	158;"	d
+RMIXEN	sun8iw11_codec.h	194;"	d
+RMIXEN	sunxi_codec.h	1834;"	d
+RMIXMUTE	sun8iw10_codec.h	149;"	d
+RMIXMUTE	sun8iw11_codec.h	182;"	d
+RMIXMUTE	sunxi_codec.h	1766;"	d
+RMIXMUTEDACL	sunxi_codec.h	1767;"	d
+RMIXMUTEDACR	sunxi_codec.h	1768;"	d
+RMIXMUTELINEINR	sunxi_codec.h	1769;"	d
+RMIXMUTEMIC1BOOST	sunxi_codec.h	1773;"	d
+RMIXMUTEMIC2BOOST	sunxi_codec.h	1772;"	d
+RMIX_FMR	sun8iw11_codec.h	187;"	d
+RMIX_LDAC	sun8iw10_codec.h	153;"	d
+RMIX_LDAC	sun8iw11_codec.h	189;"	d
+RMIX_LINEINLR	sun8iw11_codec.h	185;"	d
+RMIX_LINEINR	sun8iw10_codec.h	151;"	d
+RMIX_LINEINR	sun8iw11_codec.h	186;"	d
+RMIX_MIC1_BST	sun8iw10_codec.h	150;"	d
+RMIX_MIC1_BST	sun8iw11_codec.h	183;"	d
+RMIX_MIC2_BST	sun8iw11_codec.h	184;"	d
+RMIX_RDAC	sun8iw10_codec.h	152;"	d
+RMIX_RDAC	sun8iw11_codec.h	188;"	d
+ROMIXSC	sun8iw11_codec.h	36;"	d
+ROMIX_SRC	sun8iw10_codec.h	34;"	d
+RTLNMUTE	sun8iw10_codec.h	177;"	d
+RTLNMUTE	sun8iw11_codec.h	219;"	d
+RXA	sunxi_codec.h	298;"	d
+RXAI_EN	sunxi_codec.h	313;"	d
+RXA_CNT	sunxi_codec.h	299;"	d
+RXA_INT	sunxi_codec.h	271;"	d
+RXEN	sunxi_codec.h	233;"	d
+RXOI_EN	sunxi_codec.h	312;"	d
+RXOM	sunxi_codec.h	290;"	d
+RXO_INT	sunxi_codec.h	270;"	d
+RXTL	sunxi_codec.h	288;"	d
+RXUI_EN	sunxi_codec.h	311;"	d
+RXU_INT	sunxi_codec.h	269;"	d
+RX_CH0_MAP	sunxi_codec.h	376;"	d
+RX_CH1_MAP	sunxi_codec.h	375;"	d
+RX_CH2_MAP	sunxi_codec.h	374;"	d
+RX_CH3_MAP	sunxi_codec.h	373;"	d
+RX_CHSEL	sunxi_codec.h	366;"	d
+RX_CNT	sun8iw10_codec.h	98;"	d
+RX_CNT	sun8iw11_codec.h	102;"	d
+RX_CNT	sunxi_codec.h	342;"	d
+RX_DATA	sunxi_codec.h	277;"	d
+RX_DATA_MODE	sunxi_tdmhdmi.c	48;"	d	file:
+RX_DRQ	sunxi_codec.h	310;"	d
+RX_FIFO_MODE	sun8iw10_codec.h	81;"	d
+RX_FIFO_MODE	sun8iw11_codec.h	84;"	d
+RX_FIFO_TRG_LEVEL	sun8iw10_codec.h	83;"	d
+RX_FIFO_TRG_LEVEL	sun8iw11_codec.h	87;"	d
+RX_PDM	sunxi_codec.h	259;"	d
+RX_SAMPLE_BITS	sun8iw10_codec.h	85;"	d
+RX_SAMPLE_BITS	sun8iw11_codec.h	89;"	d
+R_ADCMIX_SRC	sunxi_codec.h	1722;"	d
+SAMPLE_RESOLUTION	sunxi_dmic.h	74;"	d
+SDO_EN	sunxi_codec.h	227;"	d
+SELDETADCBF	sunxi_codec.h	1994;"	d
+SELDETADCDB	sunxi_codec.h	1993;"	d
+SELDETADCDY	sunxi_codec.h	1931;"	d
+SELDETADCFS	sunxi_codec.h	1992;"	d
+SEND_LASAT	sun8iw10_codec.h	65;"	d
+SEND_LASAT	sun8iw11_codec.h	68;"	d
+SEXT	sunxi_codec.h	255;"	d
+SI	sunxi_codec.h	256;"	d
+SLOT_WIDTH_SELECT	sunxi_tdmhdmi.c	46;"	d	file:
+SNDHDMI_FORMATS	sndhdmi.c	38;"	d	file:
+SNDHDMI_RATES	sndhdmi.c	37;"	d	file:
+SPKLN_EN	sun8iw10_codec.h	189;"	d
+SPKLP_EN	sun8iw10_codec.h	188;"	d
+SPKL_CTR	sun8iw10_codec.h	39;"	d
+SPKL_SS	sun8iw10_codec.h	180;"	d
+SPKL_VOL	sun8iw10_codec.h	181;"	d
+SPKOUT_CTRL0	sunxi_codec.h	1715;"	d
+SPKOUT_CTRL1	sunxi_codec.h	1716;"	d
+SPKOUT_L_EN	sunxi_codec.h	1794;"	d
+SPKOUT_R_EN	sunxi_codec.h	1795;"	d
+SPKOUT_VOL	sunxi_codec.h	1803;"	d
+SPKRN_EN	sun8iw10_codec.h	191;"	d
+SPKRP_EN	sun8iw10_codec.h	190;"	d
+SPKR_CTR	sun8iw10_codec.h	40;"	d
+SPKR_SS	sun8iw10_codec.h	184;"	d
+SPKR_VOL	sun8iw10_codec.h	185;"	d
+SPK_MBIAS_CTR	sun8iw10_codec.h	41;"	d
+SR	sunxi_codec.h	243;"	d
+SRC1_2_SRAM_ADDR_MODE_SEL	sunxi_codec.h	1015;"	d
+SRC1_2_SRAM_BIST_EN	sunxi_codec.h	1017;"	d
+SRC1_2_SRAM_REG_SEL	sunxi_codec.h	1014;"	d
+SRC1_2_SRAM_WR_DATA_PATTEN	sunxi_codec.h	1016;"	d
+SRC1_ENA	sunxi_codec.h	437;"	d
+SRC1_FIFO_LEV	sunxi_codec.h	1049;"	d
+SRC1_FIFO_LEV	sunxi_codec.h	1062;"	d
+SRC1_FIFO_OVR	sunxi_codec.h	1048;"	d
+SRC1_LOCK_STS	sunxi_codec.h	1047;"	d
+SRC1_MOD_CLK_EN	sunxi_codec.h	405;"	d
+SRC1_MOD_RST_CTL	sunxi_codec.h	422;"	d
+SRC1_RATI_ENA	sunxi_codec.h	1046;"	d
+SRC1_RATI_SET	sunxi_codec.h	1050;"	d
+SRC1_RATI_STET	sunxi_codec.h	1056;"	d
+SRC1_RATI_VAL	sunxi_codec.h	1063;"	d
+SRC1_RATI_VAL	sunxi_codec.h	1069;"	d
+SRC1_ROM_BIST_BUSY	sunxi_codec.h	1024;"	d
+SRC1_ROM_BIST_EN	sunxi_codec.h	1025;"	d
+SRC1_ROM_CEHCKXOR_ERR	sunxi_codec.h	1023;"	d
+SRC1_ROM_CHECKSUM_ERR	sunxi_codec.h	1022;"	d
+SRC1_SRAM_BIST_BUSY	sunxi_codec.h	1040;"	d
+SRC1_SRAM_BIST_ERR_CYCLES	sunxi_codec.h	1038;"	d
+SRC1_SRAM_BIST_ERR_PATTEN	sunxi_codec.h	1037;"	d
+SRC1_SRAM_BIST_ERR_STATUS	sunxi_codec.h	1036;"	d
+SRC1_SRAM_BIST_STOP	sunxi_codec.h	1039;"	d
+SRC1_SRC	sunxi_codec.h	438;"	d
+SRC2_ENA	sunxi_codec.h	439;"	d
+SRC2_FIFO_LEV	sunxi_codec.h	1078;"	d
+SRC2_FIFO_LEV	sunxi_codec.h	1091;"	d
+SRC2_FIFO_OVR	sunxi_codec.h	1077;"	d
+SRC2_LOCK_STS	sunxi_codec.h	1076;"	d
+SRC2_MOD_CLK_EN	sunxi_codec.h	406;"	d
+SRC2_MOD_RST_CTL	sunxi_codec.h	423;"	d
+SRC2_RATI_EN	sunxi_codec.h	1075;"	d
+SRC2_RATI_SEL	sunxi_codec.h	1079;"	d
+SRC2_RATI_SEL	sunxi_codec.h	1085;"	d
+SRC2_RATI_VAL	sunxi_codec.h	1092;"	d
+SRC2_RATI_VAL	sunxi_codec.h	1098;"	d
+SRC2_ROM_BIST_BUSY	sunxi_codec.h	1020;"	d
+SRC2_ROM_BIST_EN	sunxi_codec.h	1021;"	d
+SRC2_ROM_CHECKSUM_ERR	sunxi_codec.h	1018;"	d
+SRC2_ROM_CHECKXOR_ERR	sunxi_codec.h	1019;"	d
+SRC2_SRAM_BIST_BUSY	sunxi_codec.h	1035;"	d
+SRC2_SRAM_BIST_ERR_CYCLES	sunxi_codec.h	1033;"	d
+SRC2_SRAM_BIST_ERR_PATTEN	sunxi_codec.h	1032;"	d
+SRC2_SRAM_BIST_ERR_STATUS	sunxi_codec.h	1031;"	d
+SRC2_SRAM_BIST_STOP	sunxi_codec.h	1034;"	d
+SRC2_SRC	sunxi_codec.h	440;"	d
+SRC_CLK_SLT	sunxi_codec.h	446;"	d
+SSYNC	sunxi_codec.h	258;"	d
+STUB_FORMATS	codec_utils.c	25;"	d	file:
+STUB_RATES	codec_utils.c	24;"	d	file:
+SUNXI_AC_ADC_DAPLAT	sunxi_codec.h	100;"	d
+SUNXI_AC_ADC_DAPLCTRL	sunxi_codec.h	91;"	d
+SUNXI_AC_ADC_DAPLDT	sunxi_codec.h	99;"	d
+SUNXI_AC_ADC_DAPLHAC	sunxi_codec.h	95;"	d
+SUNXI_AC_ADC_DAPLHNAC	sunxi_codec.h	104;"	d
+SUNXI_AC_ADC_DAPLLAC	sunxi_codec.h	96;"	d
+SUNXI_AC_ADC_DAPLLNAC	sunxi_codec.h	105;"	d
+SUNXI_AC_ADC_DAPLSTA	sunxi_codec.h	89;"	d
+SUNXI_AC_ADC_DAPLTL	sunxi_codec.h	93;"	d
+SUNXI_AC_ADC_DAPNTH	sunxi_codec.h	103;"	d
+SUNXI_AC_ADC_DAPRAT	sunxi_codec.h	102;"	d
+SUNXI_AC_ADC_DAPRCTRL	sunxi_codec.h	92;"	d
+SUNXI_AC_ADC_DAPRDT	sunxi_codec.h	101;"	d
+SUNXI_AC_ADC_DAPRHAC	sunxi_codec.h	97;"	d
+SUNXI_AC_ADC_DAPRHNAC	sunxi_codec.h	106;"	d
+SUNXI_AC_ADC_DAPRLAC	sunxi_codec.h	98;"	d
+SUNXI_AC_ADC_DAPRLNAC	sunxi_codec.h	107;"	d
+SUNXI_AC_ADC_DAPRSTA	sunxi_codec.h	90;"	d
+SUNXI_AC_ADC_DAPRTL	sunxi_codec.h	94;"	d
+SUNXI_AC_DAC_DAPCTRL	sunxi_codec.h	111;"	d
+SUNXI_AC_DAPHHPFC	sunxi_codec.h	108;"	d
+SUNXI_AC_DAPLHPFC	sunxi_codec.h	109;"	d
+SUNXI_AC_DAPOPT	sunxi_codec.h	110;"	d
+SUNXI_AC_DRC0_CTRL	sunxi_codec.h	129;"	d
+SUNXI_AC_DRC0_EPSHC	sunxi_codec.h	170;"	d
+SUNXI_AC_DRC0_EPSLC	sunxi_codec.h	171;"	d
+SUNXI_AC_DRC0_HCT	sunxi_codec.h	142;"	d
+SUNXI_AC_DRC0_HET	sunxi_codec.h	154;"	d
+SUNXI_AC_DRC0_HHPFC	sunxi_codec.h	126;"	d
+SUNXI_AC_DRC0_HKC	sunxi_codec.h	144;"	d
+SUNXI_AC_DRC0_HKE	sunxi_codec.h	156;"	d
+SUNXI_AC_DRC0_HKI	sunxi_codec.h	150;"	d
+SUNXI_AC_DRC0_HKN	sunxi_codec.h	160;"	d
+SUNXI_AC_DRC0_HLT	sunxi_codec.h	148;"	d
+SUNXI_AC_DRC0_HOPC	sunxi_codec.h	146;"	d
+SUNXI_AC_DRC0_HOPE	sunxi_codec.h	158;"	d
+SUNXI_AC_DRC0_HOPL	sunxi_codec.h	152;"	d
+SUNXI_AC_DRC0_LCT	sunxi_codec.h	143;"	d
+SUNXI_AC_DRC0_LET	sunxi_codec.h	155;"	d
+SUNXI_AC_DRC0_LHPFC	sunxi_codec.h	127;"	d
+SUNXI_AC_DRC0_LKC	sunxi_codec.h	145;"	d
+SUNXI_AC_DRC0_LKE	sunxi_codec.h	157;"	d
+SUNXI_AC_DRC0_LKI	sunxi_codec.h	151;"	d
+SUNXI_AC_DRC0_LKN	sunxi_codec.h	161;"	d
+SUNXI_AC_DRC0_LLT	sunxi_codec.h	149;"	d
+SUNXI_AC_DRC0_LOPC	sunxi_codec.h	147;"	d
+SUNXI_AC_DRC0_LOPE	sunxi_codec.h	159;"	d
+SUNXI_AC_DRC0_LOPL	sunxi_codec.h	153;"	d
+SUNXI_AC_DRC0_LPFHAT	sunxi_codec.h	130;"	d
+SUNXI_AC_DRC0_LPFHRT	sunxi_codec.h	134;"	d
+SUNXI_AC_DRC0_LPFLAT	sunxi_codec.h	131;"	d
+SUNXI_AC_DRC0_LPFLRT	sunxi_codec.h	135;"	d
+SUNXI_AC_DRC0_LRMSHAT	sunxi_codec.h	138;"	d
+SUNXI_AC_DRC0_LRMSLAT	sunxi_codec.h	139;"	d
+SUNXI_AC_DRC0_MNGHS	sunxi_codec.h	168;"	d
+SUNXI_AC_DRC0_MNGLS	sunxi_codec.h	169;"	d
+SUNXI_AC_DRC0_MXGHS	sunxi_codec.h	166;"	d
+SUNXI_AC_DRC0_MXGLS	sunxi_codec.h	167;"	d
+SUNXI_AC_DRC0_OPT	sunxi_codec.h	172;"	d
+SUNXI_AC_DRC0_RPFHAT	sunxi_codec.h	132;"	d
+SUNXI_AC_DRC0_RPFHRT	sunxi_codec.h	136;"	d
+SUNXI_AC_DRC0_RPFLAT	sunxi_codec.h	133;"	d
+SUNXI_AC_DRC0_RPFLRT	sunxi_codec.h	137;"	d
+SUNXI_AC_DRC0_RRMSHAT	sunxi_codec.h	140;"	d
+SUNXI_AC_DRC0_RRMSLAT	sunxi_codec.h	141;"	d
+SUNXI_AC_DRC0_SFHAT	sunxi_codec.h	162;"	d
+SUNXI_AC_DRC0_SFHRT	sunxi_codec.h	164;"	d
+SUNXI_AC_DRC0_SFLAT	sunxi_codec.h	163;"	d
+SUNXI_AC_DRC0_SFLRT	sunxi_codec.h	165;"	d
+SUNXI_AC_DRC1_CTRL	sunxi_codec.h	176;"	d
+SUNXI_AC_DRC1_EPSHC	sunxi_codec.h	217;"	d
+SUNXI_AC_DRC1_EPSLC	sunxi_codec.h	218;"	d
+SUNXI_AC_DRC1_HCT	sunxi_codec.h	189;"	d
+SUNXI_AC_DRC1_HET	sunxi_codec.h	201;"	d
+SUNXI_AC_DRC1_HHPFC	sunxi_codec.h	174;"	d
+SUNXI_AC_DRC1_HKC	sunxi_codec.h	191;"	d
+SUNXI_AC_DRC1_HKE	sunxi_codec.h	203;"	d
+SUNXI_AC_DRC1_HKI	sunxi_codec.h	197;"	d
+SUNXI_AC_DRC1_HKN	sunxi_codec.h	207;"	d
+SUNXI_AC_DRC1_HLT	sunxi_codec.h	195;"	d
+SUNXI_AC_DRC1_HOPC	sunxi_codec.h	193;"	d
+SUNXI_AC_DRC1_HOPE	sunxi_codec.h	205;"	d
+SUNXI_AC_DRC1_HOPL	sunxi_codec.h	199;"	d
+SUNXI_AC_DRC1_LCT	sunxi_codec.h	190;"	d
+SUNXI_AC_DRC1_LET	sunxi_codec.h	202;"	d
+SUNXI_AC_DRC1_LHPFC	sunxi_codec.h	175;"	d
+SUNXI_AC_DRC1_LKC	sunxi_codec.h	192;"	d
+SUNXI_AC_DRC1_LKE	sunxi_codec.h	204;"	d
+SUNXI_AC_DRC1_LKI	sunxi_codec.h	198;"	d
+SUNXI_AC_DRC1_LKN	sunxi_codec.h	208;"	d
+SUNXI_AC_DRC1_LLT	sunxi_codec.h	196;"	d
+SUNXI_AC_DRC1_LOPC	sunxi_codec.h	194;"	d
+SUNXI_AC_DRC1_LOPE	sunxi_codec.h	206;"	d
+SUNXI_AC_DRC1_LOPL	sunxi_codec.h	200;"	d
+SUNXI_AC_DRC1_LPFHAT	sunxi_codec.h	177;"	d
+SUNXI_AC_DRC1_LPFHRT	sunxi_codec.h	181;"	d
+SUNXI_AC_DRC1_LPFLAT	sunxi_codec.h	178;"	d
+SUNXI_AC_DRC1_LPFLRT	sunxi_codec.h	182;"	d
+SUNXI_AC_DRC1_LRMSHAT	sunxi_codec.h	185;"	d
+SUNXI_AC_DRC1_LRMSLAT	sunxi_codec.h	186;"	d
+SUNXI_AC_DRC1_MNGHS	sunxi_codec.h	215;"	d
+SUNXI_AC_DRC1_MNGLS	sunxi_codec.h	216;"	d
+SUNXI_AC_DRC1_MXGHS	sunxi_codec.h	213;"	d
+SUNXI_AC_DRC1_MXGLS	sunxi_codec.h	214;"	d
+SUNXI_AC_DRC1_OPT	sunxi_codec.h	219;"	d
+SUNXI_AC_DRC1_RPFHAT	sunxi_codec.h	179;"	d
+SUNXI_AC_DRC1_RPFHRT	sunxi_codec.h	183;"	d
+SUNXI_AC_DRC1_RPFLAT	sunxi_codec.h	180;"	d
+SUNXI_AC_DRC1_RPFLRT	sunxi_codec.h	184;"	d
+SUNXI_AC_DRC1_RRMSHAT	sunxi_codec.h	187;"	d
+SUNXI_AC_DRC1_RRMSLAT	sunxi_codec.h	188;"	d
+SUNXI_AC_DRC1_SFHAT	sunxi_codec.h	209;"	d
+SUNXI_AC_DRC1_SFHRT	sunxi_codec.h	211;"	d
+SUNXI_AC_DRC1_SFLAT	sunxi_codec.h	210;"	d
+SUNXI_AC_DRC1_SFLRT	sunxi_codec.h	212;"	d
+SUNXI_ADC_DBG_CTRL	sunxi_codec.h	77;"	d
+SUNXI_ADC_DIG_CTRL	sunxi_codec.h	75;"	d
+SUNXI_ADC_VOL_CTRL	sunxi_codec.h	76;"	d
+SUNXI_AGC_ENA	sunxi_codec.h	113;"	d
+SUNXI_AIF1_ADCDAT_CTRL	sunxi_codec.h	50;"	d
+SUNXI_AIF1_CLK_CTRL	sunxi_codec.h	49;"	d
+SUNXI_AIF1_DACDAT_CTRL	sunxi_codec.h	51;"	d
+SUNXI_AIF1_MXR_GAIN	sunxi_codec.h	57;"	d
+SUNXI_AIF1_MXR_SRC	sunxi_codec.h	52;"	d
+SUNXI_AIF1_RXD_CTRL	sunxi_codec.h	58;"	d
+SUNXI_AIF1_VOL_CTRL1	sunxi_codec.h	53;"	d
+SUNXI_AIF1_VOL_CTRL2	sunxi_codec.h	54;"	d
+SUNXI_AIF1_VOL_CTRL3	sunxi_codec.h	55;"	d
+SUNXI_AIF1_VOL_CTRL4	sunxi_codec.h	56;"	d
+SUNXI_AIF2_ADCDAT_CTRL	sunxi_codec.h	61;"	d
+SUNXI_AIF2_CLK_CTRL	sunxi_codec.h	60;"	d
+SUNXI_AIF2_DACDAT_CTRL	sunxi_codec.h	62;"	d
+SUNXI_AIF2_MXR_GAIN	sunxi_codec.h	66;"	d
+SUNXI_AIF2_MXR_SRC	sunxi_codec.h	63;"	d
+SUNXI_AIF2_RXD_CTRL	sunxi_codec.h	67;"	d
+SUNXI_AIF2_VOL_CTRL1	sunxi_codec.h	64;"	d
+SUNXI_AIF2_VOL_CTRL2	sunxi_codec.h	65;"	d
+SUNXI_AIF3_ADCDAT_CTRL	sunxi_codec.h	70;"	d
+SUNXI_AIF3_CLK_CTRL	sunxi_codec.h	69;"	d
+SUNXI_AIF3_DACDAT_CTRL	sunxi_codec.h	71;"	d
+SUNXI_AIF3_RXD_CTRL	sunxi_codec.h	73;"	d
+SUNXI_AIF3_SGP_CTRL	sunxi_codec.h	72;"	d
+SUNXI_CHCFG	sunxi_tdm_utils.h	100;"	d
+SUNXI_CHIP_AUDIO_RST	sunxi_codec.h	41;"	d
+SUNXI_DAC_DBG_CTRL	sunxi_codec.h	85;"	d
+SUNXI_DAC_DIG_CTRL	sunxi_codec.h	83;"	d
+SUNXI_DAC_MXR_GAIN	sunxi_codec.h	87;"	d
+SUNXI_DAC_MXR_SRC	sunxi_codec.h	86;"	d
+SUNXI_DAC_VOL_CTRL	sunxi_codec.h	84;"	d
+SUNXI_DAUDIOCLKD	sunxi_tdm_utils.h	91;"	d
+SUNXI_DAUDIOCLKD_BCLKDIV	sunxi_tdm_utils.h	93;"	d
+SUNXI_DAUDIOCLKD_MCLKDIV	sunxi_tdm_utils.h	94;"	d
+SUNXI_DAUDIOCLKD_MCLKOEN	sunxi_tdm_utils.h	92;"	d
+SUNXI_DAUDIOCTL	sunxi_tdm_utils.h	21;"	d
+SUNXI_DAUDIOCTL_BCLKOUT	sunxi_tdm_utils.h	22;"	d
+SUNXI_DAUDIOCTL_GEN	sunxi_tdm_utils.h	34;"	d
+SUNXI_DAUDIOCTL_LOOP	sunxi_tdm_utils.h	31;"	d
+SUNXI_DAUDIOCTL_LRCKOUT	sunxi_tdm_utils.h	23;"	d
+SUNXI_DAUDIOCTL_LRCKROUT	sunxi_tdm_utils.h	24;"	d
+SUNXI_DAUDIOCTL_MODESEL	sunxi_tdm_utils.h	30;"	d
+SUNXI_DAUDIOCTL_OUTMUTE	sunxi_tdm_utils.h	29;"	d
+SUNXI_DAUDIOCTL_RXEN	sunxi_tdm_utils.h	33;"	d
+SUNXI_DAUDIOCTL_SDO0EN	sunxi_tdm_utils.h	28;"	d
+SUNXI_DAUDIOCTL_SDO1EN	sunxi_tdm_utils.h	27;"	d
+SUNXI_DAUDIOCTL_SDO2EN	sunxi_tdm_utils.h	26;"	d
+SUNXI_DAUDIOCTL_SDO3EN	sunxi_tdm_utils.h	25;"	d
+SUNXI_DAUDIOCTL_TXEN	sunxi_tdm_utils.h	32;"	d
+SUNXI_DAUDIODBG	sunxi_tdm_utils.h	181;"	d
+SUNXI_DAUDIODBG	sunxi_tdm_utils.h	212;"	d
+SUNXI_DAUDIOFAT0	sunxi_tdm_utils.h	36;"	d
+SUNXI_DAUDIOFAT0_BCLK_POLAYITY	sunxi_tdm_utils.h	42;"	d
+SUNXI_DAUDIOFAT0_EDGE_TRANSFER	sunxi_tdm_utils.h	44;"	d
+SUNXI_DAUDIOFAT0_LRCKR_PERIOD	sunxi_tdm_utils.h	39;"	d
+SUNXI_DAUDIOFAT0_LRCK_PERIOD	sunxi_tdm_utils.h	41;"	d
+SUNXI_DAUDIOFAT0_LRCK_POLAYITY	sunxi_tdm_utils.h	40;"	d
+SUNXI_DAUDIOFAT0_LRCK_WIDTH	sunxi_tdm_utils.h	38;"	d
+SUNXI_DAUDIOFAT0_SDI_SYNC_SEL	sunxi_tdm_utils.h	37;"	d
+SUNXI_DAUDIOFAT0_SR	sunxi_tdm_utils.h	43;"	d
+SUNXI_DAUDIOFAT0_SW	sunxi_tdm_utils.h	45;"	d
+SUNXI_DAUDIOFAT1	sunxi_tdm_utils.h	47;"	d
+SUNXI_DAUDIOFAT1_RX_MLS	sunxi_tdm_utils.h	48;"	d
+SUNXI_DAUDIOFAT1_RX_PDM	sunxi_tdm_utils.h	51;"	d
+SUNXI_DAUDIOFAT1_SEXT	sunxi_tdm_utils.h	50;"	d
+SUNXI_DAUDIOFAT1_TX_MLS	sunxi_tdm_utils.h	49;"	d
+SUNXI_DAUDIOFAT1_TX_PDM	sunxi_tdm_utils.h	52;"	d
+SUNXI_DAUDIOFCTL	sunxi_tdm_utils.h	64;"	d
+SUNXI_DAUDIOFCTL_FRX	sunxi_tdm_utils.h	67;"	d
+SUNXI_DAUDIOFCTL_FTX	sunxi_tdm_utils.h	66;"	d
+SUNXI_DAUDIOFCTL_HUBEN	sunxi_tdm_utils.h	65;"	d
+SUNXI_DAUDIOFCTL_RXOM	sunxi_tdm_utils.h	71;"	d
+SUNXI_DAUDIOFCTL_RXTL	sunxi_tdm_utils.h	69;"	d
+SUNXI_DAUDIOFCTL_TXIM	sunxi_tdm_utils.h	70;"	d
+SUNXI_DAUDIOFCTL_TXTL	sunxi_tdm_utils.h	68;"	d
+SUNXI_DAUDIOFSTA	sunxi_tdm_utils.h	73;"	d
+SUNXI_DAUDIOFSTA_RXA	sunxi_tdm_utils.h	76;"	d
+SUNXI_DAUDIOFSTA_RXACNT	sunxi_tdm_utils.h	77;"	d
+SUNXI_DAUDIOFSTA_TXE	sunxi_tdm_utils.h	74;"	d
+SUNXI_DAUDIOFSTA_TXECNT	sunxi_tdm_utils.h	75;"	d
+SUNXI_DAUDIOINT	sunxi_tdm_utils.h	79;"	d
+SUNXI_DAUDIOINT_RXAIEN	sunxi_tdm_utils.h	87;"	d
+SUNXI_DAUDIOINT_RXDRQEN	sunxi_tdm_utils.h	84;"	d
+SUNXI_DAUDIOINT_RXOIEN	sunxi_tdm_utils.h	86;"	d
+SUNXI_DAUDIOINT_RXUIEN	sunxi_tdm_utils.h	85;"	d
+SUNXI_DAUDIOINT_TXDRQEN	sunxi_tdm_utils.h	80;"	d
+SUNXI_DAUDIOINT_TXEIEN	sunxi_tdm_utils.h	83;"	d
+SUNXI_DAUDIOINT_TXOIEN	sunxi_tdm_utils.h	82;"	d
+SUNXI_DAUDIOINT_TXUIEN	sunxi_tdm_utils.h	81;"	d
+SUNXI_DAUDIOISTA	sunxi_tdm_utils.h	54;"	d
+SUNXI_DAUDIORXCHMAP	sunxi_tdm_utils.h	201;"	d
+SUNXI_DAUDIORXCHMAP0	sunxi_tdm_utils.h	159;"	d
+SUNXI_DAUDIORXCHMAP1	sunxi_tdm_utils.h	170;"	d
+SUNXI_DAUDIORXCHMAP_CH0	sunxi_tdm_utils.h	179;"	d
+SUNXI_DAUDIORXCHMAP_CH0	sunxi_tdm_utils.h	210;"	d
+SUNXI_DAUDIORXCHMAP_CH1	sunxi_tdm_utils.h	178;"	d
+SUNXI_DAUDIORXCHMAP_CH1	sunxi_tdm_utils.h	209;"	d
+SUNXI_DAUDIORXCHMAP_CH10	sunxi_tdm_utils.h	166;"	d
+SUNXI_DAUDIORXCHMAP_CH11	sunxi_tdm_utils.h	165;"	d
+SUNXI_DAUDIORXCHMAP_CH12	sunxi_tdm_utils.h	164;"	d
+SUNXI_DAUDIORXCHMAP_CH13	sunxi_tdm_utils.h	163;"	d
+SUNXI_DAUDIORXCHMAP_CH14	sunxi_tdm_utils.h	162;"	d
+SUNXI_DAUDIORXCHMAP_CH15	sunxi_tdm_utils.h	161;"	d
+SUNXI_DAUDIORXCHMAP_CH2	sunxi_tdm_utils.h	177;"	d
+SUNXI_DAUDIORXCHMAP_CH2	sunxi_tdm_utils.h	208;"	d
+SUNXI_DAUDIORXCHMAP_CH3	sunxi_tdm_utils.h	176;"	d
+SUNXI_DAUDIORXCHMAP_CH3	sunxi_tdm_utils.h	207;"	d
+SUNXI_DAUDIORXCHMAP_CH4	sunxi_tdm_utils.h	175;"	d
+SUNXI_DAUDIORXCHMAP_CH4	sunxi_tdm_utils.h	206;"	d
+SUNXI_DAUDIORXCHMAP_CH5	sunxi_tdm_utils.h	174;"	d
+SUNXI_DAUDIORXCHMAP_CH5	sunxi_tdm_utils.h	205;"	d
+SUNXI_DAUDIORXCHMAP_CH6	sunxi_tdm_utils.h	173;"	d
+SUNXI_DAUDIORXCHMAP_CH6	sunxi_tdm_utils.h	204;"	d
+SUNXI_DAUDIORXCHMAP_CH7	sunxi_tdm_utils.h	172;"	d
+SUNXI_DAUDIORXCHMAP_CH7	sunxi_tdm_utils.h	203;"	d
+SUNXI_DAUDIORXCHMAP_CH8	sunxi_tdm_utils.h	168;"	d
+SUNXI_DAUDIORXCHMAP_CH9	sunxi_tdm_utils.h	167;"	d
+SUNXI_DAUDIORXCHSEL	sunxi_tdm_utils.h	155;"	d
+SUNXI_DAUDIORXCHSEL	sunxi_tdm_utils.h	197;"	d
+SUNXI_DAUDIORXCHSEL_RXCHSET	sunxi_tdm_utils.h	157;"	d
+SUNXI_DAUDIORXCHSEL_RXCHSET	sunxi_tdm_utils.h	199;"	d
+SUNXI_DAUDIORXCHSEL_RXOFFSET	sunxi_tdm_utils.h	156;"	d
+SUNXI_DAUDIORXCHSEL_RXOFFSET	sunxi_tdm_utils.h	198;"	d
+SUNXI_DAUDIORXCNT	sunxi_tdm_utils.h	98;"	d
+SUNXI_DAUDIORXFIFO	sunxi_tdm_utils.h	62;"	d
+SUNXI_DAUDIOSTA_RXA_INT	sunxi_tdm_utils.h	60;"	d
+SUNXI_DAUDIOSTA_RXO_INT	sunxi_tdm_utils.h	59;"	d
+SUNXI_DAUDIOSTA_RXU_INT	sunxi_tdm_utils.h	58;"	d
+SUNXI_DAUDIOSTA_TXE_INT	sunxi_tdm_utils.h	57;"	d
+SUNXI_DAUDIOSTA_TXO_INT	sunxi_tdm_utils.h	56;"	d
+SUNXI_DAUDIOSTA_TXU_INT	sunxi_tdm_utils.h	55;"	d
+SUNXI_DAUDIOTX0CHMAP	sunxi_tdm_utils.h	183;"	d
+SUNXI_DAUDIOTX0CHMAP0	sunxi_tdm_utils.h	127;"	d
+SUNXI_DAUDIOTX0CHMAP1	sunxi_tdm_utils.h	141;"	d
+SUNXI_DAUDIOTX0CHSEL	sunxi_tdm_utils.h	106;"	d
+SUNXI_DAUDIOTX1CHMAP	sunxi_tdm_utils.h	184;"	d
+SUNXI_DAUDIOTX1CHMAP0	sunxi_tdm_utils.h	128;"	d
+SUNXI_DAUDIOTX1CHMAP1	sunxi_tdm_utils.h	142;"	d
+SUNXI_DAUDIOTX1CHSEL	sunxi_tdm_utils.h	107;"	d
+SUNXI_DAUDIOTX2CHMAP	sunxi_tdm_utils.h	185;"	d
+SUNXI_DAUDIOTX2CHMAP0	sunxi_tdm_utils.h	129;"	d
+SUNXI_DAUDIOTX2CHMAP1	sunxi_tdm_utils.h	143;"	d
+SUNXI_DAUDIOTX2CHSEL	sunxi_tdm_utils.h	108;"	d
+SUNXI_DAUDIOTX3CHMAP	sunxi_tdm_utils.h	186;"	d
+SUNXI_DAUDIOTX3CHMAP0	sunxi_tdm_utils.h	130;"	d
+SUNXI_DAUDIOTX3CHMAP1	sunxi_tdm_utils.h	144;"	d
+SUNXI_DAUDIOTX3CHSEL	sunxi_tdm_utils.h	109;"	d
+SUNXI_DAUDIOTXCNT	sunxi_tdm_utils.h	96;"	d
+SUNXI_DAUDIOTXFIFO	sunxi_tdm_utils.h	89;"	d
+SUNXI_DAUDIOTXn_CH0_MAP	sunxi_tdm_utils.h	153;"	d
+SUNXI_DAUDIOTXn_CH0_MAP	sunxi_tdm_utils.h	195;"	d
+SUNXI_DAUDIOTXn_CH10_MAP	sunxi_tdm_utils.h	137;"	d
+SUNXI_DAUDIOTXn_CH11_MAP	sunxi_tdm_utils.h	136;"	d
+SUNXI_DAUDIOTXn_CH12_MAP	sunxi_tdm_utils.h	135;"	d
+SUNXI_DAUDIOTXn_CH13_MAP	sunxi_tdm_utils.h	134;"	d
+SUNXI_DAUDIOTXn_CH14_MAP	sunxi_tdm_utils.h	133;"	d
+SUNXI_DAUDIOTXn_CH15_MAP	sunxi_tdm_utils.h	132;"	d
+SUNXI_DAUDIOTXn_CH1_MAP	sunxi_tdm_utils.h	152;"	d
+SUNXI_DAUDIOTXn_CH1_MAP	sunxi_tdm_utils.h	194;"	d
+SUNXI_DAUDIOTXn_CH2_MAP	sunxi_tdm_utils.h	151;"	d
+SUNXI_DAUDIOTXn_CH2_MAP	sunxi_tdm_utils.h	193;"	d
+SUNXI_DAUDIOTXn_CH3_MAP	sunxi_tdm_utils.h	150;"	d
+SUNXI_DAUDIOTXn_CH3_MAP	sunxi_tdm_utils.h	192;"	d
+SUNXI_DAUDIOTXn_CH4_MAP	sunxi_tdm_utils.h	149;"	d
+SUNXI_DAUDIOTXn_CH4_MAP	sunxi_tdm_utils.h	191;"	d
+SUNXI_DAUDIOTXn_CH5_MAP	sunxi_tdm_utils.h	148;"	d
+SUNXI_DAUDIOTXn_CH5_MAP	sunxi_tdm_utils.h	190;"	d
+SUNXI_DAUDIOTXn_CH6_MAP	sunxi_tdm_utils.h	147;"	d
+SUNXI_DAUDIOTXn_CH6_MAP	sunxi_tdm_utils.h	189;"	d
+SUNXI_DAUDIOTXn_CH7_MAP	sunxi_tdm_utils.h	146;"	d
+SUNXI_DAUDIOTXn_CH7_MAP	sunxi_tdm_utils.h	188;"	d
+SUNXI_DAUDIOTXn_CH8_MAP	sunxi_tdm_utils.h	139;"	d
+SUNXI_DAUDIOTXn_CH9_MAP	sunxi_tdm_utils.h	138;"	d
+SUNXI_DAUDIOTXn_CHEN	sunxi_tdm_utils.h	113;"	d
+SUNXI_DAUDIOTXn_CHEN	sunxi_tdm_utils.h	119;"	d
+SUNXI_DAUDIOTXn_CHSEL	sunxi_tdm_utils.h	112;"	d
+SUNXI_DAUDIOTXn_CHSEL	sunxi_tdm_utils.h	120;"	d
+SUNXI_DAUDIOTXn_OFFSET	sunxi_tdm_utils.h	111;"	d
+SUNXI_DAUDIOTXn_OFFSET	sunxi_tdm_utils.h	118;"	d
+SUNXI_DAUDIO_RATES	sunxi_daudio.c	176;"	d	file:
+SUNXI_DAUDIO_RATES	sunxi_tdmhdmi.c	180;"	d	file:
+SUNXI_DA_CLKD	sunxi_codec.h	33;"	d
+SUNXI_DA_CTL	sunxi_codec.h	24;"	d
+SUNXI_DA_FAT0	sunxi_codec.h	25;"	d
+SUNXI_DA_FAT1	sunxi_codec.h	26;"	d
+SUNXI_DA_FCTL	sunxi_codec.h	29;"	d
+SUNXI_DA_FSTA	sunxi_codec.h	30;"	d
+SUNXI_DA_INT	sunxi_codec.h	31;"	d
+SUNXI_DA_ISTA	sunxi_codec.h	27;"	d
+SUNXI_DA_RXCHMAP	sunxi_codec.h	39;"	d
+SUNXI_DA_RXCHSEL	sunxi_codec.h	38;"	d
+SUNXI_DA_RXCNT	sunxi_codec.h	35;"	d
+SUNXI_DA_RXFIFO	sunxi_codec.h	28;"	d
+SUNXI_DA_TXCHMAP	sunxi_codec.h	37;"	d
+SUNXI_DA_TXCHSEL	sunxi_codec.h	36;"	d
+SUNXI_DA_TXCNT	sunxi_codec.h	34;"	d
+SUNXI_DA_TXFIFO	sunxi_codec.h	32;"	d
+SUNXI_DIV_BCLK	sunxi_spdif.h	167;"	d
+SUNXI_DIV_MCLK	sunxi_spdif.h	166;"	d
+SUNXI_DMA_H_	sunxi_dma.h	15;"	d
+SUNXI_DMIC_CH_MAP	sunxi_dmic.h	30;"	d
+SUNXI_DMIC_CH_NUM	sunxi_dmic.h	29;"	d
+SUNXI_DMIC_CNT	sunxi_dmic.h	31;"	d
+SUNXI_DMIC_CTR	sunxi_dmic.h	23;"	d
+SUNXI_DMIC_DATA	sunxi_dmic.h	24;"	d
+SUNXI_DMIC_DATA0_1_VOL	sunxi_dmic.h	32;"	d
+SUNXI_DMIC_DATA2_3_VOL	sunxi_dmic.h	33;"	d
+SUNXI_DMIC_EN	sunxi_dmic.h	21;"	d
+SUNXI_DMIC_FIFO_CTR	sunxi_dmic.h	27;"	d
+SUNXI_DMIC_FIFO_STA	sunxi_dmic.h	28;"	d
+SUNXI_DMIC_H_	sunxi_dmic.h	17;"	d
+SUNXI_DMIC_INTC	sunxi_dmic.h	25;"	d
+SUNXI_DMIC_INTS	sunxi_dmic.h	26;"	d
+SUNXI_DMIC_RATES	sunxi_dmic.c	345;"	d	file:
+SUNXI_DMIC_SR	sunxi_dmic.h	22;"	d
+SUNXI_DRC_ENA	sunxi_codec.h	114;"	d
+SUNXI_DSD_H_	sunxi_dsd.h	17;"	d
+SUNXI_DSD_RATES	sunxi_dsd.c	339;"	d	file:
+SUNXI_HMIC_CTRL1	sunxi_codec.h	79;"	d
+SUNXI_HMIC_CTRL2	sunxi_codec.h	80;"	d
+SUNXI_HMIC_STS	sunxi_codec.h	81;"	d
+SUNXI_MOD_CLK_ENA	sunxi_codec.h	43;"	d
+SUNXI_MOD_RST_CTL	sunxi_codec.h	44;"	d
+SUNXI_PCM_RATES	sunxi_cpudai.c	37;"	d	file:
+SUNXI_PCM_RATES	sunxi_i2s.c	39;"	d	file:
+SUNXI_RXCHANMAP0_DEFAULT	sunxi_tdm_utils.h	160;"	d
+SUNXI_RXCHANMAP1_DEFAULT	sunxi_tdm_utils.h	171;"	d
+SUNXI_RXCHANMAP_DEFAULT	sunxi_tdm_utils.h	202;"	d
+SUNXI_RXCHSEL_CHNUM	sunxi_codec.h	2021;"	d
+SUNXI_SPDIFFCTL_HUBEN	sunxi_spdif.h	67;"	d
+SUNXI_SPDIF_CTL	sunxi_spdif.h	22;"	d
+SUNXI_SPDIF_CTL_GEN	sunxi_spdif.h	33;"	d
+SUNXI_SPDIF_CTL_LOOP	sunxi_spdif.h	31;"	d
+SUNXI_SPDIF_CTL_MCLKDIV	sunxi_spdif.h	28;"	d
+SUNXI_SPDIF_CTL_MCLKOUTEN	sunxi_spdif.h	24;"	d
+SUNXI_SPDIF_CTL_RESET	sunxi_spdif.h	34;"	d
+SUNXI_SPDIF_FCTL	sunxi_spdif.h	62;"	d
+SUNXI_SPDIF_FCTL_FIFOSRC	sunxi_spdif.h	69;"	d
+SUNXI_SPDIF_FCTL_FRX	sunxi_spdif.h	73;"	d
+SUNXI_SPDIF_FCTL_FRX	sunxi_spdif.h	78;"	d
+SUNXI_SPDIF_FCTL_FTX	sunxi_spdif.h	72;"	d
+SUNXI_SPDIF_FCTL_FTX	sunxi_spdif.h	77;"	d
+SUNXI_SPDIF_FCTL_RXOM	sunxi_spdif.h	83;"	d
+SUNXI_SPDIF_FCTL_RXTL	sunxi_spdif.h	75;"	d
+SUNXI_SPDIF_FCTL_RXTL	sunxi_spdif.h	80;"	d
+SUNXI_SPDIF_FCTL_TXIM	sunxi_spdif.h	82;"	d
+SUNXI_SPDIF_FCTL_TXTL	sunxi_spdif.h	74;"	d
+SUNXI_SPDIF_FCTL_TXTL	sunxi_spdif.h	79;"	d
+SUNXI_SPDIF_FSTA	sunxi_spdif.h	85;"	d
+SUNXI_SPDIF_FSTA_RXA	sunxi_spdif.h	89;"	d
+SUNXI_SPDIF_FSTA_RXA	sunxi_spdif.h	93;"	d
+SUNXI_SPDIF_FSTA_RXACNTSHT	sunxi_spdif.h	95;"	d
+SUNXI_SPDIF_FSTA_TXE	sunxi_spdif.h	87;"	d
+SUNXI_SPDIF_FSTA_TXE	sunxi_spdif.h	91;"	d
+SUNXI_SPDIF_FSTA_TXECNTSHT	sunxi_spdif.h	88;"	d
+SUNXI_SPDIF_FSTA_TXECNTSHT	sunxi_spdif.h	92;"	d
+SUNXI_SPDIF_H_	sunxi_spdif.h	17;"	d
+SUNXI_SPDIF_INT	sunxi_spdif.h	97;"	d
+SUNXI_SPDIF_INT_RXAIEN	sunxi_spdif.h	107;"	d
+SUNXI_SPDIF_INT_RXDRQEN	sunxi_spdif.h	105;"	d
+SUNXI_SPDIF_INT_RXLOCKEN	sunxi_spdif.h	98;"	d
+SUNXI_SPDIF_INT_RXOIEN	sunxi_spdif.h	106;"	d
+SUNXI_SPDIF_INT_RXPARERREN	sunxi_spdif.h	100;"	d
+SUNXI_SPDIF_INT_RXUNLOCKEN	sunxi_spdif.h	99;"	d
+SUNXI_SPDIF_INT_TXDRQEN	sunxi_spdif.h	101;"	d
+SUNXI_SPDIF_INT_TXEIEN	sunxi_spdif.h	104;"	d
+SUNXI_SPDIF_INT_TXOIEN	sunxi_spdif.h	103;"	d
+SUNXI_SPDIF_INT_TXUIEN	sunxi_spdif.h	102;"	d
+SUNXI_SPDIF_ISTA	sunxi_spdif.h	111;"	d
+SUNXI_SPDIF_ISTA	sunxi_spdif.h	113;"	d
+SUNXI_SPDIF_ISTA_RXASTA	sunxi_spdif.h	122;"	d
+SUNXI_SPDIF_ISTA_RXLOCKSTA	sunxi_spdif.h	115;"	d
+SUNXI_SPDIF_ISTA_RXOSTA	sunxi_spdif.h	121;"	d
+SUNXI_SPDIF_ISTA_RXPARERRSTA	sunxi_spdif.h	117;"	d
+SUNXI_SPDIF_ISTA_RXUNLOCKSTA	sunxi_spdif.h	116;"	d
+SUNXI_SPDIF_ISTA_TXESTA	sunxi_spdif.h	120;"	d
+SUNXI_SPDIF_ISTA_TXOSTA	sunxi_spdif.h	119;"	d
+SUNXI_SPDIF_ISTA_TXUSTA	sunxi_spdif.h	118;"	d
+SUNXI_SPDIF_RATES	sunxi_spdif.c	672;"	d	file:
+SUNXI_SPDIF_RXCFG	sunxi_spdif.h	48;"	d
+SUNXI_SPDIF_RXCFG_CHSTCP	sunxi_spdif.h	51;"	d
+SUNXI_SPDIF_RXCFG_CHSTSRC	sunxi_spdif.h	50;"	d
+SUNXI_SPDIF_RXCFG_LOCKFLAG	sunxi_spdif.h	49;"	d
+SUNXI_SPDIF_RXCFG_RXEN	sunxi_spdif.h	52;"	d
+SUNXI_SPDIF_RXCHSTA0	sunxi_spdif.h	146;"	d
+SUNXI_SPDIF_RXCHSTA0_AUDIO	sunxi_spdif.h	155;"	d
+SUNXI_SPDIF_RXCHSTA0_CATACOD	sunxi_spdif.h	151;"	d
+SUNXI_SPDIF_RXCHSTA0_CHNUM	sunxi_spdif.h	149;"	d
+SUNXI_SPDIF_RXCHSTA0_CLK	sunxi_spdif.h	147;"	d
+SUNXI_SPDIF_RXCHSTA0_CP	sunxi_spdif.h	154;"	d
+SUNXI_SPDIF_RXCHSTA0_EMPHASIS	sunxi_spdif.h	153;"	d
+SUNXI_SPDIF_RXCHSTA0_MODE	sunxi_spdif.h	152;"	d
+SUNXI_SPDIF_RXCHSTA0_PRO	sunxi_spdif.h	156;"	d
+SUNXI_SPDIF_RXCHSTA0_SAMFREQ	sunxi_spdif.h	148;"	d
+SUNXI_SPDIF_RXCHSTA0_SRCNUM	sunxi_spdif.h	150;"	d
+SUNXI_SPDIF_RXCHSTA1	sunxi_spdif.h	158;"	d
+SUNXI_SPDIF_RXCHSTA1_CGMSA	sunxi_spdif.h	159;"	d
+SUNXI_SPDIF_RXCHSTA1_MAXWORDLEN	sunxi_spdif.h	162;"	d
+SUNXI_SPDIF_RXCHSTA1_ORISAMFREQ	sunxi_spdif.h	160;"	d
+SUNXI_SPDIF_RXCHSTA1_SAMWORDLEN	sunxi_spdif.h	161;"	d
+SUNXI_SPDIF_RXCNT	sunxi_spdif.h	126;"	d
+SUNXI_SPDIF_RXFIFO	sunxi_spdif.h	60;"	d
+SUNXI_SPDIF_TXCFG	sunxi_spdif.h	36;"	d
+SUNXI_SPDIF_TXCFG_ASS	sunxi_spdif.h	38;"	d
+SUNXI_SPDIF_TXCFG_CHSTMODE	sunxi_spdif.h	45;"	d
+SUNXI_SPDIF_TXCFG_FMT16BIT	sunxi_spdif.h	42;"	d
+SUNXI_SPDIF_TXCFG_FMT20BIT	sunxi_spdif.h	43;"	d
+SUNXI_SPDIF_TXCFG_FMT24BIT	sunxi_spdif.h	44;"	d
+SUNXI_SPDIF_TXCFG_FMTRVD	sunxi_spdif.h	41;"	d
+SUNXI_SPDIF_TXCFG_NONAUDIO	sunxi_spdif.h	39;"	d
+SUNXI_SPDIF_TXCFG_SINGLEMOD	sunxi_spdif.h	37;"	d
+SUNXI_SPDIF_TXCFG_TXEN	sunxi_spdif.h	46;"	d
+SUNXI_SPDIF_TXCFG_TXRATIO	sunxi_spdif.h	40;"	d
+SUNXI_SPDIF_TXCHSTA0	sunxi_spdif.h	128;"	d
+SUNXI_SPDIF_TXCHSTA0_AUDIO	sunxi_spdif.h	137;"	d
+SUNXI_SPDIF_TXCHSTA0_CATACOD	sunxi_spdif.h	133;"	d
+SUNXI_SPDIF_TXCHSTA0_CHNUM	sunxi_spdif.h	131;"	d
+SUNXI_SPDIF_TXCHSTA0_CLK	sunxi_spdif.h	129;"	d
+SUNXI_SPDIF_TXCHSTA0_CP	sunxi_spdif.h	136;"	d
+SUNXI_SPDIF_TXCHSTA0_EMPHASIS	sunxi_spdif.h	135;"	d
+SUNXI_SPDIF_TXCHSTA0_MODE	sunxi_spdif.h	134;"	d
+SUNXI_SPDIF_TXCHSTA0_PRO	sunxi_spdif.h	138;"	d
+SUNXI_SPDIF_TXCHSTA0_SAMFREQ	sunxi_spdif.h	130;"	d
+SUNXI_SPDIF_TXCHSTA0_SRCNUM	sunxi_spdif.h	132;"	d
+SUNXI_SPDIF_TXCHSTA1	sunxi_spdif.h	140;"	d
+SUNXI_SPDIF_TXCHSTA1_CGMSA	sunxi_spdif.h	141;"	d
+SUNXI_SPDIF_TXCHSTA1_MAXWORDLEN	sunxi_spdif.h	144;"	d
+SUNXI_SPDIF_TXCHSTA1_ORISAMFREQ	sunxi_spdif.h	142;"	d
+SUNXI_SPDIF_TXCHSTA1_SAMWORDLEN	sunxi_spdif.h	143;"	d
+SUNXI_SPDIF_TXCNT	sunxi_spdif.h	124;"	d
+SUNXI_SPDIF_TXFIFO	sunxi_spdif.h	56;"	d
+SUNXI_SPDIF_TXFIFO	sunxi_spdif.h	58;"	d
+SUNXI_SRC1_CTRL1	sunxi_codec.h	117;"	d
+SUNXI_SRC1_CTRL2	sunxi_codec.h	118;"	d
+SUNXI_SRC1_CTRL3	sunxi_codec.h	119;"	d
+SUNXI_SRC1_CTRL4	sunxi_codec.h	120;"	d
+SUNXI_SRC2_CTRL1	sunxi_codec.h	121;"	d
+SUNXI_SRC2_CTRL2	sunxi_codec.h	122;"	d
+SUNXI_SRC2_CTRL3	sunxi_codec.h	123;"	d
+SUNXI_SRC2_CTRL4	sunxi_codec.h	124;"	d
+SUNXI_SRC_BISTCR	sunxi_codec.h	115;"	d
+SUNXI_SRC_BISTST	sunxi_codec.h	116;"	d
+SUNXI_SYSCLK_CTL	sunxi_codec.h	42;"	d
+SUNXI_SYS_DVC_MOD	sunxi_codec.h	47;"	d
+SUNXI_SYS_SRC_CLK	sunxi_codec.h	46;"	d
+SUNXI_SYS_SR_CTRL	sunxi_codec.h	45;"	d
+SUNXI_TDM_H_	sunxi_tdm_utils.h	17;"	d
+SUNXI_TXCHANMAP0_DEFAULT	sunxi_tdm_utils.h	131;"	d
+SUNXI_TXCHANMAP1_DEFAULT	sunxi_tdm_utils.h	145;"	d
+SUNXI_TXCHANMAP_DEFAULT	sunxi_tdm_utils.h	187;"	d
+SUNXI_TXCHCFG_RX_SLOT_NUM	sunxi_tdm_utils.h	103;"	d
+SUNXI_TXCHCFG_TX_SLOT_HIZ	sunxi_tdm_utils.h	101;"	d
+SUNXI_TXCHCFG_TX_SLOT_NUM	sunxi_tdm_utils.h	104;"	d
+SUNXI_TXCHCFG_TX_STATE	sunxi_tdm_utils.h	102;"	d
+SUNXI_TXCHSEL_CHNUM	sunxi_codec.h	2020;"	d
+SW	sunxi_codec.h	257;"	d
+SYSCLK_ENA	sunxi_codec.h	393;"	d
+SYSCLK_SRC	sunxi_codec.h	394;"	d
+SYSINIT_IRQ	sunxi_sndcodec.c	/^	SYSINIT_IRQ = 0x1,$/;"	e	enum:__anon1	file:
+TDM_CONFIG	sunxi_tdmhdmi.c	49;"	d	file:
+TIMEOUT_ZERO_CROSS_EN	sunxi_codec.h	1918;"	d
+TXE	sunxi_codec.h	296;"	d
+TXEI_EN	sunxi_codec.h	309;"	d
+TXEN	sunxi_codec.h	232;"	d
+TXE_CNT	sunxi_codec.h	297;"	d
+TXE_INT	sunxi_codec.h	268;"	d
+TXE_INT	sunxi_dsd.h	67;"	d
+TXIM	sunxi_codec.h	289;"	d
+TXIM	sunxi_dsd.h	51;"	d
+TXOI_EN	sunxi_codec.h	308;"	d
+TXO_INT	sunxi_codec.h	267;"	d
+TXO_INT	sunxi_dsd.h	68;"	d
+TXTL	sunxi_codec.h	287;"	d
+TXUI_EN	sunxi_codec.h	307;"	d
+TXU_INT	sunxi_codec.h	266;"	d
+TXU_INT	sunxi_dsd.h	69;"	d
+TX_CH0_MAP	sunxi_codec.h	359;"	d
+TX_CH1_MAP	sunxi_codec.h	358;"	d
+TX_CH2_MAP	sunxi_codec.h	357;"	d
+TX_CH3_MAP	sunxi_codec.h	356;"	d
+TX_CHAN0_MAP	sunxi_dsd.h	76;"	d
+TX_CHAN1_MAP	sunxi_dsd.h	75;"	d
+TX_CHSEL	sunxi_codec.h	349;"	d
+TX_CNT	sun8iw10_codec.h	95;"	d
+TX_CNT	sun8iw11_codec.h	99;"	d
+TX_CNT	sunxi_codec.h	335;"	d
+TX_CNT	sunxi_dsd.h	72;"	d
+TX_DATA	sun8iw10_codec.h	92;"	d
+TX_DATA	sun8iw11_codec.h	96;"	d
+TX_DATA	sunxi_codec.h	319;"	d
+TX_DATA	sunxi_dsd.h	64;"	d
+TX_DATA_MODE	sunxi_tdmhdmi.c	47;"	d	file:
+TX_DRQ	sunxi_codec.h	306;"	d
+TX_EN	sunxi_dsd.h	33;"	d
+TX_FIFO_DATA_COUNTER	sunxi_dsd.h	56;"	d
+TX_FIFO_DRQ_EN	sunxi_dsd.h	59;"	d
+TX_FIFO_EMPTY	sunxi_dsd.h	55;"	d
+TX_FIFO_EMPYT_IRQ_EN	sunxi_dsd.h	60;"	d
+TX_FIFO_FLUSH	sunxi_dsd.h	49;"	d
+TX_FIFO_FULL	sunxi_dsd.h	54;"	d
+TX_FIFO_TRIG_LEVEL	sunxi_dsd.h	50;"	d
+TX_FIFO_UNDERRUN_IRQ_EN	sunxi_dsd.h	61;"	d
+TX_PDM	sunxi_codec.h	260;"	d
+TX_SAMPLE_BITS	sun8iw10_codec.h	71;"	d
+TX_SAMPLE_BITS	sun8iw11_codec.h	74;"	d
+TX_TRIG_LEVEL	sun8iw10_codec.h	68;"	d
+TX_TRIG_LEVEL	sun8iw11_codec.h	71;"	d
+U	sunxi_dma.c	/^    unsigned U:1;$/;"	m	struct:headbpcuv	file:
+USB_BIAS_CUR	sunxi_codec.h	1919;"	d
+V	sunxi_dma.c	/^    unsigned V:1;$/;"	m	struct:headbpcuv	file:
+WSS	sunxi_codec.h	244;"	d
+ZC_VOL_CTRL	sunxi_codec.h	1728;"	d
+ZERO_CROSS_CTRL	sun8iw10_codec.h	48;"	d
+ZERO_CROSS_EN	sunxi_codec.h	1917;"	d
+_CS4385_H	cs4385.h	15;"	d
+_SUN50IW1_CODEC_H	sunxi_codec.h	16;"	d
+_SUN8IW10_CODEC_H	sun8iw10_codec.h	16;"	d
+_SUN8IW11_CODEC_H	sun8iw11_codec.h	16;"	d
+__BCLK_SET_INF	sunxi-sndspdif.c	/^typedef struct __BCLK_SET_INF$/;"	s	file:
+__MCLK_SET_INF	sunxi-sndspdif.c	/^typedef struct __MCLK_SET_INF$/;"	s	file:
+__SUNXI_HUB_H_	sunxi_hub.h	2;"	d
+__SUNXI_I2S_H__	sunxi_cpudai.h	2;"	d
+__SUNXI_I2S_H__	sunxi_i2s.h	2;"	d
+__SUNXI_RW_FUNC__	sunxi_rw_func.h	2;"	d
+__bclk_set_inf	sunxi-sndspdif.c	/^} __bclk_set_inf;$/;"	t	typeref:struct:__BCLK_SET_INF	file:
+__mclk_set_inf	sunxi-sndspdif.c	/^} __mclk_set_inf;$/;"	t	typeref:struct:__MCLK_SET_INF	file:
+__this_module	sunxi_codec.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	sunxi_i2s.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	sunxi_sndcodec.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__used	sunxi_codec.mod.c	/^__used$/;"	v	file:
+__used	sunxi_codec.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	sunxi_i2s.mod.c	/^__used$/;"	v	file:
+__used	sunxi_i2s.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	sunxi_sndcodec.mod.c	/^__used$/;"	v	file:
+__used	sunxi_sndcodec.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+_i2s_bclk_div_s	sunxi_tdm_utils.h	/^struct _i2s_bclk_div_s {$/;"	s
+_jack_irq_times	sunxi_sndcodec.c	/^} _jack_irq_times;$/;"	t	typeref:enum:__anon1	file:
+_pcm_bclk_div_s	sunxi_tdm_utils.h	/^struct _pcm_bclk_div_s {$/;"	s
+ac_aif1clk	sunxi_codec.c	/^int ac_aif1clk(struct snd_soc_dapm_widget *w,$/;"	f
+ac_aif2clk	sunxi_codec.c	/^int ac_aif2clk(struct snd_soc_dapm_widget *w,$/;"	f
+ac_aif3clk	sunxi_codec.c	/^int ac_aif3clk(struct snd_soc_dapm_widget *w,$/;"	f
+ac_dapm_routes	sun8iw10_codec.c	/^static const struct snd_soc_dapm_route ac_dapm_routes[] = {$/;"	v	typeref:struct:snd_soc_dapm_route	file:
+ac_dapm_routes	sun8iw11_codec.c	/^static const struct snd_soc_dapm_route ac_dapm_routes[] = {$/;"	v	typeref:struct:snd_soc_dapm_route	file:
+ac_dapm_routes	sunxi_codec.c	/^static const struct snd_soc_dapm_route ac_dapm_routes[] = {$/;"	v	typeref:struct:snd_soc_dapm_route	file:
+ac_dapm_widgets	sun8iw10_codec.c	/^static const struct snd_soc_dapm_widget ac_dapm_widgets[] = {$/;"	v	typeref:struct:snd_soc_dapm_widget	file:
+ac_dapm_widgets	sun8iw11_codec.c	/^static const struct snd_soc_dapm_widget ac_dapm_widgets[] = {$/;"	v	typeref:struct:snd_soc_dapm_widget	file:
+ac_dapm_widgets	sunxi_codec.c	/^static const struct snd_soc_dapm_widget ac_dapm_widgets[] = {$/;"	v	typeref:struct:snd_soc_dapm_widget	file:
+ac_earpiece_event	sunxi_codec.c	/^static int ac_earpiece_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+ac_earpiece_func_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_earpiece_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_earpiece_func_enum	sunxi_codec.c	/^static const struct soc_enum ac_earpiece_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_earpiece_func_sel	sunxi_codec.c	/^static const char *ac_earpiece_func_sel[] = {$/;"	v	file:
+ac_headphone_event	sun8iw10_codec.c	/^static int ac_headphone_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+ac_headphone_event	sun8iw11_codec.c	/^static int ac_headphone_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+ac_headphone_event	sunxi_codec.c	/^static int ac_headphone_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+ac_hp_l_func_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new ac_hp_l_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_hp_l_func_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new ac_hp_l_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_hp_l_func_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_hp_l_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_hp_l_func_enum	sun8iw10_codec.c	/^static const struct soc_enum ac_hp_l_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_hp_l_func_enum	sun8iw11_codec.c	/^static const struct soc_enum ac_hp_l_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_hp_l_func_enum	sunxi_codec.c	/^static const struct soc_enum ac_hp_l_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_hp_l_func_sel	sun8iw10_codec.c	/^static const char *ac_hp_l_func_sel[] = {$/;"	v	file:
+ac_hp_l_func_sel	sun8iw11_codec.c	/^static const char *ac_hp_l_func_sel[] = {$/;"	v	file:
+ac_hp_l_func_sel	sunxi_codec.c	/^static const char *ac_hp_l_func_sel[] = {$/;"	v	file:
+ac_hp_r_func_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new ac_hp_r_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_hp_r_func_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new ac_hp_r_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_hp_r_func_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_hp_r_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_hp_r_func_enum	sun8iw10_codec.c	/^static const struct soc_enum ac_hp_r_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_hp_r_func_enum	sun8iw11_codec.c	/^static const struct soc_enum ac_hp_r_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_hp_r_func_enum	sunxi_codec.c	/^static const struct soc_enum ac_hp_r_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_hp_r_func_sel	sun8iw10_codec.c	/^static const char *ac_hp_r_func_sel[] = {$/;"	v	file:
+ac_hp_r_func_sel	sun8iw11_codec.c	/^static const char *ac_hp_r_func_sel[] = {$/;"	v	file:
+ac_hp_r_func_sel	sunxi_codec.c	/^static const char *ac_hp_r_func_sel[] = {$/;"	v	file:
+ac_ladcmix_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new ac_ladcmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_ladcmix_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new ac_ladcmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_ladcmix_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_ladcmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_loutmix_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new ac_loutmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_loutmix_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new ac_loutmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_loutmix_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_loutmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_lspks_func_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new ac_lspks_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_lspks_func_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_lspks_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_lspks_func_enum	sun8iw10_codec.c	/^static const struct soc_enum ac_lspks_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_lspks_func_enum	sunxi_codec.c	/^static const struct soc_enum ac_lspks_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_lspks_l_func_sel	sun8iw10_codec.c	/^static const char *ac_lspks_l_func_sel[] = {$/;"	v	file:
+ac_lspks_l_func_sel	sunxi_codec.c	/^static const char *ac_lspks_l_func_sel[] = {$/;"	v	file:
+ac_phoneoutmix_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new ac_phoneoutmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_pin_controls	sun8iw10_sndcodec.c	/^static const struct snd_kcontrol_new ac_pin_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_pin_controls	sun8iw11_sndcodec.c	/^static const struct snd_kcontrol_new ac_pin_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_pin_controls	sunxi_sndcodec.c	/^static const struct snd_kcontrol_new ac_pin_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_radcmix_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new ac_radcmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_radcmix_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_radcmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_routmix_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new ac_routmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_routmix_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new ac_routmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_routmix_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_routmix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_rspks_func_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new ac_rspks_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_rspks_func_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new ac_rspks_func_controls =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+ac_rspks_func_enum	sun8iw10_codec.c	/^static const struct soc_enum ac_rspks_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_rspks_func_enum	sunxi_codec.c	/^static const struct soc_enum ac_rspks_func_enum =$/;"	v	typeref:struct:soc_enum	file:
+ac_rspks_func_sel	sun8iw10_codec.c	/^static const char *ac_rspks_func_sel[] = {$/;"	v	file:
+ac_rspks_func_sel	sunxi_codec.c	/^static const char *ac_rspks_func_sel[] = {$/;"	v	file:
+ac_speaker_event	sun8iw10_codec.c	/^static int ac_speaker_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+ac_speaker_event	sunxi_codec.c	/^static int ac_speaker_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+adc_enable	sun8iw10_codec.h	/^	u32 adc_enable;$/;"	m	struct:sunxi_codec
+adc_enable	sun8iw11_codec.h	/^	u32 adc_enable;$/;"	m	struct:sunxi_codec
+adc_enable	sunxi_codec.h	/^	u32 adc_enable;$/;"	m	struct:sunxi_codec
+adc_enum	sunxi_codec.c	/^static const struct soc_enum adc_enum =$/;"	v	typeref:struct:soc_enum	file:
+adc_mutex	sun8iw10_codec.h	/^	struct mutex adc_mutex;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::mutex
+adc_mutex	sun8iw11_codec.h	/^	struct mutex adc_mutex;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::mutex
+adc_mutex	sunxi_codec.h	/^	struct mutex adc_mutex;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::mutex
+adc_mux_text	sunxi_codec.c	/^static const char *adc_mux_text[] = {$/;"	v	file:
+adcagc_cfg	sun8iw10_codec.h	/^	u32 adcagc_cfg:1;$/;"	m	struct:codec_hw_config
+adcagc_cfg	sun8iw11_codec.h	/^	u32 adcagc_cfg:1;$/;"	m	struct:codec_hw_config
+adcagc_cfg	sunxi_codec.h	/^	u32 adcagc_cfg:1;$/;"	m	struct:codec_hw_config
+adcagc_config	sunxi_codec.c	/^static void adcagc_config(struct snd_soc_codec *codec)$/;"	f	file:
+adcagc_enable	sunxi_codec.c	/^static void adcagc_enable(struct snd_soc_codec *codec,bool on)$/;"	f	file:
+adcdrc_cfg	sun8iw10_codec.h	/^	u32 adcdrc_cfg:1;$/;"	m	struct:codec_hw_config
+adcdrc_cfg	sun8iw11_codec.h	/^	u32 adcdrc_cfg:1;$/;"	m	struct:codec_hw_config
+adcdrc_cfg	sunxi_codec.h	/^	u32 adcdrc_cfg:1;$/;"	m	struct:codec_hw_config
+adcdrc_config	sunxi_codec.c	/^static void adcdrc_config(struct snd_soc_codec *codec)$/;"	f	file:
+adcdrc_enable	sunxi_codec.c	/^static void adcdrc_enable(struct snd_soc_codec *codec,bool on)$/;"	f	file:
+adchpf_cfg	sun8iw10_codec.h	/^	u32 adchpf_cfg:1;$/;"	m	struct:codec_hw_config
+adchpf_cfg	sun8iw11_codec.h	/^	u32 adchpf_cfg:1;$/;"	m	struct:codec_hw_config
+adchpf_cfg	sunxi_codec.h	/^	u32 adchpf_cfg:1;$/;"	m	struct:codec_hw_config
+adchpf_config	sunxi_codec.c	/^static void adchpf_config(struct snd_soc_codec *codec)$/;"	f	file:
+adchpf_enable	sunxi_codec.c	/^static void adchpf_enable(struct snd_soc_codec *codec,bool on)$/;"	f	file:
+adcl_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new adcl_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+adcr_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new adcr_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1_ad0l_mxr_src_ctl	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1_ad0l_mxr_src_ctl[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1_ad0r_mxr_src_ctl	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1_ad0r_mxr_src_ctl[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1_ad1l_mxr_src_ctl	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1_ad1l_mxr_src_ctl[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1_ad1r_mxr_src_ctl	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1_ad1r_mxr_src_ctl[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1_bclk_div	sunxi_codec.c	/^	int aif1_bclk_div;$/;"	m	struct:aif1_fs	file:
+aif1_clken	sunxi_codec.h	/^	u32 aif1_clken;$/;"	m	struct:sunxi_codec
+aif1_fs	sunxi_codec.c	/^struct aif1_fs {$/;"	s	file:
+aif1_lrck	sunxi_codec.c	/^struct aif1_lrck {$/;"	s	file:
+aif1_lrlk_bit	sunxi_codec.c	/^	int aif1_lrlk_bit;$/;"	m	struct:aif1_lrck	file:
+aif1_lrlk_div	sunxi_codec.c	/^	int aif1_lrlk_div;$/;"	m	struct:aif1_lrck	file:
+aif1_lrlk_div	sunxi_codec.h	/^	u32 aif1_lrlk_div;$/;"	m	struct:sunxi_codec
+aif1_srbit	sunxi_codec.c	/^	int aif1_srbit;$/;"	m	struct:aif1_fs	file:
+aif1_word_size	sunxi_codec.c	/^struct aif1_word_size {$/;"	s	file:
+aif1_wsize_bit	sunxi_codec.c	/^	int aif1_wsize_bit;$/;"	m	struct:aif1_word_size	file:
+aif1_wsize_val	sunxi_codec.c	/^	int aif1_wsize_val;$/;"	m	struct:aif1_word_size	file:
+aif1in0l_enum	sunxi_codec.c	/^static const struct soc_enum aif1in0l_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1in0l_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1in0l_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1in0l_text	sunxi_codec.c	/^static const char *aif1in0l_text[] = {$/;"	v	file:
+aif1in0r_enum	sunxi_codec.c	/^static const struct soc_enum aif1in0r_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1in0r_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1in0r_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1in0r_text	sunxi_codec.c	/^static const char *aif1in0r_text[] = {$/;"	v	file:
+aif1in1l_enum	sunxi_codec.c	/^static const struct soc_enum aif1in1l_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1in1l_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1in1l_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1in1l_text	sunxi_codec.c	/^static const char *aif1in1l_text[] = {$/;"	v	file:
+aif1in1r_enum	sunxi_codec.c	/^static const struct soc_enum aif1in1r_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1in1r_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1in1r_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1in1r_text	sunxi_codec.c	/^static const char *aif1in1r_text[] = {$/;"	v	file:
+aif1out0l_enum	sunxi_codec.c	/^static const struct soc_enum aif1out0l_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1out0l_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1out0l_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1out0l_text	sunxi_codec.c	/^static const char *aif1out0l_text[] = {$/;"	v	file:
+aif1out0r_enum	sunxi_codec.c	/^static const struct soc_enum aif1out0r_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1out0r_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1out0r_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1out0r_text	sunxi_codec.c	/^static const char *aif1out0r_text[] = {$/;"	v	file:
+aif1out1l_enum	sunxi_codec.c	/^static const struct soc_enum aif1out1l_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1out1l_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1out1l_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1out1l_text	sunxi_codec.c	/^static const char *aif1out1l_text[] = {$/;"	v	file:
+aif1out1r_enum	sunxi_codec.c	/^static const struct soc_enum aif1out1r_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif1out1r_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif1out1r_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif1out1r_text	sunxi_codec.c	/^static const char *aif1out1r_text[] = {$/;"	v	file:
+aif2_adcl_mxr_src_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2_adcl_mxr_src_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2_adcr_mxr_src_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2_adcr_mxr_src_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2_clken	sunxi_codec.h	/^	u32 aif2_clken;$/;"	m	struct:sunxi_codec
+aif2_lrlk_div	sunxi_codec.h	/^	u32 aif2_lrlk_div;$/;"	m	struct:sunxi_codec
+aif2_pinstate	sunxi_codec.h	/^	struct pinctrl_state  *aif2_pinstate;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::pinctrl_state
+aif2config	sunxi_codec.h	/^	u32 aif2config:1;$/;"	m	struct:aif_config
+aif2dacin_enum	sunxi_codec.c	/^static const struct soc_enum aif2dacin_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif2dacin_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2dacin_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2dacin_text	sunxi_codec.c	/^static const char *aif2dacin_text[] = {$/;"	v	file:
+aif2fmt	sunxi_sndcodec.c	/^	u32 aif2fmt;$/;"	m	struct:mc_private	file:
+aif2inl_aif2switch	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2inl_aif2switch =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2inl_aif3switch	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2inl_aif3switch =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2inl_enum	sunxi_codec.c	/^static const struct soc_enum aif2inl_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif2inl_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2inl_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2inl_text	sunxi_codec.c	/^static const char *aif2inl_text[] = {$/;"	v	file:
+aif2inl_vir_event	sunxi_codec.c	/^static int aif2inl_vir_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+aif2inr_aif2switch	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2inr_aif2switch =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2inr_aif3switch	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2inr_aif3switch =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2inr_enum	sunxi_codec.c	/^static const struct soc_enum aif2inr_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif2inr_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2inr_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2inr_text	sunxi_codec.c	/^static const char *aif2inr_text[] = {$/;"	v	file:
+aif2inr_vir_event	sunxi_codec.c	/^static int aif2inr_vir_event(struct snd_soc_dapm_widget *w,$/;"	f	file:
+aif2master	sunxi_sndcodec.c	/^	u32 aif2master;$/;"	m	struct:mc_private	file:
+aif2outl_enum	sunxi_codec.c	/^static const struct soc_enum aif2outl_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif2outl_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2outl_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2outl_text	sunxi_codec.c	/^static const char *aif2outl_text[] = {$/;"	v	file:
+aif2outr_enum	sunxi_codec.c	/^static const struct soc_enum aif2outr_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif2outr_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif2outr_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif2outr_text	sunxi_codec.c	/^static const char *aif2outr_text[] = {$/;"	v	file:
+aif2sleep_pinstate	sunxi_codec.h	/^	struct pinctrl_state  *aif2sleep_pinstate;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::pinctrl_state
+aif3_clken	sunxi_codec.h	/^	u32 aif3_clken;$/;"	m	struct:sunxi_codec
+aif3_pinstate	sunxi_codec.h	/^	struct pinctrl_state  *aif3_pinstate;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::pinctrl_state
+aif3config	sunxi_codec.h	/^	u32 aif3config:1;$/;"	m	struct:aif_config
+aif3fmt	sunxi_sndcodec.c	/^	u32 aif3fmt;$/;"	m	struct:mc_private	file:
+aif3out_enum	sunxi_codec.c	/^static const struct soc_enum aif3out_enum =$/;"	v	typeref:struct:soc_enum	file:
+aif3out_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new aif3out_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+aif3out_text	sunxi_codec.c	/^static const char *aif3out_text[] = {$/;"	v	file:
+aif3out_values	sunxi_codec.c	/^static const unsigned int aif3out_values[] = {1,2};$/;"	v	file:
+aif3sleep_pinstate	sunxi_codec.h	/^	struct pinctrl_state  *aif3sleep_pinstate;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::pinctrl_state
+aif_config	sunxi_codec.h	/^	struct aif_config aif_config;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::aif_config
+aif_config	sunxi_codec.h	/^struct aif_config{$/;"	s
+aifclk_mutex	sunxi_codec.h	/^	struct mutex aifclk_mutex;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::mutex
+asoc_dma_platform_register	sunxi_dma.c	/^EXPORT_SYMBOL_GPL(asoc_dma_platform_register);$/;"	v
+asoc_dma_platform_register	sunxi_dma.c	/^int asoc_dma_platform_register(struct device *dev,unsigned int flags)$/;"	f
+asoc_dma_platform_unregister	sunxi_dma.c	/^EXPORT_SYMBOL_GPL(asoc_dma_platform_unregister);$/;"	v
+asoc_dma_platform_unregister	sunxi_dma.c	/^void asoc_dma_platform_unregister(struct device *dev)$/;"	f
+audio_debug_attr_group	sun8iw10_codec.c	/^static struct attribute_group audio_debug_attr_group = {$/;"	v	typeref:struct:attribute_group	file:
+audio_debug_attr_group	sun8iw11_codec.c	/^static struct attribute_group audio_debug_attr_group = {$/;"	v	typeref:struct:attribute_group	file:
+audio_debug_attr_group	sunxi_codec.c	/^static struct attribute_group audio_debug_attr_group = {$/;"	v	typeref:struct:attribute_group	file:
+audio_debug_attrs	sun8iw10_codec.c	/^static struct attribute *audio_debug_attrs[] = {$/;"	v	typeref:struct:attribute	file:
+audio_debug_attrs	sun8iw11_codec.c	/^static struct attribute *audio_debug_attrs[] = {$/;"	v	typeref:struct:attribute	file:
+audio_debug_attrs	sunxi_codec.c	/^static struct attribute *audio_debug_attrs[] = {$/;"	v	typeref:struct:attribute	file:
+audio_format	sunxi_tdm_utils.h	/^	u32 audio_format;$/;"	m	struct:sunxi_tdm_info
+audio_gpio_iodisable	sun8iw10_codec.c	/^int audio_gpio_iodisable(u32 gpio)$/;"	f
+audio_gpio_iodisable	sun8iw11_codec.c	/^int audio_gpio_iodisable(u32 gpio)$/;"	f
+audio_gpio_iodisable	sunxi_codec.c	/^int audio_gpio_iodisable(u32 gpio){$/;"	f
+audio_map	sun8iw10_sndcodec.c	/^static const struct snd_soc_dapm_route audio_map[] = {$/;"	v	typeref:struct:snd_soc_dapm_route	file:
+audio_map	sun8iw11_sndcodec.c	/^static const struct snd_soc_dapm_route audio_map[] = {$/;"	v	typeref:struct:snd_soc_dapm_route	file:
+audio_map	sunxi_sndcodec.c	/^static const struct snd_soc_dapm_route audio_map[] = {$/;"	v	typeref:struct:snd_soc_dapm_route	file:
+audio_set_hdmi_func	sndhdmi.c	/^EXPORT_SYMBOL(audio_set_hdmi_func);$/;"	v
+audio_set_hdmi_func	sndhdmi.c	/^void audio_set_hdmi_func(__audio_hdmi_func *hdmi_func)$/;"	f
+audiodebug_reg_read	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(audiodebug_reg_read);/;"	v
+audiodebug_reg_read	sunxi_rw_func.c	/^u32 audiodebug_reg_read(u32 reg)$/;"	f
+avcc	sun8iw10_codec.h	/^	struct regulator *avcc;$/;"	m	struct:voltage_supply	typeref:struct:voltage_supply::regulator
+avcc	sun8iw11_codec.h	/^	struct regulator *avcc;$/;"	m	struct:voltage_supply	typeref:struct:voltage_supply::regulator
+avcc	sunxi_codec.h	/^	struct regulator *avcc;$/;"	m	struct:voltage_supply	typeref:struct:voltage_supply::regulator
+bb_clk_hw_params	sunxi_sndcodec.c	/^static int bb_clk_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+bb_clk_ops	sunxi_sndcodec.c	/^static struct snd_soc_ops bb_clk_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+bb_voice_hw_params	sunxi_sndcodec.c	/^static int bb_voice_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+bb_voice_ops	sunxi_sndcodec.c	/^static struct snd_soc_ops bb_voice_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+bclk_div	sunxi_tdm_utils.h	/^	int bclk_div;$/;"	m	struct:_i2s_bclk_div_s
+bclk_div	sunxi_tdm_utils.h	/^	int bclk_div;$/;"	m	struct:_pcm_bclk_div_s
+bclk_div_regval	sunxi_tdm_utils.h	/^	int bclk_div_regval;$/;"	m	struct:_i2s_bclk_div_s
+bclk_div_regval	sunxi_tdm_utils.h	/^	int bclk_div_regval;$/;"	m	struct:_pcm_bclk_div_s
+bclk_freq	sunxi_tdm_utils.h	/^	int bclk_freq;$/;"	m	struct:_i2s_bclk_div_s
+bclk_freq	sunxi_tdm_utils.h	/^	int bclk_freq;$/;"	m	struct:_pcm_bclk_div_s
+bit0	sunxi_dma.c	/^		unsigned int bit0:1;$/;"	m	struct:word::__anon2	file:
+bit1	sunxi_dma.c	/^		unsigned int bit1:1;$/;"	m	struct:word::__anon2	file:
+bit10	sunxi_dma.c	/^		unsigned int bit10:1;$/;"	m	struct:word::__anon2	file:
+bit11	sunxi_dma.c	/^		unsigned int bit11:1;$/;"	m	struct:word::__anon2	file:
+bit12	sunxi_dma.c	/^		unsigned int bit12:1;$/;"	m	struct:word::__anon2	file:
+bit13	sunxi_dma.c	/^		unsigned int bit13:1;$/;"	m	struct:word::__anon2	file:
+bit14	sunxi_dma.c	/^		unsigned int bit14:1;$/;"	m	struct:word::__anon2	file:
+bit15	sunxi_dma.c	/^		unsigned int bit15:1;$/;"	m	struct:word::__anon2	file:
+bit2	sunxi_dma.c	/^		unsigned int bit2:1;$/;"	m	struct:word::__anon2	file:
+bit3	sunxi_dma.c	/^		unsigned int bit3:1;$/;"	m	struct:word::__anon2	file:
+bit4	sunxi_dma.c	/^		unsigned int bit4:1;$/;"	m	struct:word::__anon2	file:
+bit5	sunxi_dma.c	/^		unsigned int bit5:1;$/;"	m	struct:word::__anon2	file:
+bit6	sunxi_dma.c	/^		unsigned int bit6:1;$/;"	m	struct:word::__anon2	file:
+bit7	sunxi_dma.c	/^		unsigned int bit7:1;$/;"	m	struct:word::__anon2	file:
+bit8	sunxi_dma.c	/^		unsigned int bit8:1;$/;"	m	struct:word::__anon2	file:
+bit9	sunxi_dma.c	/^		unsigned int bit9:1;$/;"	m	struct:word::__anon2	file:
+bitpersamp	sunxi-sndspdif.c	/^    __u8    bitpersamp;     \/*bits per sample*\/$/;"	m	struct:__BCLK_SET_INF	file:
+bits	sunxi_dma.c	/^	}bits;$/;"	m	union:word	typeref:struct:word::__anon2	file:
+bt_hw_params	sunxi_sndcodec.c	/^static int bt_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+bt_voice_ops	sunxi_sndcodec.c	/^static struct snd_soc_ops bt_voice_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+capture_dma_param	sunxi_cpudai.h	/^	struct sunxi_dma_params capture_dma_param;$/;"	m	struct:sunxi_cpudai	typeref:struct:sunxi_cpudai::sunxi_dma_params
+capture_dma_param	sunxi_dmic.h	/^	struct sunxi_dma_params capture_dma_param;$/;"	m	struct:sunxi_dmic_info	typeref:struct:sunxi_dmic_info::sunxi_dma_params
+capture_dma_param	sunxi_i2s.h	/^	struct sunxi_dma_params capture_dma_param;$/;"	m	struct:sunxi_i2s	typeref:struct:sunxi_i2s::sunxi_dma_params
+capture_dma_param	sunxi_spdif.h	/^	struct sunxi_dma_params capture_dma_param;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::sunxi_dma_params
+capture_dma_param	sunxi_tdm_utils.h	/^	struct sunxi_dma_params capture_dma_param;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::sunxi_dma_params
+card0_device0_interface	sunxi_sndcodec.c	/^static struct snd_soc_dai *card0_device0_interface;$/;"	v	typeref:struct:snd_soc_dai	file:
+cfg	sun8iw10_codec.h	/^	bool cfg;$/;"	m	struct:spk_gpio_
+cfg	sun8iw11_codec.h	/^	bool cfg;$/;"	m	struct:spk_gpio_
+cfg	sunxi_codec.h	/^	bool cfg;$/;"	m	struct:spk_gpio_
+chan_bit	sunxi_dmic.c	/^	unsigned int chan_bit;$/;"	m	struct:dmic_ch_en	file:
+channel	sunxi_dmic.c	/^	unsigned int channel;$/;"	m	struct:dmic_ch_en	file:
+channel_status	sunxi_dma.c	/^static unsigned int channel_status[192];$/;"	v	file:
+clk_div	sunxi-sndspdif.c	/^    __u8    clk_div;        \/*clock division*\/$/;"	m	struct:__BCLK_SET_INF	file:
+clk_div	sunxi-sndspdif.c	/^    __u8    clk_div;        \/*mpll division*\/$/;"	m	struct:__MCLK_SET_INF	file:
+clk_enable_cnt	sunxi_dmic.h	/^	u32 clk_enable_cnt;$/;"	m	struct:sunxi_dmic_info
+clk_enable_cnt	sunxi_dsd.h	/^	u32 clk_enable_cnt;$/;"	m	struct:sunxi_dsd_info
+clk_enable_cnt	sunxi_spdif.h	/^	u32 clk_enable_cnt;$/;"	m	struct:sunxi_spdif_info
+clk_enable_cnt	sunxi_tdm_utils.h	/^	u32 clk_enable_cnt;$/;"	m	struct:sunxi_tdm_info
+codec	sun8iw10_codec.h	/^	struct snd_soc_codec *codec;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::snd_soc_codec
+codec	sun8iw11_codec.h	/^	struct snd_soc_codec *codec;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::snd_soc_codec
+codec	sunxi_codec.h	/^	struct snd_soc_codec *codec;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::snd_soc_codec
+codec	sunxi_sndcodec.c	/^	struct snd_soc_codec *codec;$/;"	m	struct:mc_private	typeref:struct:mc_private::snd_soc_codec	file:
+codec_FORMATS	sunxi_codec.c	41;"	d	file:
+codec_RATES	sunxi_codec.c	40;"	d	file:
+codec_abase	sun8iw10_codec.h	/^	void __iomem *codec_abase;$/;"	m	struct:sunxi_codec
+codec_abase	sun8iw11_codec.h	/^	void __iomem *codec_abase;$/;"	m	struct:sunxi_codec
+codec_abase	sunxi_codec.h	/^	void __iomem *codec_abase;$/;"	m	struct:sunxi_codec
+codec_aif1_dai_ops	sunxi_codec.c	/^static const struct snd_soc_dai_ops codec_aif1_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+codec_aif1_fs	sunxi_codec.c	/^static const struct aif1_fs codec_aif1_fs[] = {$/;"	v	typeref:struct:aif1_fs	file:
+codec_aif1_lrck	sunxi_codec.c	/^static const struct aif1_lrck codec_aif1_lrck[] = {$/;"	v	typeref:struct:aif1_lrck	file:
+codec_aif1_wsize	sunxi_codec.c	/^static const struct aif1_word_size codec_aif1_wsize[] = {$/;"	v	typeref:struct:aif1_word_size	file:
+codec_aif2_dai_ops	sunxi_codec.c	/^static const struct snd_soc_dai_ops codec_aif2_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+codec_aif3_dai_ops	sunxi_codec.c	/^static const struct snd_soc_dai_ops codec_aif3_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+codec_aif3_hw_params	sunxi_codec.c	/^static int codec_aif3_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_aif3_set_dai_fmt	sunxi_codec.c	/^static int codec_aif3_set_dai_fmt(struct snd_soc_dai *codec_dai,$/;"	f	file:
+codec_aif_mute	sunxi_codec.c	/^static int codec_aif_mute(struct snd_soc_dai *codec_dai, int mute)$/;"	f	file:
+codec_aif_shutdown	sunxi_codec.c	/^static void codec_aif_shutdown(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_analogadress	sun8iw10_codec.c	/^void __iomem *codec_analogadress;$/;"	v
+codec_analogadress	sun8iw11_codec.c	/^void __iomem *codec_analogadress;$/;"	v
+codec_analogadress	sunxi_codec.c	/^void __iomem *codec_analogadress;$/;"	v
+codec_dai	sun8iw10_codec.c	/^static struct snd_soc_dai_driver codec_dai[] = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+codec_dai	sun8iw11_codec.c	/^static struct snd_soc_dai_driver codec_dai[] = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+codec_dai	sunxi_codec.c	/^static struct snd_soc_dai_driver codec_dai[] = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+codec_dai_ops	sun8iw10_codec.c	/^static const struct snd_soc_dai_ops codec_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+codec_dai_ops	sun8iw11_codec.c	/^static const struct snd_soc_dai_ops codec_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+codec_dbase	sun8iw10_codec.h	/^	void __iomem *codec_dbase;$/;"	m	struct:sunxi_codec
+codec_dbase	sun8iw11_codec.h	/^	void __iomem *codec_dbase;$/;"	m	struct:sunxi_codec
+codec_dbase	sunxi_codec.h	/^	void __iomem *codec_dbase;$/;"	m	struct:sunxi_codec
+codec_digitaladress	sun8iw10_codec.c	/^void __iomem *codec_digitaladress;$/;"	v
+codec_digitaladress	sun8iw11_codec.c	/^void __iomem *codec_digitaladress;$/;"	v
+codec_digitaladress	sunxi_codec.c	/^void __iomem *codec_digitaladress;$/;"	v
+codec_hw_config	sun8iw10_codec.h	/^struct codec_hw_config {$/;"	s
+codec_hw_config	sun8iw11_codec.h	/^struct codec_hw_config {$/;"	s
+codec_hw_config	sunxi_codec.h	/^struct codec_hw_config {$/;"	s
+codec_hw_params	sun8iw10_codec.c	/^static int codec_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_hw_params	sun8iw11_codec.c	/^static int codec_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_hw_params	sunxi_codec.c	/^static int codec_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_init	sun8iw10_codec.c	/^static int codec_init(struct sunxi_codec *sunxi_internal_codec)$/;"	f	file:
+codec_init	sun8iw11_codec.c	/^static int codec_init(struct sunxi_codec *sunxi_internal_codec)$/;"	f	file:
+codec_init	sunxi_codec.c	/^static int codec_init(struct sunxi_codec *sunxi_internal_codec)$/;"	f	file:
+codec_mute	sun8iw10_codec.c	/^static int codec_mute(struct snd_soc_dai *codec_dai, int mute)$/;"	f	file:
+codec_mute	sun8iw11_codec.c	/^static int codec_mute(struct snd_soc_dai *codec_dai, int mute)$/;"	f	file:
+codec_rdreg	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(codec_rdreg);$/;"	v
+codec_rdreg	sunxi_rw_func.c	/^u32 codec_rdreg(void __iomem * address)$/;"	f
+codec_read	sun8iw10_codec.c	/^static unsigned int codec_read(struct snd_soc_codec *codec,$/;"	f	file:
+codec_read	sun8iw11_codec.c	/^static unsigned int codec_read(struct snd_soc_codec *codec,$/;"	f	file:
+codec_read	sunxi_codec.c	/^static unsigned int codec_read(struct snd_soc_codec *codec,$/;"	f	file:
+codec_resume	sun8iw10_codec.c	/^static int codec_resume(struct snd_soc_codec *codec)$/;"	f	file:
+codec_resume	sun8iw11_codec.c	/^static int codec_resume(struct snd_soc_codec *codec)$/;"	f	file:
+codec_resume	sunxi_codec.c	/^static int codec_resume(struct snd_soc_codec *codec)$/;"	f	file:
+codec_set_bias_level	sun8iw10_codec.c	/^static int codec_set_bias_level(struct snd_soc_codec *codec,$/;"	f	file:
+codec_set_bias_level	sun8iw11_codec.c	/^static int codec_set_bias_level(struct snd_soc_codec *codec,$/;"	f	file:
+codec_set_bias_level	sunxi_codec.c	/^static int codec_set_bias_level(struct snd_soc_codec *codec,$/;"	f	file:
+codec_set_dai_fmt	sun8iw10_codec.c	/^static int codec_set_dai_fmt(struct snd_soc_dai *codec_dai,$/;"	f	file:
+codec_set_dai_fmt	sun8iw11_codec.c	/^static int codec_set_dai_fmt(struct snd_soc_dai *codec_dai,$/;"	f	file:
+codec_set_dai_fmt	sunxi_codec.c	/^static int codec_set_dai_fmt(struct snd_soc_dai *codec_dai,$/;"	f	file:
+codec_set_dai_sysclk	sun8iw10_codec.c	/^static int codec_set_dai_sysclk(struct snd_soc_dai *codec_dai,$/;"	f	file:
+codec_set_dai_sysclk	sun8iw11_codec.c	/^static int codec_set_dai_sysclk(struct snd_soc_dai *codec_dai,$/;"	f	file:
+codec_set_dai_sysclk	sunxi_codec.c	/^static int codec_set_dai_sysclk(struct snd_soc_dai *codec_dai,$/;"	f	file:
+codec_set_fll	sunxi_codec.c	/^static int codec_set_fll(struct snd_soc_dai *codec_dai, int pll_id, int source,$/;"	f	file:
+codec_shutdown	sun8iw10_codec.c	/^static void codec_shutdown(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_shutdown	sun8iw11_codec.c	/^static void codec_shutdown(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_soc_probe	sun8iw10_codec.c	/^static int codec_soc_probe(struct snd_soc_codec *codec)$/;"	f	file:
+codec_soc_probe	sun8iw11_codec.c	/^static int codec_soc_probe(struct snd_soc_codec *codec)$/;"	f	file:
+codec_soc_probe	sunxi_codec.c	/^static int codec_soc_probe(struct snd_soc_codec *codec)$/;"	f	file:
+codec_soc_remove	sun8iw10_codec.c	/^static int codec_soc_remove(struct snd_soc_codec *codec)$/;"	f	file:
+codec_soc_remove	sun8iw11_codec.c	/^static int codec_soc_remove(struct snd_soc_codec *codec)$/;"	f	file:
+codec_soc_remove	sunxi_codec.c	/^static int codec_soc_remove(struct snd_soc_codec *codec)$/;"	f	file:
+codec_sr	sun8iw10_codec.c	/^struct codec_sr {$/;"	s	file:
+codec_sr	sun8iw11_codec.c	/^struct codec_sr {$/;"	s	file:
+codec_sr_s	sun8iw10_codec.c	/^static const struct codec_sr codec_sr_s[] = {$/;"	v	typeref:struct:codec_sr	file:
+codec_sr_s	sun8iw11_codec.c	/^static const struct codec_sr codec_sr_s[] = {$/;"	v	typeref:struct:codec_sr	file:
+codec_start	sun8iw10_codec.c	/^static int codec_start(struct snd_pcm_substream *substream, struct snd_soc_dai *codec_dai)$/;"	f	file:
+codec_start	sun8iw11_codec.c	/^static int codec_start(struct snd_pcm_substream *substream, struct snd_soc_dai *codec_dai)$/;"	f	file:
+codec_start	sunxi_codec.c	/^static int codec_start(struct snd_pcm_substream *substream, struct snd_soc_dai *codec_dai)$/;"	f	file:
+codec_suspend	sun8iw10_codec.c	/^static int codec_suspend(struct snd_soc_codec *codec)$/;"	f	file:
+codec_suspend	sun8iw11_codec.c	/^static int codec_suspend(struct snd_soc_codec *codec)$/;"	f	file:
+codec_suspend	sunxi_codec.c	/^static int codec_suspend(struct snd_soc_codec *codec)$/;"	f	file:
+codec_trigger	sun8iw10_codec.c	/^static int codec_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_trigger	sun8iw11_codec.c	/^static int codec_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+codec_utils_probe	codec_utils.c	/^EXPORT_SYMBOL(codec_utils_probe);$/;"	v
+codec_utils_probe	codec_utils.c	/^int codec_utils_probe(struct platform_device *pdev)$/;"	f
+codec_utils_remove	codec_utils.c	/^EXPORT_SYMBOL(codec_utils_remove);$/;"	v
+codec_utils_remove	codec_utils.c	/^int codec_utils_remove(struct platform_device *pdev)$/;"	f
+codec_wr_control	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(codec_wr_control);$/;"	v
+codec_wr_control	sunxi_rw_func.c	/^u32 codec_wr_control(void __iomem *  reg, u32 mask, u32 shift, u32 val)$/;"	f
+codec_write	sun8iw10_codec.c	/^static int codec_write(struct snd_soc_codec *codec,$/;"	f	file:
+codec_write	sun8iw11_codec.c	/^static int codec_write(struct snd_soc_codec *codec,$/;"	f	file:
+codec_write	sunxi_codec.c	/^static int codec_write(struct snd_soc_codec *codec,$/;"	f	file:
+codec_wrreg	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(codec_wrreg);$/;"	v
+codec_wrreg	sunxi_rw_func.c	/^void codec_wrreg(void __iomem * address,u32 val)$/;"	f
+codec_wrreg_bits	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(codec_wrreg_bits);$/;"	v
+codec_wrreg_bits	sunxi_rw_func.c	/^u32 codec_wrreg_bits(void __iomem * address, u32 mask,u32 value)$/;"	f
+codec_wrreg_prcm_bits	sunxi_rw_func.c	/^ u32 codec_wrreg_prcm_bits(void __iomem * ADDA_PR_CFG_REG,u32 reg, u32 mask, u32 value)$/;"	f
+codec_wrreg_prcm_bits	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(codec_wrreg_prcm_bits);$/;"	v
+cpvdd	sun8iw10_codec.h	/^	struct regulator *cpvdd;$/;"	m	struct:voltage_supply	typeref:struct:voltage_supply::regulator
+cpvdd	sun8iw11_codec.h	/^	struct regulator *cpvdd;$/;"	m	struct:voltage_supply	typeref:struct:voltage_supply::regulator
+cpvdd	sunxi_codec.h	/^	struct regulator *cpvdd;$/;"	m	struct:voltage_supply	typeref:struct:voltage_supply::regulator
+cs4385_dai	cs4385.c	/^static struct snd_soc_dai_driver cs4385_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+cs4385_dai_ops	cs4385.c	/^static const struct snd_soc_dai_ops cs4385_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+cs4385_exit	cs4385.c	/^module_exit(cs4385_exit);$/;"	v
+cs4385_exit	cs4385.c	/^static void __exit cs4385_exit(void)$/;"	f	file:
+cs4385_hw_params	cs4385.c	/^static int cs4385_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+cs4385_i2c_driver	cs4385.c	/^static struct i2c_driver cs4385_i2c_driver = {$/;"	v	typeref:struct:i2c_driver	file:
+cs4385_i2c_id	cs4385.c	/^static const struct i2c_device_id cs4385_i2c_id[] = {$/;"	v	typeref:struct:i2c_device_id	file:
+cs4385_i2c_probe	cs4385.c	/^static int cs4385_i2c_probe(struct i2c_client *i2c,$/;"	f	file:
+cs4385_i2c_remove	cs4385.c	/^static int cs4385_i2c_remove(struct i2c_client *client)$/;"	f	file:
+cs4385_init	cs4385.c	/^module_init(cs4385_init);$/;"	v
+cs4385_init	cs4385.c	/^static int __init cs4385_init(void)$/;"	f	file:
+cs4385_priv	cs4385.c	/^struct cs4385_priv {$/;"	s	file:
+cs4385_probe	cs4385.c	/^static int cs4385_probe(struct snd_soc_codec *codec)$/;"	f	file:
+cs4385_regmap	cs4385.c	/^static const struct regmap_config cs4385_regmap = {$/;"	v	typeref:struct:regmap_config	file:
+cs4385_remove	cs4385.c	/^static int cs4385_remove(struct snd_soc_codec *codec)$/;"	f	file:
+cs4385_resume	cs4385.c	/^static int cs4385_resume(struct snd_soc_codec *codec)$/;"	f	file:
+cs4385_set_bias_level	cs4385.c	/^static int cs4385_set_bias_level(struct snd_soc_codec *codec,$/;"	f	file:
+cs4385_set_dai_fmt	cs4385.c	/^static int cs4385_set_dai_fmt(struct snd_soc_dai *codec_dai,$/;"	f	file:
+cs4385_set_dai_sysclk	cs4385.c	/^static int cs4385_set_dai_sysclk(struct snd_soc_dai *codec_dai,$/;"	f	file:
+cs4385_suspend	cs4385.c	/^static int cs4385_suspend(struct snd_soc_codec *codec)$/;"	f	file:
+dac_digital_vol	sunxi_codec.h	/^	u32 dac_digital_vol;$/;"	m	struct:gain_config
+dac_enable	sun8iw10_codec.h	/^	u32 dac_enable;$/;"	m	struct:sunxi_codec
+dac_enable	sun8iw11_codec.h	/^	u32 dac_enable;$/;"	m	struct:sunxi_codec
+dac_enable	sunxi_codec.h	/^	u32 dac_enable;$/;"	m	struct:sunxi_codec
+dac_mutex	sun8iw10_codec.h	/^	struct mutex dac_mutex;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::mutex
+dac_mutex	sun8iw11_codec.h	/^	struct mutex dac_mutex;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::mutex
+dac_mutex	sunxi_codec.h	/^	struct mutex dac_mutex;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::mutex
+dacdrc_cfg	sun8iw10_codec.h	/^	u32 dacdrc_cfg:1;$/;"	m	struct:codec_hw_config
+dacdrc_cfg	sun8iw11_codec.h	/^	u32 dacdrc_cfg:1;$/;"	m	struct:codec_hw_config
+dacdrc_cfg	sunxi_codec.h	/^	u32 dacdrc_cfg:1;$/;"	m	struct:codec_hw_config
+dacdrc_config	sunxi_codec.c	/^static void dacdrc_config(struct snd_soc_codec *codec)$/;"	f	file:
+dacdrc_enable	sunxi_codec.c	/^static void dacdrc_enable(struct snd_soc_codec *codec,bool on)$/;"	f	file:
+dachpf_cfg	sun8iw10_codec.h	/^	u32 dachpf_cfg:1;$/;"	m	struct:codec_hw_config
+dachpf_cfg	sun8iw11_codec.h	/^	u32 dachpf_cfg:1;$/;"	m	struct:codec_hw_config
+dachpf_cfg	sunxi_codec.h	/^	u32 dachpf_cfg:1;$/;"	m	struct:codec_hw_config
+dachpf_config	sunxi_codec.c	/^static void dachpf_config(struct snd_soc_codec *codec)$/;"	f	file:
+dachpf_enable	sunxi_codec.c	/^static void dachpf_enable(struct snd_soc_codec *codec,bool on)$/;"	f	file:
+dacl_mxr_src_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new dacl_mxr_src_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+dacr_mxr_src_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new dacr_mxr_src_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+dai	sun8iw10_codec.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::snd_soc_dai_driver
+dai	sun8iw11_codec.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::snd_soc_dai_driver
+dai	sunxi_cpudai.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_cpudai	typeref:struct:sunxi_cpudai::snd_soc_dai_driver
+dai	sunxi_dmic.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_dmic_info	typeref:struct:sunxi_dmic_info::snd_soc_dai_driver
+dai	sunxi_dsd.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_dsd_info	typeref:struct:sunxi_dsd_info::snd_soc_dai_driver
+dai	sunxi_i2s.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_i2s	typeref:struct:sunxi_i2s::snd_soc_dai_driver
+dai	sunxi_spdif.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::snd_soc_dai_driver
+dai	sunxi_tdm_utils.h	/^	struct snd_soc_dai_driver dai;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::snd_soc_dai_driver
+dai_fmt	snddaudio.c	/^	int dai_fmt;$/;"	m	struct:snddaudio_priv	file:
+dai_fmt	sndhdmi.c	/^	int dai_fmt;$/;"	m	struct:sndhdmi_priv	file:
+daudio0_loop_en	sunxi_tdm_utils.c	/^static bool  daudio0_loop_en 		= false;$/;"	v	file:
+daudio_loop_en	sunxi_daudio.c	/^static bool  daudio_loop_en 		= false;$/;"	v	file:
+daudio_master	sunxi_tdm_utils.h	/^	u32 daudio_master;$/;"	m	struct:sunxi_tdm_info
+dectect_jack	sunxi_sndcodec.c	/^enum dectect_jack {$/;"	g	file:
+detect_state	sunxi_sndcodec.c	/^	u32 detect_state;$/;"	m	struct:mc_private	file:
+dma_addr	sunxi_dma.h	/^	dma_addr_t dma_addr;$/;"	m	struct:sunxi_dma_params
+dma_drq_type_num	sunxi_dma.h	/^	u8 dma_drq_type_num;$/;"	m	struct:sunxi_dma_params
+dmic_ch_en	sunxi_dmic.c	/^struct dmic_ch_en {$/;"	s	file:
+dmic_ch_en_s	sunxi_dmic.c	/^static const struct dmic_ch_en dmic_ch_en_s[] = {$/;"	v	typeref:struct:dmic_ch_en	file:
+dmic_mux_ev	sunxi_codec.c	/^static int dmic_mux_ev(struct snd_soc_dapm_widget *w,$/;"	f	file:
+dmic_rate	sunxi_dmic.c	/^struct dmic_rate {$/;"	s	file:
+dmic_rate_s	sunxi_dmic.c	/^static const struct dmic_rate dmic_rate_s[] = {$/;"	v	typeref:struct:dmic_rate	file:
+dmic_rxctrl_enable	sunxi_dmic.c	/^static void dmic_rxctrl_enable(int rx_en,struct sunxi_dmic_info *sunxi_dmic)$/;"	f	file:
+dsd_data_format	sunxi_dsd.c	/^struct dsd_data_format {$/;"	s	file:
+dsd_data_format_s	sunxi_dsd.c	/^static const struct dsd_data_format dsd_data_format_s[] = {$/;"	v	typeref:struct:dsd_data_format	file:
+dsd_rate	sunxi_dsd.c	/^struct dsd_rate {$/;"	s	file:
+dsd_rate_s	sunxi_dsd.c	/^static const struct dsd_rate dsd_rate_s[] = {$/;"	v	typeref:struct:dsd_rate	file:
+dsd_txctrl_enable	sunxi_dsd.c	/^static void dsd_txctrl_enable(int tx_en,struct sunxi_dsd_info *sunxi_dsd)$/;"	f	file:
+dsdrate	sunxi_dsd.c	/^	unsigned int dsdrate;$/;"	m	struct:dsd_rate	file:
+dst_maxburst	sunxi_dma.h	/^	u8 dst_maxburst;$/;"	m	struct:sunxi_dma_params
+earpiecevol	sunxi_codec.h	/^	u32 earpiecevol;$/;"	m	struct:gain_config
+first_speaker_event	sunxi_codec.h	/^	bool first_speaker_event;$/;"	m	struct:sunxi_codec
+format	sunxi_dsd.c	/^	unsigned int format;$/;"	m	struct:dsd_data_format	file:
+format_bit	sunxi_dsd.c	/^	unsigned int format_bit;$/;"	m	struct:dsd_data_format	file:
+frametype	sunxi_tdm_utils.h	/^	bool frametype;	\/*pcm format: 0-short frame,1-long frame*\/$/;"	m	struct:sunxi_tdm_info
+g_hdmi_func	sndhdmi.c	/^static __audio_hdmi_func 	g_hdmi_func;$/;"	v	file:
+gain_config	sun8iw10_codec.h	/^	struct gain_config gain_config;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::gain_config
+gain_config	sun8iw10_codec.h	/^struct gain_config {$/;"	s
+gain_config	sun8iw11_codec.h	/^	struct gain_config gain_config;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::gain_config
+gain_config	sun8iw11_codec.h	/^struct gain_config {$/;"	s
+gain_config	sunxi_codec.h	/^	struct gain_config gain_config;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::gain_config
+gain_config	sunxi_codec.h	/^struct gain_config {$/;"	s
+get_clock_divder	sunxi-sndspdif.c	/^EXPORT_SYMBOL(get_clock_divder);$/;"	v
+get_clock_divder	sunxi-sndspdif.c	/^s32 get_clock_divder(u32 sample_rate, u32 sample_width, u32 * mclk_div, u32* mpll, u32* bclk_div, u32* mult_fs)$/;"	f
+get_hub_function	sunxi_i2s.c	/^static int get_hub_function(struct snd_kcontrol *kcontrol,$/;"	f	file:
+get_src_function	sunxi_codec.c	/^static int get_src_function(struct snd_kcontrol *kcontrol,$/;"	f	file:
+gpio	sun8iw10_codec.h	/^	u32 gpio;$/;"	m	struct:spk_gpio_
+gpio	sun8iw11_codec.h	/^	u32 gpio;$/;"	m	struct:spk_gpio_
+gpio	sunxi_codec.h	/^	u32 gpio;$/;"	m	struct:spk_gpio_
+hdmi_format	sunxi-sndhdmi.c	/^static u32 hdmi_format = 1;$/;"	v	file:
+hdmi_hw	sndhdmi.c	30;"	d	file:
+hdmi_para	sndhdmi.c	/^static hdmi_audio_t 		hdmi_para;$/;"	v	file:
+hdmi_transfer_format_61937_to_60958	sunxi_dma.c	/^int hdmi_transfer_format_61937_to_60958(int *out,short* temp, int samples)$/;"	f
+hdmiaudio_early_suspend	sndhdmi.c	/^void hdmiaudio_early_suspend(struct early_suspend *h) {$/;"	f
+hdmiaudio_early_suspend_handler	sndhdmi.c	/^ static struct early_suspend hdmiaudio_early_suspend_handler =$/;"	v	typeref:struct:early_suspend	file:
+hdmiaudio_format_enum	sunxi-sndhdmi.c	/^static const struct soc_enum hdmiaudio_format_enum[] = {$/;"	v	typeref:struct:soc_enum	file:
+hdmiaudio_format_function	sunxi-sndhdmi.c	/^static const char *hdmiaudio_format_function[] = {"null", "pcm", "AC3", "MPEG1", "MP3", "MPEG2", "AAC", "DTS", "ATRAC", "ONE_BIT_AUDIO", "DOLBY_DIGITAL_PLUS", "DTS_HD", "MAT", "WMAPRO"};$/;"	v	file:
+hdmiaudio_late_resume	sndhdmi.c	/^void hdmiaudio_late_resume(struct early_suspend *h) {$/;"	f
+hdmiaudio_reset_en	sndhdmi.c	/^static bool  hdmiaudio_reset_en = false;$/;"	v	file:
+hdmipcm_dma_addr	sunxi_dma.c	/^static dma_addr_t hdmipcm_dma_addr = 0;$/;"	v	file:
+hdmiraw_dma_addr	sunxi_dma.c	/^static dma_addr_t hdmiraw_dma_addr = 0;$/;"	v	file:
+hdmiraw_dma_area	sunxi_dma.c	/^static unsigned char *hdmiraw_dma_area;	\/* DMA area *\/$/;"	v	file:
+head	sunxi_dma.c	/^}head;$/;"	v	typeref:union:head61937
+head0	sunxi_dma.c	/^ headbpcuv head0;$/;"	m	union:head61937	file:
+head1	sunxi_dma.c	/^ unsigned char head1;$/;"	m	union:head61937	file:
+head61937	sunxi_dma.c	/^union head61937$/;"	u	file:
+headbpcuv	sunxi_dma.c	/^typedef struct headbpcuv{$/;"	s	file:
+headbpcuv	sunxi_dma.c	/^} headbpcuv;$/;"	t	typeref:struct:headbpcuv	file:
+headphonevol	sun8iw10_codec.h	/^	u32 headphonevol;$/;"	m	struct:gain_config
+headphonevol	sun8iw11_codec.h	/^	u32 headphonevol;$/;"	m	struct:gain_config
+headphonevol	sunxi_codec.h	/^	u32 headphonevol;$/;"	m	struct:gain_config
+headset_basedata	sunxi_sndcodec.c	/^	u32 headset_basedata;$/;"	m	struct:mc_private	file:
+headsetmicgain	sun8iw11_codec.h	/^	u32 headsetmicgain;$/;"	m	struct:gain_config
+headsetmicgain	sunxi_codec.h	/^	u32 headsetmicgain;$/;"	m	struct:gain_config
+hp_detect_case	sunxi_sndcodec.c	/^	u32 hp_detect_case;$/;"	m	struct:mc_private	file:
+hp_dirused	sun8iw10_codec.h	/^	bool hp_dirused;$/;"	m	struct:sunxi_codec
+hp_dirused	sun8iw11_codec.h	/^	bool hp_dirused;$/;"	m	struct:sunxi_codec
+hp_en	sunxi_codec.h	/^	struct clk *hp_en;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+hs_button_work	sunxi_sndcodec.c	/^	struct delayed_work hs_button_work;$/;"	m	struct:mc_private	typeref:struct:mc_private::delayed_work	file:
+hs_detect_work	sunxi_sndcodec.c	/^	struct delayed_work hs_detect_work;$/;"	m	struct:mc_private	typeref:struct:mc_private::delayed_work	file:
+hs_init_work	sunxi_sndcodec.c	/^	struct delayed_work hs_init_work;$/;"	m	struct:mc_private	typeref:struct:mc_private::delayed_work	file:
+hub_function_en	sunxi_i2s.c	/^static bool hub_function_en = false;$/;"	v	file:
+hwconfig	sun8iw10_codec.h	/^	struct codec_hw_config hwconfig;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::codec_hw_config
+hwconfig	sun8iw11_codec.h	/^	struct codec_hw_config hwconfig;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::codec_hw_config
+hwconfig	sunxi_codec.h	/^	struct codec_hw_config hwconfig;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::codec_hw_config
+i2s_bclk_div_s	sunxi_tdm_utils.c	/^static const struct _i2s_bclk_div_s i2s_bclk_div_s[] = {$/;"	v	typeref:struct:_i2s_bclk_div_s	file:
+i2s_lrck_period	sunxi_tdm_utils.h	/^	int i2s_lrck_period;$/;"	m	struct:_i2s_bclk_div_s
+i2s_suspend	sunxi_i2s.c	/^static bool  i2s_suspend 		= false;$/;"	v	file:
+is_irq	sunxi_sndcodec.c	/^static bool is_irq 			= false;$/;"	v	file:
+jack	sunxi_sndcodec.c	/^	struct snd_soc_jack jack;$/;"	m	struct:mc_private	typeref:struct:mc_private::snd_soc_jack	file:
+jack_interrupt	sunxi_sndcodec.c	/^static irqreturn_t jack_interrupt(int irq, void *dev_id)$/;"	f	file:
+jack_irq_times	sunxi_sndcodec.c	/^	_jack_irq_times jack_irq_times;$/;"	m	struct:mc_private	file:
+jack_mlock	sunxi_sndcodec.c	/^	struct mutex jack_mlock;$/;"	m	struct:mc_private	typeref:struct:mc_private::mutex	file:
+jackirq	sunxi_sndcodec.c	/^	u32 jackirq;		\/*switch irq*\/$/;"	m	struct:mc_private	file:
+key_hook	sunxi_sndcodec.c	/^	u32 key_hook;$/;"	m	struct:mc_private	file:
+key_voldown	sunxi_sndcodec.c	/^	u32 key_voldown;$/;"	m	struct:mc_private	file:
+key_volup	sunxi_sndcodec.c	/^	u32 key_volup;$/;"	m	struct:mc_private	file:
+label	sun8iw10_codec.h	/^struct label {$/;"	s
+label	sun8iw11_codec.h	/^struct label {$/;"	s
+label	sunxi_codec.h	/^struct label {$/;"	s
+late_enable_adc	sun8iw10_codec.c	/^static int late_enable_adc(struct snd_soc_dapm_widget *w,$/;"	f	file:
+late_enable_adc	sun8iw11_codec.c	/^static int late_enable_adc(struct snd_soc_dapm_widget *w,$/;"	f	file:
+late_enable_adc	sunxi_codec.c	/^static int late_enable_adc(struct snd_soc_dapm_widget *w,$/;"	f	file:
+late_enable_dac	sun8iw10_codec.c	/^static int late_enable_dac(struct snd_soc_dapm_widget *w,$/;"	f	file:
+late_enable_dac	sun8iw11_codec.c	/^static int late_enable_dac(struct snd_soc_dapm_widget *w,$/;"	f	file:
+late_enable_dac	sunxi_codec.c	/^static int late_enable_dac(struct snd_soc_dapm_widget *w,$/;"	f	file:
+maingain	sun8iw10_codec.h	/^	u32 maingain;$/;"	m	struct:gain_config
+maingain	sun8iw11_codec.h	/^	u32 maingain;$/;"	m	struct:gain_config
+maingain	sunxi_codec.h	/^	u32 maingain;$/;"	m	struct:gain_config
+master_substream	snddaudio.c	/^	struct snd_pcm_substream *master_substream;$/;"	m	struct:snddaudio_priv	typeref:struct:snddaudio_priv::snd_pcm_substream	file:
+master_substream	sndhdmi.c	/^	struct snd_pcm_substream *master_substream;$/;"	m	struct:sndhdmi_priv	typeref:struct:sndhdmi_priv::snd_pcm_substream	file:
+mc_private	sunxi_sndcodec.c	/^struct mc_private {$/;"	s	file:
+mic2src_enum	sun8iw11_codec.c	/^static const struct soc_enum mic2src_enum =$/;"	v	typeref:struct:soc_enum	file:
+mic2src_enum	sunxi_codec.c	/^static const struct soc_enum mic2src_enum =$/;"	v	typeref:struct:soc_enum	file:
+mic2src_mux	sun8iw11_codec.c	/^static const struct snd_kcontrol_new mic2src_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+mic2src_mux	sunxi_codec.c	/^static const struct snd_kcontrol_new mic2src_mux =$/;"	v	typeref:struct:snd_kcontrol_new	file:
+mic2src_text	sun8iw11_codec.c	/^static const char *mic2src_text[] = {"MIC3","MIC2"};$/;"	v	file:
+mic2src_text	sunxi_codec.c	/^static const char *mic2src_text[] = {"MIC3","MIC2"};$/;"	v	file:
+mode_select	sunxi_dsd.h	/^	u32 mode_select;$/;"	m	struct:sunxi_dsd_info
+moduleclk	sun8iw10_codec.h	/^	struct clk *moduleclk;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+moduleclk	sun8iw11_codec.h	/^	struct clk *moduleclk;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+moduleclk	sunxi_dmic.h	/^	struct clk *moduleclk;$/;"	m	struct:sunxi_dmic_info	typeref:struct:sunxi_dmic_info::clk
+moduleclk	sunxi_dsd.h	/^	struct clk *moduleclk;$/;"	m	struct:sunxi_dsd_info	typeref:struct:sunxi_dsd_info::clk
+moduleclk	sunxi_i2s.h	/^	struct clk *moduleclk;$/;"	m	struct:sunxi_i2s	typeref:struct:sunxi_i2s::clk
+moduleclk	sunxi_spdif.h	/^	struct clk *moduleclk;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::clk
+mpll	sunxi-sndspdif.c	/^    __u8    mpll;           \/*select mpll, 0 - 24.576 Mhz, 1 - 22.5792 Mhz*\/$/;"	m	struct:__MCLK_SET_INF	file:
+mult_fs	sunxi-sndspdif.c	/^	__u16 	mult_fs;        \/*multiply of smaple rate*\/$/;"	m	struct:__MCLK_SET_INF	file:
+mult_fs	sunxi-sndspdif.c	/^    __u16   mult_fs;        \/*multiplay of sample rate*\/$/;"	m	struct:__BCLK_SET_INF	file:
+name	sun8iw10_codec.h	/^    const char *name;$/;"	m	struct:label
+name	sun8iw11_codec.h	/^    const char *name;$/;"	m	struct:label
+name	sunxi_codec.h	/^    const char *name;$/;"	m	struct:label
+name	sunxi_dma.h	/^	char *name;$/;"	m	struct:sunxi_dma_params
+other	sunxi_dma.c	/^	unsigned other:3;$/;"	m	struct:headbpcuv	file:
+others	sunxi_tdm_utils.h	/^	u32 others;	\/*other use*\/$/;"	m	struct:sunxi_tdm_info
+pa_sleep_time	sun8iw10_codec.h	/^	u32 pa_sleep_time;$/;"	m	struct:sunxi_codec
+pa_sleep_time	sun8iw11_codec.h	/^	u32 pa_sleep_time;$/;"	m	struct:sunxi_codec
+pa_sleep_time	sunxi_codec.h	/^	u32 pa_sleep_time;$/;"	m	struct:sunxi_codec
+pcm_bclk_div_s	sunxi_tdm_utils.c	/^static const struct _pcm_bclk_div_s pcm_bclk_div_s[] = {$/;"	v	typeref:struct:_pcm_bclk_div_s	file:
+pcm_count_num	sndhdmi.c	/^atomic_t pcm_count_num;$/;"	v
+pcm_lrck_period	sunxi_tdm_utils.h	/^	int pcm_lrck_period;$/;"	m	struct:_pcm_bclk_div_s
+pcm_lrck_period	sunxi_tdm_utils.h	/^	u32 pcm_lrck_period;		\/*pcm_lrck_period     = 32*\/$/;"	m	struct:sunxi_tdm_info
+pcm_lrckr_period	sunxi_tdm_utils.h	/^	u32 pcm_lrckr_period;		\/*pcm_lrckr_period    = 1*\/$/;"	m	struct:sunxi_tdm_info
+pcm_lsb_first	sunxi_tdm_utils.h	/^	u32 pcm_lsb_first;		\/*msb_lsb_first*\/$/;"	m	struct:sunxi_tdm_info
+phoneout_mix_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new phoneout_mix_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+pinctrl	sun8iw10_codec.h	/^	struct pinctrl *pinctrl;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::pinctrl
+pinctrl	sun8iw11_codec.h	/^	struct pinctrl *pinctrl;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::pinctrl
+pinctrl	sunxi_codec.h	/^	struct pinctrl *pinctrl;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::pinctrl
+pinctrl	sunxi_dmic.h	/^	struct pinctrl *pinctrl;$/;"	m	struct:sunxi_dmic_info	typeref:struct:sunxi_dmic_info::pinctrl
+pinctrl	sunxi_dsd.h	/^	struct pinctrl *pinctrl;$/;"	m	struct:sunxi_dsd_info	typeref:struct:sunxi_dsd_info::pinctrl
+pinctrl	sunxi_spdif.h	/^	struct pinctrl *pinctrl;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::pinctrl
+pinctrl	sunxi_tdm_utils.h	/^	struct pinctrl *pinctrl;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::pinctrl
+pinstate	sunxi_dmic.h	/^	struct pinctrl_state  *pinstate;$/;"	m	struct:sunxi_dmic_info	typeref:struct:sunxi_dmic_info::pinctrl_state
+pinstate	sunxi_dsd.h	/^	struct pinctrl_state  *pinstate;$/;"	m	struct:sunxi_dsd_info	typeref:struct:sunxi_dsd_info::pinctrl_state
+pinstate	sunxi_spdif.h	/^	struct pinctrl_state  *pinstate;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::pinctrl_state
+pinstate	sunxi_tdm_utils.h	/^	struct pinctrl_state  *pinstate;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::pinctrl_state
+pinstate_sleep	sunxi_dmic.h	/^	struct pinctrl_state  *pinstate_sleep;$/;"	m	struct:sunxi_dmic_info	typeref:struct:sunxi_dmic_info::pinctrl_state
+pinstate_sleep	sunxi_dsd.h	/^	struct pinctrl_state  *pinstate_sleep;$/;"	m	struct:sunxi_dsd_info	typeref:struct:sunxi_dsd_info::pinctrl_state
+pinstate_sleep	sunxi_spdif.h	/^	struct pinctrl_state  *pinstate_sleep;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::pinctrl_state
+pinstate_sleep	sunxi_tdm_utils.h	/^	struct pinctrl_state  *pinstate_sleep;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::pinctrl_state
+play_dma_param	sunxi_cpudai.h	/^	struct sunxi_dma_params play_dma_param;$/;"	m	struct:sunxi_cpudai	typeref:struct:sunxi_cpudai::sunxi_dma_params
+play_dma_param	sunxi_dsd.h	/^	struct sunxi_dma_params play_dma_param;$/;"	m	struct:sunxi_dsd_info	typeref:struct:sunxi_dsd_info::sunxi_dma_params
+play_dma_param	sunxi_i2s.h	/^	struct sunxi_dma_params play_dma_param;$/;"	m	struct:sunxi_i2s	typeref:struct:sunxi_i2s::sunxi_dma_params
+play_dma_param	sunxi_spdif.h	/^	struct sunxi_dma_params play_dma_param;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::sunxi_dma_params
+play_dma_param	sunxi_tdm_utils.h	/^	struct sunxi_dma_params play_dma_param;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::sunxi_dma_params
+pll_audio_freq	sunxi_tdm_utils.h	/^	int pll_audio_freq;$/;"	m	struct:_i2s_bclk_div_s
+pll_audio_freq	sunxi_tdm_utils.h	/^	int pll_audio_freq;$/;"	m	struct:_pcm_bclk_div_s
+pllclk	sun8iw10_codec.h	/^	struct clk *pllclk;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+pllclk	sun8iw11_codec.h	/^	struct clk *pllclk;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+pllclk	sunxi_dmic.h	/^	struct clk *pllclk;$/;"	m	struct:sunxi_dmic_info	typeref:struct:sunxi_dmic_info::clk
+pllclk	sunxi_dsd.h	/^	struct clk *pllclk;$/;"	m	struct:sunxi_dsd_info	typeref:struct:sunxi_dsd_info::clk
+pllclk	sunxi_i2s.h	/^	struct clk *pllclk;$/;"	m	struct:sunxi_i2s	typeref:struct:sunxi_i2s::clk
+pllclk	sunxi_spdif.h	/^	struct clk *pllclk;$/;"	m	struct:sunxi_spdif_info	typeref:struct:sunxi_spdif_info::clk
+pub_codec	codec_utils.c	/^static struct snd_soc_codec_driver pub_codec;$/;"	v	typeref:struct:snd_soc_codec_driver	file:
+pub_codec_dai	codec_utils.c	/^static struct snd_soc_dai_driver pub_codec_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+rate_bit	sunxi_dmic.c	/^	unsigned int rate_bit;$/;"	m	struct:dmic_rate	file:
+rate_bit	sunxi_dsd.c	/^	unsigned int rate_bit;$/;"	m	struct:dsd_rate	file:
+raw_flag	sunxi_dma.c	/^static int raw_flag = 1;$/;"	v	file:
+read_prcm_wvalue	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(read_prcm_wvalue);$/;"	v
+read_prcm_wvalue	sunxi_rw_func.c	/^u32 read_prcm_wvalue(u32 addr,void __iomem * ADDA_PR_CFG_REG)$/;"	f
+reg_labels	sun8iw10_codec.c	/^static struct label reg_labels[]={$/;"	v	typeref:struct:label	file:
+reg_labels	sun8iw11_codec.c	/^static struct label reg_labels[]={$/;"	v	typeref:struct:label	file:
+reg_labels	sunxi_codec.c	/^static struct label reg_labels[]={$/;"	v	typeref:struct:label	file:
+regmap	cs4385.c	/^	struct regmap *regmap;$/;"	m	struct:cs4385_priv	typeref:struct:cs4385_priv::regmap	file:
+regs	sunxi_dmic.h	/^	void __iomem   *regs;    \/* dmic base *\/$/;"	m	struct:sunxi_dmic_info
+regs	sunxi_dsd.h	/^	void __iomem   *regs;    \/* dsd base *\/$/;"	m	struct:sunxi_dsd_info
+regs	sunxi_spdif.h	/^	void __iomem   *regs;    \/* spdif base *\/$/;"	m	struct:sunxi_spdif_info
+regs	sunxi_tdm_utils.h	/^	void __iomem   *regs;$/;"	m	struct:sunxi_tdm_info
+rsvd	sunxi_dma.c	/^		unsigned int rsvd:16;$/;"	m	struct:word::__anon2	file:
+rx_data_mode	sunxi_tdm_utils.h	/^	u32 rx_data_mode;$/;"	m	struct:sunxi_tdm_info
+rxctrl_tdm	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(rxctrl_tdm);$/;"	v
+rxctrl_tdm	sunxi_tdm_utils.c	/^int  rxctrl_tdm(int on,struct sunxi_tdm_info *sunxi_tdm)$/;"	f
+samp_rate	sunxi-sndspdif.c	/^    __u32   samp_rate;      \/*sample rate*\/$/;"	m	struct:__MCLK_SET_INF	file:
+samp_res	sunxi_tdm_utils.h	/^	u32 samp_res;$/;"	m	struct:sunxi_tdm_info
+sample_rate	sunxi_tdm_utils.h	/^	int sample_rate;$/;"	m	struct:_i2s_bclk_div_s
+sample_rate	sunxi_tdm_utils.h	/^	int sample_rate;$/;"	m	struct:_pcm_bclk_div_s
+sample_resolution	sunxi_i2s.c	/^static u32 sample_resolution =16;$/;"	v	file:
+samplerate	sun8iw10_codec.c	/^	unsigned int samplerate;$/;"	m	struct:codec_sr	file:
+samplerate	sun8iw11_codec.c	/^	unsigned int samplerate;$/;"	m	struct:codec_sr	file:
+samplerate	sunxi_codec.c	/^	unsigned int samplerate;$/;"	m	struct:aif1_fs	file:
+samplerate	sunxi_dmic.c	/^	unsigned int samplerate;$/;"	m	struct:dmic_rate	file:
+samplerate	sunxi_dsd.c	/^	unsigned int samplerate;$/;"	m	struct:dsd_rate	file:
+set_hub_function	sunxi_i2s.c	/^static int set_hub_function(struct snd_kcontrol *kcontrol,$/;"	f	file:
+set_src_function	sunxi_codec.c	/^static int set_src_function(struct snd_kcontrol *kcontrol,$/;"	f	file:
+show_audio_reg	sun8iw10_codec.c	/^static ssize_t show_audio_reg(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+show_audio_reg	sun8iw11_codec.c	/^static ssize_t show_audio_reg(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+show_audio_reg	sunxi_codec.c	/^static ssize_t show_audio_reg(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+signal_inversion	sunxi_tdm_utils.h	/^	u32 signal_inversion;$/;"	m	struct:sunxi_tdm_info
+slave_substream	snddaudio.c	/^	struct snd_pcm_substream *slave_substream;$/;"	m	struct:snddaudio_priv	typeref:struct:snddaudio_priv::snd_pcm_substream	file:
+slave_substream	sndhdmi.c	/^	struct snd_pcm_substream *slave_substream;$/;"	m	struct:sndhdmi_priv	typeref:struct:sndhdmi_priv::snd_pcm_substream	file:
+slot_width_select	sunxi_tdm_utils.h	/^	u32 slot_width_select;			\/*slot_width_select   = 16*\/$/;"	m	struct:sunxi_tdm_info
+snd-sunxi-soc-objs	Makefile	/^snd-sunxi-soc-objs := sunxi_dma.o$/;"	m
+snd_soc_sunxi_snddaudio	sunxi-snddaudio0.c	/^static struct snd_soc_card snd_soc_sunxi_snddaudio = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_snddaudio	sunxi-snddaudio1.c	/^static struct snd_soc_card snd_soc_sunxi_snddaudio = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_snddmic	sunxi-snddmic.c	/^static struct snd_soc_card snd_soc_sunxi_snddmic = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_snddsd	sunxi-snddsd.c	/^static struct snd_soc_card snd_soc_sunxi_snddsd = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_sndhdmi	sunxi-sndhdmi.c	/^static struct snd_soc_card snd_soc_sunxi_sndhdmi = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_sndpcm	sun8iw10_sndcodec.c	/^static struct snd_soc_card snd_soc_sunxi_sndpcm = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_sndpcm	sun8iw11_sndcodec.c	/^static struct snd_soc_card snd_soc_sunxi_sndpcm = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_sndpcm	sunxi_sndcodec.c	/^static struct snd_soc_card snd_soc_sunxi_sndpcm = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_soc_sunxi_sndspdif	sunxi-sndspdif.c	/^static struct snd_soc_card snd_soc_sunxi_sndspdif = {$/;"	v	typeref:struct:snd_soc_card	file:
+snd_sunxi_unregister_jack	sunxi_sndcodec.c	/^static void snd_sunxi_unregister_jack(struct mc_private *ctx)$/;"	f	file:
+snddaudio_FORMATS	snddaudio.c	35;"	d	file:
+snddaudio_RATES	snddaudio.c	34;"	d	file:
+snddaudio_codec_device	snddaudio.c	/^static struct platform_device snddaudio_codec_device = {$/;"	v	typeref:struct:platform_device	file:
+snddaudio_codec_driver	snddaudio.c	/^static struct platform_driver snddaudio_codec_driver = {$/;"	v	typeref:struct:platform_driver	file:
+snddaudio_codec_exit	snddaudio.c	/^module_exit(snddaudio_codec_exit);$/;"	v
+snddaudio_codec_exit	snddaudio.c	/^static void __exit snddaudio_codec_exit(void)$/;"	f	file:
+snddaudio_codec_init	snddaudio.c	/^module_init(snddaudio_codec_init);$/;"	v
+snddaudio_codec_init	snddaudio.c	/^static int __init snddaudio_codec_init(void)$/;"	f	file:
+snddaudio_codec_probe	snddaudio.c	/^static int __init snddaudio_codec_probe(struct platform_device *pdev)$/;"	f	file:
+snddaudio_codec_remove	snddaudio.c	/^static int __exit snddaudio_codec_remove(struct platform_device *pdev)$/;"	f	file:
+snddaudio_dai	snddaudio.c	/^static struct snd_soc_dai_driver snddaudio_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+snddaudio_dai_ops	snddaudio.c	/^static struct snd_soc_dai_ops snddaudio_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+snddaudio_hw_params	snddaudio.c	/^static int snddaudio_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+snddaudio_mute	snddaudio.c	/^static int snddaudio_mute(struct snd_soc_dai *dai, int mute)$/;"	f	file:
+snddaudio_priv	snddaudio.c	/^struct snddaudio_priv {$/;"	s	file:
+snddaudio_set_dai_clkdiv	snddaudio.c	/^static int snddaudio_set_dai_clkdiv(struct snd_soc_dai *codec_dai, int div_id, int div)$/;"	f	file:
+snddaudio_set_dai_fmt	snddaudio.c	/^static int snddaudio_set_dai_fmt(struct snd_soc_dai *codec_dai,$/;"	f	file:
+snddaudio_set_dai_sysclk	snddaudio.c	/^static int snddaudio_set_dai_sysclk(struct snd_soc_dai *codec_dai,$/;"	f	file:
+snddaudio_shutdown	snddaudio.c	/^static void snddaudio_shutdown(struct snd_pcm_substream *substream,$/;"	f	file:
+snddaudio_soc_probe	snddaudio.c	/^static int snddaudio_soc_probe(struct snd_soc_codec *codec)$/;"	f	file:
+snddaudio_soc_remove	snddaudio.c	/^static int snddaudio_soc_remove(struct snd_soc_codec *codec)$/;"	f	file:
+snddaudio_startup	snddaudio.c	/^static int snddaudio_startup(struct snd_pcm_substream *substream,$/;"	f	file:
+sndhdmi_codec_device	sndhdmi.c	/^static struct platform_device sndhdmi_codec_device = {$/;"	v	typeref:struct:platform_device	file:
+sndhdmi_codec_driver	sndhdmi.c	/^static struct platform_driver sndhdmi_codec_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sndhdmi_codec_exit	sndhdmi.c	/^module_exit(sndhdmi_codec_exit);$/;"	v
+sndhdmi_codec_exit	sndhdmi.c	/^static void __exit sndhdmi_codec_exit(void)$/;"	f	file:
+sndhdmi_codec_init	sndhdmi.c	/^module_init(sndhdmi_codec_init);$/;"	v
+sndhdmi_codec_init	sndhdmi.c	/^static int __init sndhdmi_codec_init(void)$/;"	f	file:
+sndhdmi_codec_probe	sndhdmi.c	/^static int __init sndhdmi_codec_probe(struct platform_device *pdev)$/;"	f	file:
+sndhdmi_codec_remove	sndhdmi.c	/^static int __exit sndhdmi_codec_remove(struct platform_device *pdev)$/;"	f	file:
+sndhdmi_dai	sndhdmi.c	/^EXPORT_SYMBOL(sndhdmi_dai);$/;"	v
+sndhdmi_dai	sndhdmi.c	/^static struct snd_soc_dai_driver sndhdmi_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sndhdmi_dai_ops	sndhdmi.c	/^static struct snd_soc_dai_ops sndhdmi_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sndhdmi_hw_params	sndhdmi.c	/^EXPORT_SYMBOL(sndhdmi_hw_params);$/;"	v
+sndhdmi_hw_params	sndhdmi.c	/^int sndhdmi_hw_params(struct snd_pcm_substream *substream,$/;"	f
+sndhdmi_perpare	sndhdmi.c	/^EXPORT_SYMBOL(sndhdmi_perpare);$/;"	v
+sndhdmi_perpare	sndhdmi.c	/^int sndhdmi_perpare(struct snd_pcm_substream *substream,$/;"	f
+sndhdmi_priv	sndhdmi.c	/^struct sndhdmi_priv {$/;"	s	file:
+sndhdmi_set_dai_fmt	sndhdmi.c	/^static int sndhdmi_set_dai_fmt(struct snd_soc_dai *codec_dai,$/;"	f	file:
+sndhdmi_shutdown	sndhdmi.c	/^EXPORT_SYMBOL(sndhdmi_shutdown);$/;"	v
+sndhdmi_shutdown	sndhdmi.c	/^void sndhdmi_shutdown(struct snd_pcm_substream *substream,$/;"	f
+sndhdmi_soc_probe	sndhdmi.c	/^static int sndhdmi_soc_probe(struct snd_soc_codec *codec)$/;"	f	file:
+sndhdmi_soc_remove	sndhdmi.c	/^static int sndhdmi_soc_remove(struct snd_soc_codec *codec)$/;"	f	file:
+sndhdmi_trigger	sndhdmi.c	/^static int sndhdmi_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+soc_codec_dev_codec	sun8iw10_codec.c	/^static struct snd_soc_codec_driver soc_codec_dev_codec = {$/;"	v	typeref:struct:snd_soc_codec_driver	file:
+soc_codec_dev_codec	sun8iw11_codec.c	/^static struct snd_soc_codec_driver soc_codec_dev_codec = {$/;"	v	typeref:struct:snd_soc_codec_driver	file:
+soc_codec_dev_codec	sunxi_codec.c	/^static struct snd_soc_codec_driver soc_codec_dev_codec = {$/;"	v	typeref:struct:snd_soc_codec_driver	file:
+soc_codec_dev_cs4385	cs4385.c	/^static struct snd_soc_codec_driver soc_codec_dev_cs4385 = {$/;"	v	typeref:struct:snd_soc_codec_driver	file:
+soc_codec_dev_snddaudio	snddaudio.c	/^static struct snd_soc_codec_driver soc_codec_dev_snddaudio = {$/;"	v	typeref:struct:snd_soc_codec_driver	file:
+soc_codec_dev_sndhdmi	sndhdmi.c	/^static struct snd_soc_codec_driver soc_codec_dev_sndhdmi = {$/;"	v	typeref:struct:snd_soc_codec_driver	file:
+spdif_format	sunxi-sndspdif.c	/^static int spdif_format = 1;$/;"	v	file:
+spdif_format_enum	sunxi-sndspdif.c	/^static const struct soc_enum spdif_format_enum[] = {$/;"	v	typeref:struct:soc_enum	file:
+spdif_format_function	sunxi-sndspdif.c	/^static const char *spdif_format_function[] = {"null", "pcm", "DTS"};$/;"	v	file:
+spdif_loop_en	sunxi_spdif.c	/^static bool  spdif_loop_en 		= false;$/;"	v	file:
+spdif_rxctrl_enable	sunxi_spdif.c	/^static void spdif_rxctrl_enable(int rx_en,struct sunxi_spdif_info *sunxi_spdif)$/;"	f	file:
+spdif_set_clkdiv	sunxi_spdif.c	/^EXPORT_SYMBOL_GPL(spdif_set_clkdiv);$/;"	v
+spdif_set_clkdiv	sunxi_spdif.c	/^int spdif_set_clkdiv(int div_id, int div,struct sunxi_spdif_info *sunxi_spdif )$/;"	f
+spdif_set_fmt	sunxi_spdif.c	/^EXPORT_SYMBOL(spdif_set_fmt);$/;"	v
+spdif_set_fmt	sunxi_spdif.c	/^int spdif_set_fmt(unsigned int fmt,struct sunxi_spdif_info *sunxi_spdif)$/;"	f
+spdif_set_params	sunxi_spdif.c	/^EXPORT_SYMBOL(spdif_set_params);$/;"	v
+spdif_set_params	sunxi_spdif.c	/^int spdif_set_params(int format,struct sunxi_spdif_info *sunxi_spdif)$/;"	f
+spdif_txctrl_enable	sunxi_spdif.c	/^EXPORT_SYMBOL(spdif_txctrl_enable);$/;"	v
+spdif_txctrl_enable	sunxi_spdif.c	/^void spdif_txctrl_enable(int tx_en, int chan, int hub_en,struct sunxi_spdif_info *sunxi_spdif)$/;"	f
+spk_gpio	sun8iw10_codec.c	/^struct spk_gpio_ spk_gpio;$/;"	v	typeref:struct:spk_gpio_
+spk_gpio	sun8iw11_codec.c	/^struct spk_gpio_ spk_gpio;$/;"	v	typeref:struct:spk_gpio_
+spk_gpio	sunxi_codec.c	/^struct spk_gpio_ spk_gpio;$/;"	v	typeref:struct:spk_gpio_
+spk_gpio_	sun8iw10_codec.h	/^struct spk_gpio_ {$/;"	s
+spk_gpio_	sun8iw11_codec.h	/^struct spk_gpio_ {$/;"	s
+spk_gpio_	sunxi_codec.h	/^struct spk_gpio_ {$/;"	s
+spkenable	sun8iw10_codec.h	/^	bool spkenable;$/;"	m	struct:sunxi_codec
+spkenable	sun8iw11_codec.h	/^	bool spkenable;$/;"	m	struct:sunxi_codec
+spkenable	sunxi_codec.h	/^	bool spkenable;$/;"	m	struct:sunxi_codec
+spkervol	sun8iw10_codec.h	/^	u32 spkervol;$/;"	m	struct:gain_config
+spkervol	sun8iw11_codec.h	/^	u32 spkervol;$/;"	m	struct:gain_config
+spkervol	sunxi_codec.h	/^	u32 spkervol;$/;"	m	struct:gain_config
+srbit	sun8iw10_codec.c	/^	int srbit;$/;"	m	struct:codec_sr	file:
+srbit	sun8iw11_codec.c	/^	int srbit;$/;"	m	struct:codec_sr	file:
+src_function_en	sunxi_codec.c	/^static bool src_function_en = false;$/;"	v	file:
+src_maxburst	sunxi_dma.h	/^	u8 src_maxburst;$/;"	m	struct:sunxi_dma_params
+srcclk	sun8iw10_codec.h	/^	struct clk *srcclk;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+srcclk	sun8iw11_codec.h	/^	struct clk *srcclk;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+srcclk	sunxi_codec.h	/^	struct clk *srcclk;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::clk
+store_audio_reg	sun8iw10_codec.c	/^static ssize_t store_audio_reg(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+store_audio_reg	sun8iw11_codec.c	/^static ssize_t store_audio_reg(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+store_audio_reg	sunxi_codec.c	/^static ssize_t store_audio_reg(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+sunxi_ac_dapm_widgets	sun8iw10_sndcodec.c	/^static const struct snd_soc_dapm_widget sunxi_ac_dapm_widgets[] = {$/;"	v	typeref:struct:snd_soc_dapm_widget	file:
+sunxi_ac_dapm_widgets	sun8iw11_sndcodec.c	/^static const struct snd_soc_dapm_widget sunxi_ac_dapm_widgets[] = {$/;"	v	typeref:struct:snd_soc_dapm_widget	file:
+sunxi_ac_dapm_widgets	sunxi_sndcodec.c	/^static const struct snd_soc_dapm_widget sunxi_ac_dapm_widgets[] = {$/;"	v	typeref:struct:snd_soc_dapm_widget	file:
+sunxi_audio_init	sun8iw10_sndcodec.c	/^static int sunxi_audio_init(struct snd_soc_pcm_runtime *runtime)$/;"	f	file:
+sunxi_audio_init	sun8iw11_sndcodec.c	/^static int sunxi_audio_init(struct snd_soc_pcm_runtime *runtime)$/;"	f	file:
+sunxi_audio_init	sunxi_sndcodec.c	/^static int sunxi_audio_init(struct snd_soc_pcm_runtime *runtime)$/;"	f	file:
+sunxi_check_hs_button_status	sunxi_sndcodec.c	/^static void sunxi_check_hs_button_status(struct work_struct *work)$/;"	f	file:
+sunxi_check_hs_detect_status	sunxi_sndcodec.c	/^static void sunxi_check_hs_detect_status(struct work_struct *work)$/;"	f	file:
+sunxi_check_jack_type	sunxi_sndcodec.c	/^static int sunxi_check_jack_type(struct snd_soc_jack *jack)$/;"	f	file:
+sunxi_codec	sun8iw10_codec.h	/^struct sunxi_codec {$/;"	s
+sunxi_codec	sun8iw11_codec.h	/^struct sunxi_codec {$/;"	s
+sunxi_codec	sunxi_codec.h	/^struct sunxi_codec {$/;"	s
+sunxi_codec_controls	sun8iw10_codec.c	/^static const struct snd_kcontrol_new sunxi_codec_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+sunxi_codec_controls	sun8iw11_codec.c	/^static const struct snd_kcontrol_new sunxi_codec_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+sunxi_codec_controls	sunxi_codec.c	/^static const struct snd_kcontrol_new sunxi_codec_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+sunxi_codec_of_match	sun8iw10_codec.c	/^static const struct of_device_id sunxi_codec_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_codec_of_match	sun8iw11_codec.c	/^static const struct of_device_id sunxi_codec_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_codec_of_match	sunxi_codec.c	/^static const struct of_device_id sunxi_codec_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_cpudai	sunxi_cpudai.h	/^struct sunxi_cpudai {$/;"	s
+sunxi_cpudai_component	sunxi_cpudai.c	/^static const struct snd_soc_component_driver sunxi_cpudai_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_cpudai_dai_ops	sunxi_cpudai.c	/^static struct snd_soc_dai_ops sunxi_cpudai_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sunxi_cpudai_of_match	sunxi_cpudai.c	/^static const struct of_device_id sunxi_cpudai_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_cpudai_probe	sunxi_cpudai.c	/^static int sunxi_cpudai_probe(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_cpudai_resume	sunxi_cpudai.c	/^static int sunxi_cpudai_resume(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_cpudai_set_sysclk	sunxi_cpudai.c	/^static int sunxi_cpudai_set_sysclk(struct snd_soc_dai *dai,$/;"	f	file:
+sunxi_cpudai_suspend	sunxi_cpudai.c	/^static int sunxi_cpudai_suspend(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_daudio0_of_match	sunxi-snddaudio0.c	/^static const struct of_device_id sunxi_daudio0_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_daudio1_of_match	sunxi-snddaudio1.c	/^static const struct of_device_id sunxi_daudio1_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_daudio_component	sunxi_daudio.c	/^static const struct snd_soc_component_driver sunxi_daudio_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_daudio_dai	sunxi_daudio.c	/^static struct snd_soc_dai_driver sunxi_daudio_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sunxi_daudio_dai_ops	sunxi_daudio.c	/^static struct snd_soc_dai_ops sunxi_daudio_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sunxi_daudio_dai_probe	sunxi_daudio.c	/^static int sunxi_daudio_dai_probe(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_daudio_dai_remove	sunxi_daudio.c	/^static int sunxi_daudio_dai_remove(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_daudio_driver	sunxi-snddaudio0.c	/^static struct platform_driver sunxi_daudio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_daudio_driver	sunxi-snddaudio1.c	/^static struct platform_driver sunxi_daudio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_daudio_driver	sunxi_daudio.c	/^module_platform_driver(sunxi_daudio_driver);$/;"	v
+sunxi_daudio_driver	sunxi_daudio.c	/^static struct platform_driver sunxi_daudio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_daudio_hw_params	sunxi_daudio.c	/^static int sunxi_daudio_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_daudio_init	sunxi-snddaudio0.c	/^static int sunxi_daudio_init(struct snd_soc_pcm_runtime *rtd)$/;"	f	file:
+sunxi_daudio_init	sunxi-snddaudio1.c	/^static int sunxi_daudio_init(struct snd_soc_pcm_runtime *rtd)$/;"	f	file:
+sunxi_daudio_of_match	sunxi_daudio.c	/^static const struct of_device_id sunxi_daudio_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_daudio_perpare	sunxi_daudio.c	/^static int sunxi_daudio_perpare(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_daudio_platform_probe	sunxi_daudio.c	/^static int __init sunxi_daudio_platform_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_daudio_platform_remove	sunxi_daudio.c	/^static int sunxi_daudio_platform_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_daudio_resume	sunxi_daudio.c	/^static int sunxi_daudio_resume(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_daudio_set_clkdiv	sunxi_daudio.c	/^static int sunxi_daudio_set_clkdiv(struct snd_soc_dai *cpu_dai, int div_id, int sample_rate)$/;"	f	file:
+sunxi_daudio_set_fmt	sunxi_daudio.c	/^static int sunxi_daudio_set_fmt(struct snd_soc_dai *cpu_dai, unsigned int fmt)$/;"	f	file:
+sunxi_daudio_set_sysclk	sunxi_daudio.c	/^static int sunxi_daudio_set_sysclk(struct snd_soc_dai *cpu_dai, int clk_id,$/;"	f	file:
+sunxi_daudio_suspend	sunxi_daudio.c	/^static int sunxi_daudio_suspend(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_daudio_trigger	sunxi_daudio.c	/^static int sunxi_daudio_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_dma_params	sunxi_dma.h	/^struct sunxi_dma_params {$/;"	s
+sunxi_dmic_component	sunxi_dmic.c	/^static const struct snd_soc_component_driver sunxi_dmic_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_dmic_dai	sunxi_dmic.c	/^static struct snd_soc_dai_driver sunxi_dmic_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sunxi_dmic_dai_ops	sunxi_dmic.c	/^static struct snd_soc_dai_ops sunxi_dmic_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sunxi_dmic_dai_probe	sunxi_dmic.c	/^static int sunxi_dmic_dai_probe(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_dmic_dai_remove	sunxi_dmic.c	/^static int sunxi_dmic_dai_remove(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_dmic_dev_probe	sunxi_dmic.c	/^static int __init sunxi_dmic_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_dmic_dev_remove	sunxi_dmic.c	/^static int __exit sunxi_dmic_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_dmic_driver	sunxi-snddmic.c	/^static struct platform_driver sunxi_dmic_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_dmic_driver	sunxi_dmic.c	/^static struct platform_driver sunxi_dmic_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_dmic_exit	sunxi_dmic.c	/^module_exit(sunxi_dmic_exit);$/;"	v
+sunxi_dmic_exit	sunxi_dmic.c	/^static void __exit sunxi_dmic_exit(void)$/;"	f	file:
+sunxi_dmic_hw_params	sunxi_dmic.c	/^static int sunxi_dmic_hw_params(struct snd_pcm_substream *substream, struct snd_pcm_hw_params *params,$/;"	f	file:
+sunxi_dmic_info	sunxi_dmic.h	/^struct sunxi_dmic_info {$/;"	s
+sunxi_dmic_init	sunxi_dmic.c	/^module_init(sunxi_dmic_init);$/;"	v
+sunxi_dmic_init	sunxi_dmic.c	/^static int __init sunxi_dmic_init(void)$/;"	f	file:
+sunxi_dmic_of_match	sunxi-snddmic.c	/^static const struct of_device_id sunxi_dmic_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_dmic_of_match	sunxi_dmic.c	/^static const struct of_device_id sunxi_dmic_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_dmic_perpare	sunxi_dmic.c	/^static int sunxi_dmic_perpare(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_dmic_resume	sunxi_dmic.c	/^static int sunxi_dmic_resume(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_dmic_set_sysclk	sunxi_dmic.c	/^static int sunxi_dmic_set_sysclk(struct snd_soc_dai *cpu_dai, int clk_id,$/;"	f	file:
+sunxi_dmic_suspend	sunxi_dmic.c	/^static int sunxi_dmic_suspend(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_dmic_trigger	sunxi_dmic.c	/^static int sunxi_dmic_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_dsd_component	sunxi_dsd.c	/^static const struct snd_soc_component_driver sunxi_dsd_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_dsd_dai	sunxi_dsd.c	/^static struct snd_soc_dai_driver sunxi_dsd_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sunxi_dsd_dai_ops	sunxi_dsd.c	/^static struct snd_soc_dai_ops sunxi_dsd_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sunxi_dsd_dai_probe	sunxi_dsd.c	/^static int sunxi_dsd_dai_probe(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_dsd_dai_remove	sunxi_dsd.c	/^static int sunxi_dsd_dai_remove(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_dsd_dev_probe	sunxi_dsd.c	/^static int __init sunxi_dsd_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_dsd_dev_remove	sunxi_dsd.c	/^static int __exit sunxi_dsd_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_dsd_driver	sunxi-snddsd.c	/^static struct platform_driver sunxi_dsd_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_dsd_driver	sunxi_dsd.c	/^static struct platform_driver sunxi_dsd_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_dsd_exit	sunxi_dsd.c	/^module_exit(sunxi_dsd_exit);$/;"	v
+sunxi_dsd_exit	sunxi_dsd.c	/^static void __exit sunxi_dsd_exit(void)$/;"	f	file:
+sunxi_dsd_hw_params	sunxi_dsd.c	/^static int sunxi_dsd_hw_params(struct snd_pcm_substream *substream, struct snd_pcm_hw_params *params,$/;"	f	file:
+sunxi_dsd_info	sunxi_dsd.h	/^struct sunxi_dsd_info {$/;"	s
+sunxi_dsd_init	sunxi_dsd.c	/^module_init(sunxi_dsd_init);$/;"	v
+sunxi_dsd_init	sunxi_dsd.c	/^static int __init sunxi_dsd_init(void)$/;"	f	file:
+sunxi_dsd_of_match	sunxi-snddsd.c	/^static const struct of_device_id sunxi_dsd_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_dsd_of_match	sunxi_dsd.c	/^static const struct of_device_id sunxi_dsd_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_dsd_perpare	sunxi_dsd.c	/^static int sunxi_dsd_perpare(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_dsd_resume	sunxi_dsd.c	/^static int sunxi_dsd_resume(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_dsd_set_sysclk	sunxi_dsd.c	/^static int sunxi_dsd_set_sysclk(struct snd_soc_dai *cpu_dai, int clk_id,$/;"	f	file:
+sunxi_dsd_suspend	sunxi_dsd.c	/^static int sunxi_dsd_suspend(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_dsd_trigger	sunxi_dsd.c	/^static int sunxi_dsd_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_hdmi_component	sunxi_tdmhdmi.c	/^static const struct snd_soc_component_driver sunxi_hdmi_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_hdmi_dai	sunxi_tdmhdmi.c	/^static struct snd_soc_dai_driver sunxi_hdmi_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sunxi_hdmi_dai_ops	sunxi_tdmhdmi.c	/^static struct snd_soc_dai_ops sunxi_hdmi_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sunxi_hdmi_dai_probe	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_dai_probe(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_hdmi_dev_probe	sunxi_tdmhdmi.c	/^static int __init sunxi_hdmi_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_hdmi_dev_remove	sunxi_tdmhdmi.c	/^static int __exit sunxi_hdmi_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_hdmi_driver	sunxi_tdmhdmi.c	/^module_platform_driver(sunxi_hdmi_driver);$/;"	v
+sunxi_hdmi_driver	sunxi_tdmhdmi.c	/^static struct platform_driver sunxi_hdmi_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_hdmi_hw_params	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_hdmi_of_match	sunxi-sndhdmi.c	/^static const struct of_device_id sunxi_hdmi_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_hdmi_of_match	sunxi_tdmhdmi.c	/^static const struct of_device_id sunxi_hdmi_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_hdmi_perpare	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_perpare(struct snd_pcm_substream *substream,struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_hdmi_resume	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_resume(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_hdmi_set_clkdiv	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_set_clkdiv(struct snd_soc_dai *cpu_dai, int div_id, int sample_rate)$/;"	f	file:
+sunxi_hdmi_set_fmt	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_set_fmt(struct snd_soc_dai *cpu_dai, unsigned int fmt)$/;"	f	file:
+sunxi_hdmi_set_sysclk	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_set_sysclk(struct snd_soc_dai *cpu_dai, int clk_id,$/;"	f	file:
+sunxi_hdmi_suspend	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_suspend(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_hdmi_trigger	sunxi_tdmhdmi.c	/^static int sunxi_hdmi_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_hdmiaudio_controls	sunxi-sndhdmi.c	/^static const struct snd_kcontrol_new sunxi_hdmiaudio_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+sunxi_hdmiaudio_driver	sunxi-sndhdmi.c	/^static struct platform_driver sunxi_hdmiaudio_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_hdmiaudio_get_audio_mode	sunxi-sndhdmi.c	/^static int sunxi_hdmiaudio_get_audio_mode(struct snd_kcontrol *kcontrol,$/;"	f	file:
+sunxi_hdmiaudio_init	sunxi-sndhdmi.c	/^static int sunxi_hdmiaudio_init(struct snd_soc_pcm_runtime *rtd)$/;"	f	file:
+sunxi_hdmiaudio_set_audio_mode	sunxi-sndhdmi.c	/^static int sunxi_hdmiaudio_set_audio_mode(struct snd_kcontrol *kcontrol,$/;"	f	file:
+sunxi_hs_init_work	sunxi_sndcodec.c	/^static void sunxi_hs_init_work(struct work_struct *work)$/;"	f	file:
+sunxi_hs_reg_init	sunxi_sndcodec.c	/^static void sunxi_hs_reg_init(struct mc_private *ctx)$/;"	f	file:
+sunxi_hub_dai_link	sunxi_hub.c	/^struct snd_soc_dai_link sunxi_hub_dai_link[2] = {$/;"	v	typeref:struct:snd_soc_dai_link
+sunxi_hubhdmi_hw_params	sunxi_hub.c	/^static int sunxi_hubhdmi_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_hubhdmi_hwfree	sunxi_hub.c	/^static int sunxi_hubhdmi_hwfree(struct snd_pcm_substream *substream )$/;"	f	file:
+sunxi_hubhdmi_ops	sunxi_hub.c	/^static struct snd_soc_ops sunxi_hubhdmi_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_hubhdmi_shutdown	sunxi_hub.c	/^void sunxi_hubhdmi_shutdown(struct snd_pcm_substream *substream)$/;"	f
+sunxi_hubspdif_hw_params	sunxi_hub.c	/^static int sunxi_hubspdif_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_hubspdif_hwfree	sunxi_hub.c	/^static int sunxi_hubspdif_hwfree(struct snd_pcm_substream *substream )$/;"	f	file:
+sunxi_hubspdif_ops	sunxi_hub.c	/^static struct snd_soc_ops sunxi_hubspdif_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_i2s	sunxi_i2s.h	/^struct sunxi_i2s {$/;"	s
+sunxi_i2s_component	sun8iw10_codec.c	/^static const struct snd_soc_component_driver sunxi_i2s_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_i2s_component	sun8iw11_codec.c	/^static const struct snd_soc_component_driver sunxi_i2s_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_i2s_component	sunxi_i2s.c	/^static const struct snd_soc_component_driver sunxi_i2s_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_i2s_controls	sunxi_i2s.c	/^static const struct snd_kcontrol_new sunxi_i2s_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+sunxi_i2s_dai_ops	sunxi_i2s.c	/^static struct snd_soc_dai_ops sunxi_i2s_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sunxi_i2s_global	sunxi_i2s.c	/^static struct sunxi_i2s *sunxi_i2s_global = NULL ;$/;"	v	typeref:struct:sunxi_i2s	file:
+sunxi_i2s_hw_params	sunxi_i2s.c	/^static int sunxi_i2s_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_i2s_membase	sunxi_i2s.h	/^	void __iomem  *sunxi_i2s_membase;$/;"	m	struct:sunxi_i2s
+sunxi_i2s_of_match	sunxi_i2s.c	/^static const struct of_device_id sunxi_i2s_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_i2s_preapre	sunxi_i2s.c	/^static int sunxi_i2s_preapre(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_i2s_probe	sunxi_i2s.c	/^static int sunxi_i2s_probe(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_i2s_resume	sunxi_i2s.c	/^static int sunxi_i2s_resume(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_i2s_set_clkdiv	sunxi_i2s.c	/^static int sunxi_i2s_set_clkdiv(struct snd_soc_dai *dai, int div_id, int samplerate )$/;"	f	file:
+sunxi_i2s_set_fmt	sunxi_i2s.c	/^static int sunxi_i2s_set_fmt(struct snd_soc_dai *dai,unsigned int fmt)$/;"	f	file:
+sunxi_i2s_set_sysclk	sunxi_i2s.c	/^static int sunxi_i2s_set_sysclk(struct snd_soc_dai *dai,$/;"	f	file:
+sunxi_i2s_suspend	sunxi_i2s.c	/^static int sunxi_i2s_suspend(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_i2s_trigger	sunxi_i2s.c	/^static int sunxi_i2s_trigger(struct snd_pcm_substream *substream,int cmd, struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_internal_codec_driver	sun8iw10_codec.c	/^module_platform_driver(sunxi_internal_codec_driver);$/;"	v
+sunxi_internal_codec_driver	sun8iw10_codec.c	/^static struct platform_driver sunxi_internal_codec_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_internal_codec_driver	sun8iw11_codec.c	/^module_platform_driver(sunxi_internal_codec_driver);$/;"	v
+sunxi_internal_codec_driver	sun8iw11_codec.c	/^static struct platform_driver sunxi_internal_codec_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_internal_codec_driver	sunxi_codec.c	/^module_platform_driver(sunxi_internal_codec_driver);$/;"	v
+sunxi_internal_codec_driver	sunxi_codec.c	/^static struct platform_driver sunxi_internal_codec_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_internal_codec_probe	sun8iw10_codec.c	/^static int __init sunxi_internal_codec_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_probe	sun8iw11_codec.c	/^static int __init sunxi_internal_codec_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_probe	sunxi_codec.c	/^static int __init sunxi_internal_codec_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_remove	sun8iw10_codec.c	/^static int __exit sunxi_internal_codec_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_remove	sun8iw11_codec.c	/^static int __exit sunxi_internal_codec_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_remove	sunxi_codec.c	/^static int __exit sunxi_internal_codec_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_shutdown	sun8iw10_codec.c	/^static void sunxi_internal_codec_shutdown(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_shutdown	sun8iw11_codec.c	/^static void sunxi_internal_codec_shutdown(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_codec_shutdown	sunxi_codec.c	/^static void sunxi_internal_codec_shutdown(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_cpudai_driver	sunxi_cpudai.c	/^module_platform_driver(sunxi_internal_cpudai_driver);$/;"	v
+sunxi_internal_cpudai_driver	sunxi_cpudai.c	/^static struct platform_driver sunxi_internal_cpudai_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_internal_cpudai_platform_probe	sunxi_cpudai.c	/^static int __init sunxi_internal_cpudai_platform_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_cpudai_platform_remove	sunxi_cpudai.c	/^static int sunxi_internal_cpudai_platform_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_i2s_driver	sunxi_i2s.c	/^module_platform_driver(sunxi_internal_i2s_driver);$/;"	v
+sunxi_internal_i2s_driver	sunxi_i2s.c	/^static struct platform_driver sunxi_internal_i2s_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_internal_i2s_platform_probe	sunxi_i2s.c	/^static int __init sunxi_internal_i2s_platform_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_internal_i2s_platform_remove	sunxi_i2s.c	/^static int sunxi_internal_i2s_platform_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_machine_driver	sun8iw10_sndcodec.c	/^static struct platform_driver sunxi_machine_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_machine_driver	sun8iw11_sndcodec.c	/^static struct platform_driver sunxi_machine_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_machine_driver	sunxi_sndcodec.c	/^static struct platform_driver sunxi_machine_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_machine_exit	sun8iw10_sndcodec.c	/^module_exit(sunxi_machine_exit);$/;"	v
+sunxi_machine_exit	sun8iw10_sndcodec.c	/^static void __exit sunxi_machine_exit(void)$/;"	f	file:
+sunxi_machine_exit	sun8iw11_sndcodec.c	/^module_exit(sunxi_machine_exit);$/;"	v
+sunxi_machine_exit	sun8iw11_sndcodec.c	/^static void __exit sunxi_machine_exit(void)$/;"	f	file:
+sunxi_machine_exit	sunxi_sndcodec.c	/^module_exit(sunxi_machine_exit);$/;"	v
+sunxi_machine_exit	sunxi_sndcodec.c	/^static void __exit sunxi_machine_exit(void)$/;"	f	file:
+sunxi_machine_init	sun8iw10_sndcodec.c	/^module_init(sunxi_machine_init);$/;"	v
+sunxi_machine_init	sun8iw10_sndcodec.c	/^static int __init sunxi_machine_init(void)$/;"	f	file:
+sunxi_machine_init	sun8iw11_sndcodec.c	/^module_init(sunxi_machine_init);$/;"	v
+sunxi_machine_init	sun8iw11_sndcodec.c	/^static int __init sunxi_machine_init(void)$/;"	f	file:
+sunxi_machine_init	sunxi_sndcodec.c	/^module_init(sunxi_machine_init);$/;"	v
+sunxi_machine_init	sunxi_sndcodec.c	/^static int __init sunxi_machine_init(void)$/;"	f	file:
+sunxi_machine_of_match	sun8iw10_sndcodec.c	/^static const struct of_device_id sunxi_machine_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_machine_of_match	sun8iw11_sndcodec.c	/^static const struct of_device_id sunxi_machine_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_machine_of_match	sunxi_sndcodec.c	/^static const struct of_device_id sunxi_machine_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_machine_probe	sun8iw10_sndcodec.c	/^static int sunxi_machine_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_machine_probe	sun8iw11_sndcodec.c	/^static int sunxi_machine_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_machine_probe	sunxi_sndcodec.c	/^static int sunxi_machine_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_machine_shutdown	sunxi_sndcodec.c	/^static void sunxi_machine_shutdown(struct platform_device *pdev)$/;"	f	file:
+sunxi_pcm_copy	sunxi_dma.c	/^static int sunxi_pcm_copy(struct snd_pcm_substream *substream, int a,$/;"	f	file:
+sunxi_pcm_dai	sunxi_cpudai.c	/^static struct snd_soc_dai_driver sunxi_pcm_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sunxi_pcm_dai	sunxi_i2s.c	/^static struct snd_soc_dai_driver sunxi_pcm_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sunxi_pcm_free_dma_buffers	sunxi_dma.c	/^static void sunxi_pcm_free_dma_buffers(struct snd_pcm *pcm)$/;"	f	file:
+sunxi_pcm_hardware	sunxi_dma.c	/^static const struct snd_pcm_hardware sunxi_pcm_hardware = {$/;"	v	typeref:struct:snd_pcm_hardware	file:
+sunxi_pcm_hdmi_hw_free	sunxi_dma.c	/^static int sunxi_pcm_hdmi_hw_free(struct snd_pcm_substream *substream)$/;"	f	file:
+sunxi_pcm_hdmi_hw_params	sunxi_dma.c	/^static int sunxi_pcm_hdmi_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_pcm_hw_free	sunxi_dma.c	/^static int sunxi_pcm_hw_free(struct snd_pcm_substream *substream)$/;"	f	file:
+sunxi_pcm_hw_params	sunxi_dma.c	/^static int sunxi_pcm_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_pcm_mask	sunxi_dma.c	/^static u64 sunxi_pcm_mask = DMA_BIT_MASK(32);$/;"	v	file:
+sunxi_pcm_mmap	sunxi_dma.c	/^static int sunxi_pcm_mmap(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_pcm_new	sunxi_dma.c	/^static int sunxi_pcm_new(struct snd_soc_pcm_runtime *rtd)$/;"	f	file:
+sunxi_pcm_open	sunxi_dma.c	/^static int sunxi_pcm_open(struct snd_pcm_substream *substream)$/;"	f	file:
+sunxi_pcm_ops	sunxi_dma.c	/^static struct snd_pcm_ops sunxi_pcm_ops = {$/;"	v	typeref:struct:snd_pcm_ops	file:
+sunxi_pcm_ops_no_residue	sunxi_dma.c	/^static struct snd_pcm_ops sunxi_pcm_ops_no_residue = {$/;"	v	typeref:struct:snd_pcm_ops	file:
+sunxi_pcm_preallocate_dma_buffer	sunxi_dma.c	/^static int sunxi_pcm_preallocate_dma_buffer(struct snd_pcm *pcm, int stream)$/;"	f	file:
+sunxi_pcm_trigger	sunxi_dma.c	/^static int sunxi_pcm_trigger(struct snd_pcm_substream *substream, int cmd)$/;"	f	file:
+sunxi_resume	sunxi_sndcodec.c	/^static int sunxi_resume(struct snd_soc_card *card)$/;"	f	file:
+sunxi_snd_rxctrl	sunxi_i2s.c	/^static void sunxi_snd_rxctrl(struct snd_pcm_substream *substream, int on,struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_snd_txctrl	sunxi_i2s.c	/^static void sunxi_snd_txctrl(struct snd_pcm_substream *substream, int on,struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_snddaudio0_dev_probe	sunxi-snddaudio0.c	/^static int  sunxi_snddaudio0_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddaudio0_dev_remove	sunxi-snddaudio0.c	/^static int  sunxi_snddaudio0_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddaudio0_exit	sunxi-snddaudio0.c	/^module_exit(sunxi_snddaudio0_exit);$/;"	v
+sunxi_snddaudio0_exit	sunxi-snddaudio0.c	/^static void __exit sunxi_snddaudio0_exit(void)$/;"	f	file:
+sunxi_snddaudio0_hw_params	sunxi-snddaudio0.c	/^static int sunxi_snddaudio0_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_snddaudio0_init	sunxi-snddaudio0.c	/^module_init(sunxi_snddaudio0_init);$/;"	v
+sunxi_snddaudio0_init	sunxi-snddaudio0.c	/^static int __init sunxi_snddaudio0_init(void)$/;"	f	file:
+sunxi_snddaudio1_dev_probe	sunxi-snddaudio1.c	/^static int  sunxi_snddaudio1_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddaudio1_dev_remove	sunxi-snddaudio1.c	/^static int  sunxi_snddaudio1_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddaudio1_exit	sunxi-snddaudio1.c	/^module_exit(sunxi_snddaudio1_exit);$/;"	v
+sunxi_snddaudio1_exit	sunxi-snddaudio1.c	/^static void __exit sunxi_snddaudio1_exit(void)$/;"	f	file:
+sunxi_snddaudio1_hw_params	sunxi-snddaudio1.c	/^static int sunxi_snddaudio1_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_snddaudio1_init	sunxi-snddaudio1.c	/^module_init(sunxi_snddaudio1_init);$/;"	v
+sunxi_snddaudio1_init	sunxi-snddaudio1.c	/^static int __init sunxi_snddaudio1_init(void)$/;"	f	file:
+sunxi_snddaudio_dai_link	sunxi-snddaudio0.c	/^static struct snd_soc_dai_link sunxi_snddaudio_dai_link = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_snddaudio_dai_link	sunxi-snddaudio1.c	/^static struct snd_soc_dai_link sunxi_snddaudio_dai_link = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_snddaudio_ops	sunxi-snddaudio0.c	/^static struct snd_soc_ops sunxi_snddaudio_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_snddaudio_ops	sunxi-snddaudio1.c	/^static struct snd_soc_ops sunxi_snddaudio_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_snddmic_dai_link	sunxi-snddmic.c	/^static struct snd_soc_dai_link sunxi_snddmic_dai_link = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_snddmic_dev_probe	sunxi-snddmic.c	/^static int sunxi_snddmic_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddmic_dev_remove	sunxi-snddmic.c	/^static int sunxi_snddmic_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddmic_exit	sunxi-snddmic.c	/^module_exit(sunxi_snddmic_exit);$/;"	v
+sunxi_snddmic_exit	sunxi-snddmic.c	/^static void __exit sunxi_snddmic_exit(void)$/;"	f	file:
+sunxi_snddmic_hw_params	sunxi-snddmic.c	/^static int sunxi_snddmic_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_snddmic_init	sunxi-snddmic.c	/^module_init(sunxi_snddmic_init);$/;"	v
+sunxi_snddmic_init	sunxi-snddmic.c	/^static int __init sunxi_snddmic_init(void)$/;"	f	file:
+sunxi_snddmic_ops	sunxi-snddmic.c	/^static struct snd_soc_ops sunxi_snddmic_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_snddsd_dai_link	sunxi-snddsd.c	/^static struct snd_soc_dai_link sunxi_snddsd_dai_link = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_snddsd_dev_probe	sunxi-snddsd.c	/^static int sunxi_snddsd_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddsd_dev_remove	sunxi-snddsd.c	/^static int sunxi_snddsd_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_snddsd_exit	sunxi-snddsd.c	/^module_exit(sunxi_snddsd_exit);$/;"	v
+sunxi_snddsd_exit	sunxi-snddsd.c	/^static void __exit sunxi_snddsd_exit(void)$/;"	f	file:
+sunxi_snddsd_hw_params	sunxi-snddsd.c	/^static int sunxi_snddsd_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_snddsd_init	sunxi-snddsd.c	/^module_init(sunxi_snddsd_init);$/;"	v
+sunxi_snddsd_init	sunxi-snddsd.c	/^static int __init sunxi_snddsd_init(void)$/;"	f	file:
+sunxi_snddsd_ops	sunxi-snddsd.c	/^static struct snd_soc_ops sunxi_snddsd_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_sndhdmi_dai_link	sunxi-sndhdmi.c	/^static struct snd_soc_dai_link sunxi_sndhdmi_dai_link = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_sndhdmi_dev_probe	sunxi-sndhdmi.c	/^static int sunxi_sndhdmi_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_sndhdmi_dev_remove	sunxi-sndhdmi.c	/^static int sunxi_sndhdmi_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_sndhdmi_exit	sunxi-sndhdmi.c	/^module_exit(sunxi_sndhdmi_exit);$/;"	v
+sunxi_sndhdmi_exit	sunxi-sndhdmi.c	/^static void __exit sunxi_sndhdmi_exit(void)$/;"	f	file:
+sunxi_sndhdmi_hw_params	sunxi-sndhdmi.c	/^static int sunxi_sndhdmi_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_sndhdmi_init	sunxi-sndhdmi.c	/^module_init(sunxi_sndhdmi_init);$/;"	v
+sunxi_sndhdmi_init	sunxi-sndhdmi.c	/^static int __init sunxi_sndhdmi_init(void)$/;"	f	file:
+sunxi_sndhdmi_ops	sunxi-sndhdmi.c	/^static struct snd_soc_ops sunxi_sndhdmi_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_sndhdmi_resume	sndhdmi.c	/^static int sunxi_sndhdmi_resume(struct snd_soc_codec *dai)$/;"	f	file:
+sunxi_sndhdmi_suspend	sndhdmi.c	/^static int sunxi_sndhdmi_suspend(struct snd_soc_codec *dai)$/;"	f	file:
+sunxi_sndpcm_dai_link	sun8iw10_sndcodec.c	/^static struct snd_soc_dai_link sunxi_sndpcm_dai_link[] = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_sndpcm_dai_link	sun8iw11_sndcodec.c	/^static struct snd_soc_dai_link sunxi_sndpcm_dai_link[] = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_sndpcm_dai_link	sunxi_sndcodec.c	/^static struct snd_soc_dai_link sunxi_sndpcm_dai_link[] = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_sndpcm_hw_params	sun8iw10_sndcodec.c	/^static int sunxi_sndpcm_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_sndpcm_hw_params	sun8iw11_sndcodec.c	/^static int sunxi_sndpcm_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_sndpcm_hw_params	sunxi_sndcodec.c	/^static int sunxi_sndpcm_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_sndpcm_ops	sun8iw10_sndcodec.c	/^static struct snd_soc_ops sunxi_sndpcm_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_sndpcm_ops	sun8iw11_sndcodec.c	/^static struct snd_soc_ops sunxi_sndpcm_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_sndpcm_ops	sunxi_sndcodec.c	/^static struct snd_soc_ops sunxi_sndpcm_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_sndspdif_dai_link	sunxi-sndspdif.c	/^static struct snd_soc_dai_link sunxi_sndspdif_dai_link = {$/;"	v	typeref:struct:snd_soc_dai_link	file:
+sunxi_sndspdif_dev_probe	sunxi-sndspdif.c	/^static int sunxi_sndspdif_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_sndspdif_dev_remove	sunxi-sndspdif.c	/^static int sunxi_sndspdif_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_sndspdif_exit	sunxi-sndspdif.c	/^module_exit(sunxi_sndspdif_exit);$/;"	v
+sunxi_sndspdif_exit	sunxi-sndspdif.c	/^static void __exit sunxi_sndspdif_exit(void)$/;"	f	file:
+sunxi_sndspdif_hw_params	sunxi-sndspdif.c	/^static int sunxi_sndspdif_hw_params(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_sndspdif_init	sunxi-sndspdif.c	/^module_init(sunxi_sndspdif_init);$/;"	v
+sunxi_sndspdif_init	sunxi-sndspdif.c	/^static int __init sunxi_sndspdif_init(void)$/;"	f	file:
+sunxi_sndspdif_ops	sunxi-sndspdif.c	/^static struct snd_soc_ops sunxi_sndspdif_ops = {$/;"	v	typeref:struct:snd_soc_ops	file:
+sunxi_sndspdif_shutdown	sunxi-sndspdif.c	/^static void sunxi_sndspdif_shutdown(struct snd_pcm_substream *substream)$/;"	f	file:
+sunxi_sndspdif_startup	sunxi-sndspdif.c	/^static int sunxi_sndspdif_startup(struct snd_pcm_substream *substream)$/;"	f	file:
+sunxi_soc_platform	sunxi_dma.c	/^static struct snd_soc_platform_driver sunxi_soc_platform = {$/;"	v	typeref:struct:snd_soc_platform_driver	file:
+sunxi_soc_platform_no_residue	sunxi_dma.c	/^static const struct snd_soc_platform_driver sunxi_soc_platform_no_residue = {$/;"	v	typeref:struct:snd_soc_platform_driver	file:
+sunxi_spdif_component	sunxi_spdif.c	/^static const struct snd_soc_component_driver sunxi_spdif_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+sunxi_spdif_controls	sunxi-sndspdif.c	/^static const struct snd_kcontrol_new sunxi_spdif_controls[] = {$/;"	v	typeref:struct:snd_kcontrol_new	file:
+sunxi_spdif_dai	sunxi_spdif.c	/^static struct snd_soc_dai_driver sunxi_spdif_dai = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+sunxi_spdif_dai_ops	sunxi_spdif.c	/^static struct snd_soc_dai_ops sunxi_spdif_dai_ops = {$/;"	v	typeref:struct:snd_soc_dai_ops	file:
+sunxi_spdif_dai_probe	sunxi_spdif.c	/^static int sunxi_spdif_dai_probe(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_spdif_dai_remove	sunxi_spdif.c	/^static int sunxi_spdif_dai_remove(struct snd_soc_dai *dai)$/;"	f	file:
+sunxi_spdif_dev_probe	sunxi_spdif.c	/^static int __init sunxi_spdif_dev_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_spdif_dev_remove	sunxi_spdif.c	/^static int __exit sunxi_spdif_dev_remove(struct platform_device *pdev)$/;"	f	file:
+sunxi_spdif_driver	sunxi-sndspdif.c	/^static struct platform_driver sunxi_spdif_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_spdif_driver	sunxi_spdif.c	/^static struct platform_driver sunxi_spdif_driver = {$/;"	v	typeref:struct:platform_driver	file:
+sunxi_spdif_exit	sunxi_spdif.c	/^module_exit(sunxi_spdif_exit);$/;"	v
+sunxi_spdif_exit	sunxi_spdif.c	/^static void __exit sunxi_spdif_exit(void)$/;"	f	file:
+sunxi_spdif_get_audio_mode	sunxi-sndspdif.c	/^static int sunxi_spdif_get_audio_mode(struct snd_kcontrol *kcontrol,$/;"	f	file:
+sunxi_spdif_hw_params	sunxi_spdif.c	/^static int sunxi_spdif_hw_params(struct snd_pcm_substream *substream, struct snd_pcm_hw_params *params,$/;"	f	file:
+sunxi_spdif_info	sunxi_spdif.h	/^struct sunxi_spdif_info {$/;"	s
+sunxi_spdif_init	sunxi-sndspdif.c	/^static int sunxi_spdif_init(struct snd_soc_pcm_runtime *rtd)$/;"	f	file:
+sunxi_spdif_init	sunxi_spdif.c	/^module_init(sunxi_spdif_init);$/;"	v
+sunxi_spdif_init	sunxi_spdif.c	/^static int __init sunxi_spdif_init(void)$/;"	f	file:
+sunxi_spdif_of_match	sunxi-sndspdif.c	/^static const struct of_device_id sunxi_spdif_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_spdif_of_match	sunxi_spdif.c	/^static const struct of_device_id sunxi_spdif_of_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_spdif_resume	sunxi_spdif.c	/^static int sunxi_spdif_resume(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_spdif_set_audio_mode	sunxi-sndspdif.c	/^static int sunxi_spdif_set_audio_mode(struct snd_kcontrol *kcontrol,$/;"	f	file:
+sunxi_spdif_set_clkdiv	sunxi_spdif.c	/^static int sunxi_spdif_set_clkdiv(struct snd_soc_dai *cpu_dai, int div_id, int div)$/;"	f	file:
+sunxi_spdif_set_fmt	sunxi_spdif.c	/^static int sunxi_spdif_set_fmt(struct snd_soc_dai *cpu_dai, unsigned int fmt)$/;"	f	file:
+sunxi_spdif_set_sysclk	sunxi_spdif.c	/^static int sunxi_spdif_set_sysclk(struct snd_soc_dai *cpu_dai, int clk_id,$/;"	f	file:
+sunxi_spdif_suspend	sunxi_spdif.c	/^static int sunxi_spdif_suspend(struct snd_soc_dai *cpu_dai)$/;"	f	file:
+sunxi_spdif_trigger	sunxi_spdif.c	/^static int sunxi_spdif_trigger(struct snd_pcm_substream *substream,$/;"	f	file:
+sunxi_suspend	sunxi_sndcodec.c	/^static int sunxi_suspend(struct snd_soc_card *card)$/;"	f	file:
+sunxi_tdm_info	sunxi_tdm_utils.h	/^struct sunxi_tdm_info {$/;"	s
+switch_state	sunxi_sndcodec.c	/^static int  switch_state 	= 0;$/;"	v	file:
+switch_status	sunxi_sndcodec.c	/^	u32 switch_status;$/;"	m	struct:mc_private	file:
+sysclk	cs4385.c	/^	unsigned int sysclk;$/;"	m	struct:cs4385_priv	file:
+sysclk	snddaudio.c	/^	int sysclk;$/;"	m	struct:snddaudio_priv	file:
+sysclk	sndhdmi.c	/^	int sysclk;$/;"	m	struct:sndhdmi_priv	file:
+tdm_config	sunxi_tdm_utils.h	/^	bool tdm_config;	\/*1:i2s 0:pcm*\/$/;"	m	struct:sunxi_tdm_info
+tdm_global_enable	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(tdm_global_enable);$/;"	v
+tdm_global_enable	sunxi_tdm_utils.c	/^int tdm_global_enable(struct sunxi_tdm_info *sunxi_tdm,bool on)$/;"	f
+tdm_hw_params	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(tdm_hw_params);$/;"	v
+tdm_hw_params	sunxi_tdm_utils.c	/^int tdm_hw_params(struct snd_pcm_hw_params *params,struct sunxi_tdm_info *sunxi_tdm)$/;"	f
+tdm_moduleclk	sunxi_tdm_utils.h	/^	struct clk *tdm_moduleclk;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::clk
+tdm_num	sunxi_tdm_utils.h	/^	u32 tdm_num;$/;"	m	struct:sunxi_tdm_info
+tdm_perpare	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(tdm_perpare);$/;"	v
+tdm_perpare	sunxi_tdm_utils.c	/^int tdm_perpare(struct snd_pcm_substream *substream,$/;"	f
+tdm_pllclk	sunxi_tdm_utils.h	/^	struct clk *tdm_pllclk;$/;"	m	struct:sunxi_tdm_info	typeref:struct:sunxi_tdm_info::clk
+tdm_set_clkdiv	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(tdm_set_clkdiv);$/;"	v
+tdm_set_clkdiv	sunxi_tdm_utils.c	/^int tdm_set_clkdiv(int sample_rate,struct sunxi_tdm_info *sunxi_tdm)$/;"	f
+tdm_set_fmt	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(tdm_set_fmt);$/;"	v
+tdm_set_fmt	sunxi_tdm_utils.c	/^int tdm_set_fmt(unsigned int fmt,struct sunxi_tdm_info *sunxi_tdm)$/;"	f
+tdm_set_sysclk	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(tdm_set_sysclk);$/;"	v
+tdm_set_sysclk	sunxi_tdm_utils.c	/^int tdm_set_sysclk(unsigned int freq,struct sunxi_tdm_info *sunxi_tdm)$/;"	f
+tdm_trigger	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(tdm_trigger);$/;"	v
+tdm_trigger	sunxi_tdm_utils.c	/^int tdm_trigger(struct snd_pcm_substream *substream,int cmd, struct sunxi_tdm_info *sunxi_tdm)$/;"	f
+tv_headset_plugin	sunxi_sndcodec.c	/^	struct timeval tv_headset_plugin;\/*4*\/$/;"	m	struct:mc_private	typeref:struct:mc_private::timeval	file:
+tx_data_mode	sunxi_tdm_utils.h	/^	u32 tx_data_mode;$/;"	m	struct:sunxi_tdm_info
+txctrl_tdm	sunxi_tdm_utils.c	/^EXPORT_SYMBOL(txctrl_tdm);$/;"	v
+txctrl_tdm	sunxi_tdm_utils.c	/^int txctrl_tdm(int on,int hub_en,struct sunxi_tdm_info *sunxi_tdm)$/;"	f
+value	sun8iw10_codec.h	/^    int value;$/;"	m	struct:label
+value	sun8iw11_codec.h	/^    int value;$/;"	m	struct:label
+value	sunxi_codec.h	/^    int value;$/;"	m	struct:label
+voice_component	sunxi_sndcodec.c	/^static const struct snd_soc_component_driver voice_component = {$/;"	v	typeref:struct:snd_soc_component_driver	file:
+voice_dai	sunxi_sndcodec.c	/^static struct snd_soc_dai_driver voice_dai[] = {$/;"	v	typeref:struct:snd_soc_dai_driver	file:
+vol_supply	sun8iw10_codec.h	/^	struct voltage_supply vol_supply;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::voltage_supply
+vol_supply	sun8iw11_codec.h	/^	struct voltage_supply vol_supply;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::voltage_supply
+vol_supply	sunxi_codec.h	/^	struct voltage_supply vol_supply;$/;"	m	struct:sunxi_codec	typeref:struct:sunxi_codec::voltage_supply
+voltage_supply	sun8iw10_codec.h	/^struct voltage_supply {$/;"	s
+voltage_supply	sun8iw11_codec.h	/^struct voltage_supply {$/;"	s
+voltage_supply	sunxi_codec.h	/^struct voltage_supply {$/;"	s
+word	sunxi_dma.c	/^typedef union word$/;"	u	file:
+word_format	sunxi_dma.c	/^}word_format;$/;"	t	typeref:union:word	file:
+write_prcm_wvalue	sunxi_rw_func.c	/^EXPORT_SYMBOL_GPL(write_prcm_wvalue);$/;"	v
+write_prcm_wvalue	sunxi_rw_func.c	/^void write_prcm_wvalue(u32 addr, u32 val,void __iomem * ADDA_PR_CFG_REG)$/;"	f
+wval	sunxi_dma.c	/^	unsigned int wval;$/;"	m	union:word	file:

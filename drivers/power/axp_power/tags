@@ -1,0 +1,936 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS	axp-cfg.h	10;"	d
+AXP15	axp-cfg.h	6;"	d
+AXP22	axp-cfg.h	5;"	d
+AXP81X_ADC_APSVOL_ENABLE	axp81x-sply.h	51;"	d
+AXP81X_ADC_BATCUR_ENABLE	axp81x-sply.h	46;"	d
+AXP81X_ADC_BATVOL_ENABLE	axp81x-sply.h	45;"	d
+AXP81X_ADC_CONTROL	axp81x-sply.h	44;"	d
+AXP81X_ADC_CONTROL3	axp81x-sply.h	58;"	d
+AXP81X_ADC_CONTROL4	axp81x-sply.h	59;"	d
+AXP81X_ADC_DCINCUR_ENABLE	axp81x-sply.h	48;"	d
+AXP81X_ADC_DCINVOL_ENABLE	axp81x-sply.h	47;"	d
+AXP81X_ADC_GPIO0_ENABLE	axp81x-sply.h	54;"	d
+AXP81X_ADC_GPIO1_ENABLE	axp81x-sply.h	55;"	d
+AXP81X_ADC_GPIO2_ENABLE	axp81x-sply.h	56;"	d
+AXP81X_ADC_GPIO3_ENABLE	axp81x-sply.h	57;"	d
+AXP81X_ADC_INTERTEM_ENABLE	axp81x-sply.h	53;"	d
+AXP81X_ADC_TSVOL_ENABLE	axp81x-sply.h	52;"	d
+AXP81X_ADC_USBCUR_ENABLE	axp81x-sply.h	50;"	d
+AXP81X_ADC_USBVOL_ENABLE	axp81x-sply.h	49;"	d
+AXP81X_ADJUST_PARA	axp81x-sply.h	31;"	d
+AXP81X_BATCAP0	axp81x-sply.h	26;"	d
+AXP81X_BATCAP1	axp81x-sply.h	27;"	d
+AXP81X_CAP	axp81x-sply.h	25;"	d
+AXP81X_CHARGER_ENABLE	axp81x-sply.h	20;"	d
+AXP81X_CHARGE_AC	axp81x-sply.h	24;"	d
+AXP81X_CHARGE_CONTROL1	axp81x-sply.h	19;"	d
+AXP81X_CHARGE_CONTROL2	axp81x-sply.h	21;"	d
+AXP81X_CHARGE_CONTROL3	axp81x-sply.h	22;"	d
+AXP81X_CHARGE_CURRENT_MAX	axp81x-sply.h	84;"	d
+AXP81X_CHARGE_CURRENT_MIN	axp81x-sply.h	83;"	d
+AXP81X_CHARGE_CURRENT_STEP	axp81x-sply.h	85;"	d
+AXP81X_CHARGE_END_LEVEL0	axp81x-sply.h	86;"	d
+AXP81X_CHARGE_END_LEVEL1	axp81x-sply.h	87;"	d
+AXP81X_CHARGE_FASTTIME_MAX	axp81x-sply.h	92;"	d
+AXP81X_CHARGE_FASTTIME_MIN	axp81x-sply.h	91;"	d
+AXP81X_CHARGE_FASTTIME_STEP	axp81x-sply.h	93;"	d
+AXP81X_CHARGE_PRETIME_MAX	axp81x-sply.h	89;"	d
+AXP81X_CHARGE_PRETIME_MIN	axp81x-sply.h	88;"	d
+AXP81X_CHARGE_PRETIME_STEP	axp81x-sply.h	90;"	d
+AXP81X_CHARGE_STATUS	axp81x-sply.h	16;"	d
+AXP81X_CHARGE_VBUS	axp81x-sply.h	23;"	d
+AXP81X_CHARGE_VOLTAGE_LEVEL0	axp81x-sply.h	79;"	d
+AXP81X_CHARGE_VOLTAGE_LEVEL1	axp81x-sply.h	80;"	d
+AXP81X_CHARGE_VOLTAGE_LEVEL2	axp81x-sply.h	81;"	d
+AXP81X_CHARGE_VOLTAGE_LEVEL3	axp81x-sply.h	82;"	d
+AXP81X_COULOMB_CLEAR	axp81x-sply.h	42;"	d
+AXP81X_COULOMB_CONTROL	axp81x-sply.h	39;"	d
+AXP81X_COULOMB_ENABLE	axp81x-sply.h	40;"	d
+AXP81X_COULOMB_SUSPEND	axp81x-sply.h	41;"	d
+AXP81X_DATA_BUFFER0	axp81x-sply.h	66;"	d
+AXP81X_DATA_BUFFER1	axp81x-sply.h	67;"	d
+AXP81X_DATA_BUFFER2	axp81x-sply.h	68;"	d
+AXP81X_DATA_BUFFER3	axp81x-sply.h	69;"	d
+AXP81X_DATA_BUFFER4	axp81x-sply.h	70;"	d
+AXP81X_DATA_BUFFER5	axp81x-sply.h	71;"	d
+AXP81X_DATA_BUFFER6	axp81x-sply.h	72;"	d
+AXP81X_DATA_BUFFER7	axp81x-sply.h	73;"	d
+AXP81X_DATA_BUFFER8	axp81x-sply.h	74;"	d
+AXP81X_DATA_BUFFER9	axp81x-sply.h	75;"	d
+AXP81X_DATA_BUFFERA	axp81x-sply.h	76;"	d
+AXP81X_DATA_BUFFERB	axp81x-sply.h	77;"	d
+AXP81X_DC1SW	axp81x-regu.h	82;"	d
+AXP81X_DC1SWEN	axp81x-regu.h	107;"	d
+AXP81X_DCDC	axp81x-regu.c	44;"	d	file:
+AXP81X_DCDC1	axp81x-regu.h	73;"	d
+AXP81X_DCDC1EN	axp81x-regu.h	98;"	d
+AXP81X_DCDC2	axp81x-regu.h	74;"	d
+AXP81X_DCDC2EN	axp81x-regu.h	99;"	d
+AXP81X_DCDC3	axp81x-regu.h	75;"	d
+AXP81X_DCDC3EN	axp81x-regu.h	100;"	d
+AXP81X_DCDC4	axp81x-regu.h	76;"	d
+AXP81X_DCDC4EN	axp81x-regu.h	101;"	d
+AXP81X_DCDC5	axp81x-regu.h	77;"	d
+AXP81X_DCDC5EN	axp81x-regu.h	102;"	d
+AXP81X_DCDC6	axp81x-regu.h	78;"	d
+AXP81X_DCDC6EN	axp81x-regu.h	103;"	d
+AXP81X_DCDC7	axp81x-regu.h	79;"	d
+AXP81X_DCDC7EN	axp81x-regu.h	104;"	d
+AXP81X_FAULT_LOG1	axp81x-sply.h	32;"	d
+AXP81X_FAULT_LOG2	axp81x-sply.h	36;"	d
+AXP81X_FAULT_LOG_BATINACT	axp81x-sply.h	34;"	d
+AXP81X_FAULT_LOG_CHA_CUR_LOW	axp81x-sply.h	33;"	d
+AXP81X_FAULT_LOG_COLD	axp81x-sply.h	37;"	d
+AXP81X_FAULT_LOG_OVER_TEMP	axp81x-sply.h	35;"	d
+AXP81X_FINISH_CHARGE	axp81x-sply.h	38;"	d
+AXP81X_ID_DCDC1	axp81x-regu.h	/^	AXP81X_ID_DCDC1 = AXP_DCDC_ID_START,$/;"	e	enum:__anon5
+AXP81X_ID_DCDC2	axp81x-regu.h	/^	AXP81X_ID_DCDC2,$/;"	e	enum:__anon5
+AXP81X_ID_DCDC3	axp81x-regu.h	/^	AXP81X_ID_DCDC3,$/;"	e	enum:__anon5
+AXP81X_ID_DCDC4	axp81x-regu.h	/^	AXP81X_ID_DCDC4,$/;"	e	enum:__anon5
+AXP81X_ID_DCDC5	axp81x-regu.h	/^	AXP81X_ID_DCDC5,$/;"	e	enum:__anon5
+AXP81X_ID_DCDC6	axp81x-regu.h	/^	AXP81X_ID_DCDC6,$/;"	e	enum:__anon5
+AXP81X_ID_DCDC7	axp81x-regu.h	/^	AXP81X_ID_DCDC7,$/;"	e	enum:__anon5
+AXP81X_ID_LDO1	axp81x-regu.h	/^	AXP81X_ID_LDO1,   \/\/RTC$/;"	e	enum:__anon5
+AXP81X_ID_LDO10	axp81x-regu.h	/^	AXP81X_ID_LDO10,  \/\/ELDO2$/;"	e	enum:__anon5
+AXP81X_ID_LDO11	axp81x-regu.h	/^	AXP81X_ID_LDO11,  \/\/ELDO3$/;"	e	enum:__anon5
+AXP81X_ID_LDO12	axp81x-regu.h	/^	AXP81X_ID_LDO12,  \/\/FLDO1$/;"	e	enum:__anon5
+AXP81X_ID_LDO13	axp81x-regu.h	/^	AXP81X_ID_LDO13,  \/\/FLDO2$/;"	e	enum:__anon5
+AXP81X_ID_LDO14	axp81x-regu.h	/^	AXP81X_ID_LDO14,  \/\/FLDO3$/;"	e	enum:__anon5
+AXP81X_ID_LDO2	axp81x-regu.h	/^	AXP81X_ID_LDO2,   \/\/ALDO1$/;"	e	enum:__anon5
+AXP81X_ID_LDO3	axp81x-regu.h	/^	AXP81X_ID_LDO3,   \/\/ALDO2$/;"	e	enum:__anon5
+AXP81X_ID_LDO4	axp81x-regu.h	/^	AXP81X_ID_LDO4,   \/\/ALDO3$/;"	e	enum:__anon5
+AXP81X_ID_LDO5	axp81x-regu.h	/^	AXP81X_ID_LDO5,   \/\/DLDO1$/;"	e	enum:__anon5
+AXP81X_ID_LDO6	axp81x-regu.h	/^	AXP81X_ID_LDO6,   \/\/DLDO2$/;"	e	enum:__anon5
+AXP81X_ID_LDO7	axp81x-regu.h	/^	AXP81X_ID_LDO7,   \/\/DLDO3$/;"	e	enum:__anon5
+AXP81X_ID_LDO8	axp81x-regu.h	/^	AXP81X_ID_LDO8,   \/\/DLDO4$/;"	e	enum:__anon5
+AXP81X_ID_LDO9	axp81x-regu.h	/^	AXP81X_ID_LDO9,   \/\/ELDO1$/;"	e	enum:__anon5
+AXP81X_ID_LDOIO0	axp81x-regu.h	/^	AXP81X_ID_LDOIO0 = AXP_LDOIO_ID_START,$/;"	e	enum:__anon5
+AXP81X_ID_LDOIO1	axp81x-regu.h	/^	AXP81X_ID_LDOIO1,$/;"	e	enum:__anon5
+AXP81X_ID_SUPPLY	axp81x-regu.h	/^	AXP81X_ID_SUPPLY,$/;"	e	enum:__anon5
+AXP81X_ID_SW0	axp81x-regu.h	/^	AXP81X_ID_SW0,   \/\/DC1SW$/;"	e	enum:__anon5
+AXP81X_INTTEMP	axp81x-sply.h	65;"	d
+AXP81X_IN_CHARGE	axp81x-sply.h	17;"	d
+AXP81X_LDO	axp81x-regu.c	41;"	d	file:
+AXP81X_LDO1	axp81x-regu.h	59;"	d
+AXP81X_LDO10	axp81x-regu.h	68;"	d
+AXP81X_LDO10EN	axp81x-regu.h	93;"	d
+AXP81X_LDO11	axp81x-regu.h	69;"	d
+AXP81X_LDO11EN	axp81x-regu.h	94;"	d
+AXP81X_LDO12	axp81x-regu.h	70;"	d
+AXP81X_LDO12EN	axp81x-regu.h	95;"	d
+AXP81X_LDO13	axp81x-regu.h	71;"	d
+AXP81X_LDO13EN	axp81x-regu.h	96;"	d
+AXP81X_LDO14	axp81x-regu.h	72;"	d
+AXP81X_LDO14EN	axp81x-regu.h	97;"	d
+AXP81X_LDO1EN	axp81x-regu.h	84;"	d
+AXP81X_LDO2	axp81x-regu.h	60;"	d
+AXP81X_LDO2EN	axp81x-regu.h	85;"	d
+AXP81X_LDO3	axp81x-regu.h	61;"	d
+AXP81X_LDO3EN	axp81x-regu.h	86;"	d
+AXP81X_LDO4	axp81x-regu.h	62;"	d
+AXP81X_LDO4EN	axp81x-regu.h	87;"	d
+AXP81X_LDO5	axp81x-regu.h	63;"	d
+AXP81X_LDO5EN	axp81x-regu.h	88;"	d
+AXP81X_LDO6	axp81x-regu.h	64;"	d
+AXP81X_LDO6EN	axp81x-regu.h	89;"	d
+AXP81X_LDO7	axp81x-regu.h	65;"	d
+AXP81X_LDO7EN	axp81x-regu.h	90;"	d
+AXP81X_LDO8	axp81x-regu.h	66;"	d
+AXP81X_LDO8EN	axp81x-regu.h	91;"	d
+AXP81X_LDO9	axp81x-regu.h	67;"	d
+AXP81X_LDO9EN	axp81x-regu.h	92;"	d
+AXP81X_LDOIO0	axp81x-regu.h	80;"	d
+AXP81X_LDOIO0EN	axp81x-regu.h	105;"	d
+AXP81X_LDOIO1	axp81x-regu.h	81;"	d
+AXP81X_LDOIO1EN	axp81x-regu.h	106;"	d
+AXP81X_NOTIFIER_ON	axp81x-common.h	103;"	d
+AXP81X_OCVBATH_RES	axp81x-sply.h	63;"	d
+AXP81X_OCVBATL_RES	axp81x-sply.h	64;"	d
+AXP81X_PDBC	axp81x-sply.h	18;"	d
+AXP81X_RDC0	axp81x-sply.h	28;"	d
+AXP81X_RDC1	axp81x-sply.h	29;"	d
+AXP81X_SW	axp81x-regu.c	47;"	d	file:
+AXP81X_VBATH_RES	axp81x-sply.h	60;"	d
+AXP81X_VBATL_RES	axp81x-sply.h	62;"	d
+AXP81X_VTS_RES	axp81x-sply.h	61;"	d
+AXP81X_WARNING_LEVEL	axp81x-sply.h	30;"	d
+AXP_ADC_CONTROL3	axp81x-common.h	9;"	d
+AXP_ADC_CONTROL4	axp81x-common.h	10;"	d
+AXP_BC_DET_STATUS	axp81x-common.h	14;"	d
+AXP_BC_SET	axp81x-common.h	13;"	d
+AXP_BUCK	axp-regu.h	55;"	d
+AXP_BUFFERC	axp81x-common.h	5;"	d
+AXP_CAP	axp81x-common.h	85;"	d
+AXP_CHARGE_AC	axp81x-common.h	12;"	d
+AXP_CHARGE_CONTROL1	axp81x-common.h	6;"	d
+AXP_CHARGE_CONTROL2	axp81x-common.h	7;"	d
+AXP_CHARGE_CONTROL3	axp81x-common.h	8;"	d
+AXP_CHARGE_STATUS	axp81x-common.h	80;"	d
+AXP_CHARGE_VBUS	axp81x-common.h	11;"	d
+AXP_CHG_ATTR	axp81x-sply.h	95;"	d
+AXP_DCDC	axp-regu.h	83;"	d
+AXP_DCDC_ID_START	axp-cfg.h	174;"	d
+AXP_INTEN1	axp81x-common.h	51;"	d
+AXP_INTEN2	axp81x-common.h	52;"	d
+AXP_INTEN3	axp81x-common.h	53;"	d
+AXP_INTEN4	axp81x-common.h	54;"	d
+AXP_INTEN5	axp81x-common.h	55;"	d
+AXP_INTEN6	axp81x-common.h	56;"	d
+AXP_INTSTS1	axp81x-common.h	57;"	d
+AXP_INTSTS2	axp81x-common.h	58;"	d
+AXP_INTSTS3	axp81x-common.h	59;"	d
+AXP_INTSTS4	axp81x-common.h	60;"	d
+AXP_INTSTS5	axp81x-common.h	61;"	d
+AXP_INTSTS6	axp81x-common.h	62;"	d
+AXP_INTTEMP	axp81x-common.h	82;"	d
+AXP_IN_CHARGE	axp81x-common.h	81;"	d
+AXP_IRQ_ACIN	axp81x-common.h	20;"	d
+AXP_IRQ_ACOV	axp81x-common.h	21;"	d
+AXP_IRQ_ACRE	axp81x-common.h	19;"	d
+AXP_IRQ_ADCFINISHED	axp81x-common.h	38;"	d
+AXP_IRQ_BATATIN	axp81x-common.h	25;"	d
+AXP_IRQ_BATATOU	axp81x-common.h	24;"	d
+AXP_IRQ_BATIN	axp81x-common.h	27;"	d
+AXP_IRQ_BATINCHG	axp81x-common.h	33;"	d
+AXP_IRQ_BATINWORK	axp81x-common.h	29;"	d
+AXP_IRQ_BATOVCHG	axp81x-common.h	35;"	d
+AXP_IRQ_BATOVWORK	axp81x-common.h	31;"	d
+AXP_IRQ_BATRE	axp81x-common.h	26;"	d
+AXP_IRQ_BC_USB_CHNG	axp81x-common.h	50;"	d
+AXP_IRQ_CHAOV	axp81x-common.h	22;"	d
+AXP_IRQ_CHAST	axp81x-common.h	23;"	d
+AXP_IRQ_EXTLOWARN1	axp81x-common.h	37;"	d
+AXP_IRQ_EXTLOWARN2	axp81x-common.h	36;"	d
+AXP_IRQ_GPIO0TG	axp81x-common.h	40;"	d
+AXP_IRQ_GPIO1TG	axp81x-common.h	41;"	d
+AXP_IRQ_MV_CHNG	axp81x-common.h	49;"	d
+AXP_IRQ_PEK_LONGTIME	axp81x-common.h	43;"	d
+AXP_IRQ_PEK_NEDGE	axp81x-common.h	45;"	d
+AXP_IRQ_PEK_OFFTIME	axp81x-common.h	42;"	d
+AXP_IRQ_PEK_PEDGE	axp81x-common.h	46;"	d
+AXP_IRQ_PEK_SHORTTIME	axp81x-common.h	44;"	d
+AXP_IRQ_PMICTEMP_OV_LEVEL2	axp81x-common.h	39;"	d
+AXP_IRQ_QBATINCHG	axp81x-common.h	32;"	d
+AXP_IRQ_QBATINWORK	axp81x-common.h	28;"	d
+AXP_IRQ_QBATOVCHG	axp81x-common.h	34;"	d
+AXP_IRQ_QBATOVWORK	axp81x-common.h	30;"	d
+AXP_IRQ_TIMER	axp81x-common.h	47;"	d
+AXP_IRQ_USBIN	axp81x-common.h	17;"	d
+AXP_IRQ_USBOV	axp81x-common.h	18;"	d
+AXP_IRQ_USBRE	axp81x-common.h	16;"	d
+AXP_IRQ_VBUS_CHNG	axp81x-common.h	48;"	d
+AXP_LDO	axp-regu.h	27;"	d
+AXP_LDOIO_ID_START	axp-cfg.h	173;"	d
+AXP_MEM_DEVICE_H	axp-mem-device.h	2;"	d
+AXP_NOTIFIER_ON	axp-irq.c	/^static const u64 AXP_NOTIFIER_ON = AXP81X_NOTIFIER_ON;$/;"	v	file:
+AXP_OCVBATH_RES	axp81x-common.h	78;"	d
+AXP_POK_SET	axp81x-common.h	4;"	d
+AXP_REGU_ATTR	axp-regu.h	141;"	d
+AXP_STATUS_ACEN	axp81x-common.h	71;"	d
+AXP_STATUS_ACUSBSH	axp81x-common.h	65;"	d
+AXP_STATUS_ACVA	axp81x-common.h	70;"	d
+AXP_STATUS_BATCURDIR	axp81x-common.h	66;"	d
+AXP_STATUS_BATEN	axp81x-common.h	73;"	d
+AXP_STATUS_BATINACT	axp81x-common.h	72;"	d
+AXP_STATUS_ICTEMOV	axp81x-common.h	75;"	d
+AXP_STATUS_INCHAR	axp81x-common.h	74;"	d
+AXP_STATUS_SOURCE	axp81x-common.h	64;"	d
+AXP_STATUS_USBEN	axp81x-common.h	69;"	d
+AXP_STATUS_USBLAVHO	axp81x-common.h	67;"	d
+AXP_STATUS_USBVA	axp81x-common.h	68;"	d
+AXP_SW	axp-regu.h	112;"	d
+AXP_VBATH_RES	axp81x-common.h	77;"	d
+AXP_VOL_MAX	axp81x-common.h	84;"	d
+AXP_VTS_RES	axp81x-common.h	79;"	d
+BATMAXVOL	axp-cfg.h	23;"	d
+BATMINVOL	axp-cfg.h	24;"	d
+BATRDC	axp-cfg.h	8;"	d
+CHARGE_CURRENT_MAX	axp81x-common.h	92;"	d
+CHARGE_CURRENT_MIN	axp81x-common.h	91;"	d
+CHARGE_CURRENT_STEP	axp81x-common.h	93;"	d
+CHARGE_END_LEVEL0	axp81x-common.h	94;"	d
+CHARGE_END_LEVEL1	axp81x-common.h	95;"	d
+CHARGE_FASTTIME_MAX	axp81x-common.h	100;"	d
+CHARGE_FASTTIME_MIN	axp81x-common.h	99;"	d
+CHARGE_FASTTIME_STEP	axp81x-common.h	101;"	d
+CHARGE_PRETIME_MAX	axp81x-common.h	97;"	d
+CHARGE_PRETIME_MIN	axp81x-common.h	96;"	d
+CHARGE_PRETIME_STEP	axp81x-common.h	98;"	d
+CHARGE_VOLTAGE_LEVEL0	axp81x-common.h	87;"	d
+CHARGE_VOLTAGE_LEVEL1	axp81x-common.h	88;"	d
+CHARGE_VOLTAGE_LEVEL2	axp81x-common.h	89;"	d
+CHARGE_VOLTAGE_LEVEL3	axp81x-common.h	90;"	d
+CLSCHGCUR	axp-cfg.h	15;"	d
+DBG_PSY_MSG	axp-cfg.h	185;"	d
+DEBUG_CHG	axp-cfg.h	/^	DEBUG_CHG = 1U << 3,$/;"	e	enum:__anon1
+DEBUG_INIT	sunxi-nmi.h	/^	DEBUG_INIT = 1U << 0,$/;"	e	enum:__anon4
+DEBUG_INT	axp-cfg.h	/^	DEBUG_INT = 1U << 2,$/;"	e	enum:__anon1
+DEBUG_INT	sunxi-nmi.h	/^	DEBUG_INT = 1U << 1,$/;"	e	enum:__anon4
+DEBUG_REGU	axp-cfg.h	/^	DEBUG_REGU = 1U << 1,$/;"	e	enum:__anon1
+DEBUG_SPLY	axp-cfg.h	/^	DEBUG_SPLY = 1U << 0,$/;"	e	enum:__anon1
+INTADCFREQ	axp-cfg.h	19;"	d
+INTADCFREQC	axp-cfg.h	20;"	d
+INTCHGCSTTIME	axp-cfg.h	22;"	d
+INTCHGCUR	axp-cfg.h	12;"	d
+INTCHGENABLED	axp-cfg.h	18;"	d
+INTCHGENDRATE	axp-cfg.h	17;"	d
+INTCHGPRETIME	axp-cfg.h	21;"	d
+INTCHGVOL	axp-cfg.h	16;"	d
+NMI_IRQ_ENABLE	sunxi-nmi.h	20;"	d
+NMI_IRQ_HIGH_LEVEL	sunxi-nmi.h	16;"	d
+NMI_IRQ_LOW_LEVEL	sunxi-nmi.h	14;"	d
+NMI_IRQ_MASK	sunxi-nmi.h	19;"	d
+NMI_IRQ_NE_EDGE	sunxi-nmi.h	15;"	d
+NMI_IRQ_PENDING	sunxi-nmi.h	21;"	d
+NMI_IRQ_PO_EDGE	sunxi-nmi.h	17;"	d
+NMI_MODULE_NAME	sunxi-nmi.h	4;"	d
+OCVREG0	axp-cfg.h	26;"	d
+OCVREG1	axp-cfg.h	27;"	d
+OCVREG10	axp-cfg.h	42;"	d
+OCVREG11	axp-cfg.h	43;"	d
+OCVREG12	axp-cfg.h	44;"	d
+OCVREG13	axp-cfg.h	45;"	d
+OCVREG14	axp-cfg.h	46;"	d
+OCVREG15	axp-cfg.h	47;"	d
+OCVREG16	axp-cfg.h	48;"	d
+OCVREG17	axp-cfg.h	49;"	d
+OCVREG18	axp-cfg.h	50;"	d
+OCVREG19	axp-cfg.h	51;"	d
+OCVREG1A	axp-cfg.h	52;"	d
+OCVREG1B	axp-cfg.h	53;"	d
+OCVREG1C	axp-cfg.h	54;"	d
+OCVREG1D	axp-cfg.h	55;"	d
+OCVREG1E	axp-cfg.h	56;"	d
+OCVREG1F	axp-cfg.h	57;"	d
+OCVREG2	axp-cfg.h	28;"	d
+OCVREG3	axp-cfg.h	29;"	d
+OCVREG4	axp-cfg.h	30;"	d
+OCVREG5	axp-cfg.h	31;"	d
+OCVREG6	axp-cfg.h	32;"	d
+OCVREG7	axp-cfg.h	33;"	d
+OCVREG8	axp-cfg.h	34;"	d
+OCVREG9	axp-cfg.h	35;"	d
+OCVREGA	axp-cfg.h	36;"	d
+OCVREGB	axp-cfg.h	37;"	d
+OCVREGC	axp-cfg.h	38;"	d
+OCVREGD	axp-cfg.h	39;"	d
+OCVREGE	axp-cfg.h	40;"	d
+OCVREGF	axp-cfg.h	41;"	d
+RESCHGCUR	axp-cfg.h	14;"	d
+RSB_RTSADDR_AXP806	axp-rw.c	18;"	d	file:
+RSB_RTSADDR_AXP806	axp81x-mfd.h	10;"	d
+RSB_RTSADDR_AXP809	axp-rw.c	15;"	d	file:
+RSB_RTSADDR_AXP809	axp81x-mfd.h	7;"	d
+SUSCHGCUR	axp-cfg.h	13;"	d
+_AXP_SYS_H	axp-interface.c	2;"	d	file:
+_LINUX_AXP81X_FILENODE_H_	axp81x-common.h	2;"	d
+_LINUX_AXP81X_REGU_H_	axp81x-regu.h	2;"	d
+_LINUX_AXP81X_SPLY_H_	axp81x-sply.h	2;"	d
+_LINUX_AXP_REGU_H_	axp-regu.h	2;"	d
+_LINUX_AXP_RW_H_	axp-rw.h	2;"	d
+_LINUX_AXP_VIRTUAL_H_	virtual.h	2;"	d
+_SUNXI_NMI_H	sunxi-nmi.h	2;"	d
+__LINUX_AXP_CFG_H_	axp-cfg.h	2;"	d
+__axp_read	axp-rw.h	/^static inline s32 __axp_read(unsigned char *devaddr, struct i2c_client *client,$/;"	f
+__axp_reads	axp-rw.h	/^static inline s32 __axp_reads(unsigned char *devaddr, struct i2c_client *client, int reg,$/;"	f
+__axp_write	axp-rw.h	/^static inline s32 __axp_write(unsigned char *devaddr, struct i2c_client *client,$/;"	f
+__axp_writes	axp-rw.h	/^static inline s32 __axp_writes(unsigned char *devaddr, struct i2c_client *client, int reg,$/;"	f
+__remove_subdev	axp-mfd.c	/^static s32 __remove_subdev(struct device *dev, void *unused)$/;"	f	file:
+ac	axp81x-sply.h	/^	struct power_supply	ac;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::power_supply
+ac_det	axp81x-sply.h	/^	bool ac_det;$/;"	m	struct:axp_charger
+ac_not_enough	axp81x-sply.h	/^	bool ac_not_enough;$/;"	m	struct:axp_charger
+ac_valid	axp81x-sply.h	/^	bool ac_valid;$/;"	m	struct:axp_charger
+adc	axp-state.c	/^struct axp_adc_res adc;$/;"	v	typeref:struct:axp_adc_res
+adc	axp81x-sply.h	/^	struct axp_adc_res *adc;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::axp_adc_res
+add_sys_pwr_dm	axp-depend-set.c	/^s32 add_sys_pwr_dm(const char *id)$/;"	f
+add_sys_store	axp-depend-set.c	/^static ssize_t add_sys_store(struct class *class,$/;"	f	file:
+always_on	axp-mem-device.h	/^	unsigned int always_on:1;$/;"	m	struct:regulator
+always_on	virtual.h	/^	unsigned int always_on:1;$/;"	m	struct:regulator
+attributes_virtual	virtual.h	/^static struct device_attribute *attributes_virtual[] = {$/;"	v	typeref:struct:device_attribute
+axp81x_board_device_event	axp81x-board-device.c	/^static int axp81x_board_device_event(struct notifier_block *nb, unsigned long event,$/;"	f	file:
+axp81x_board_device_init	axp81x-board-device.c	/^static s32 __init axp81x_board_device_init(void)$/;"	f	file:
+axp81x_board_device_init	axp81x-board-device.c	/^subsys_initcall(axp81x_board_device_init);$/;"	v
+axp81x_board_init	axp81x-board.c	/^arch_initcall(axp81x_board_init);$/;"	v
+axp81x_board_init	axp81x-board.c	/^static s32 __init axp81x_board_init(void)$/;"	f	file:
+axp81x_chg_current_limit	axp81x-init.c	/^s32 axp81x_chg_current_limit(u32 current_limit)$/;"	f
+axp81x_config	axp81x-board.c	/^struct axp_config_info axp81x_config;$/;"	v	typeref:struct:axp_config_info
+axp81x_dev	axp81x-board.c	/^static struct axp_dev axp81x_dev;$/;"	v	typeref:struct:axp_dev	file:
+axp81x_disable_irqs	axp81x-mfd.h	/^static s32 axp81x_disable_irqs(struct axp_dev *chip, u64 irqs)$/;"	f
+axp81x_enable_irqs	axp81x-mfd.h	/^static s32 axp81x_enable_irqs(struct axp_dev *chip, u64 irqs)$/;"	f
+axp81x_exit	axp81x-init.c	/^void axp81x_exit(struct axp_charger *charger)$/;"	f
+axp81x_init	axp81x-init.c	/^s32 axp81x_init(struct axp_charger *charger)$/;"	f
+axp81x_init_chip	axp81x-mfd.h	/^static s32  axp81x_init_chip(struct axp_dev *chip)$/;"	f
+axp81x_mfd_attrs	axp81x-mfd.h	/^static struct device_attribute axp81x_mfd_attrs[] = {$/;"	v	typeref:struct:device_attribute
+axp81x_mfd_irq_work	axp81x-mfd.h	/^static void axp81x_mfd_irq_work(struct work_struct *work)$/;"	f
+axp81x_nb	axp81x-board-device.c	/^static struct notifier_block axp81x_nb;$/;"	v	typeref:struct:notifier_block	file:
+axp81x_ops	axp81x-board.c	/^static struct axp_mfd_chip_ops axp81x_ops[] = {$/;"	v	typeref:struct:axp_mfd_chip_ops	file:
+axp81x_platform_device	axp81x-board-device.c	/^static struct platform_device axp81x_platform_device = {$/;"	v	typeref:struct:platform_device	file:
+axp81x_platform_driver	axp81x-board.c	/^static struct platform_driver axp81x_platform_driver = {$/;"	v	typeref:struct:platform_driver	file:
+axp81x_platform_probe	axp81x-board.c	/^static s32  axp81x_platform_probe(struct platform_device *pdev)$/;"	f	file:
+axp81x_power_off	axp81x-init.c	/^void axp81x_power_off(void)$/;"	f
+axp81x_read_irqs	axp81x-mfd.h	/^static s32 axp81x_read_irqs(struct axp_dev *chip, u64 *irqs)$/;"	f
+axp81x_reg_show	axp81x-mfd.h	/^static ssize_t axp81x_reg_show(struct device *dev,$/;"	f
+axp81x_reg_store	axp81x-mfd.h	/^static ssize_t axp81x_reg_store(struct device *dev,$/;"	f
+axp81x_regs_show	axp81x-mfd.h	/^static ssize_t axp81x_regs_show(struct device *dev,$/;"	f
+axp81x_regs_store	axp81x-mfd.h	/^static ssize_t axp81x_regs_store(struct device *dev,$/;"	f
+axp81x_regu_dependence	axp-depend-init.c	/^static s32 axp81x_regu_dependence(const char *ldo_name)$/;"	f	file:
+axp81x_regu_exit	axp81x-regu.c	/^void axp81x_regu_exit(void)$/;"	f
+axp81x_regu_init	axp81x-regu.c	/^struct axp_funcdev_info *axp81x_regu_init(void)$/;"	f
+axp81x_regulator_info	axp81x-regu.c	/^static struct axp_regulator_info axp81x_regulator_info[] = {$/;"	v	typeref:struct:axp_regulator_info	file:
+axp81x_resume	axp81x-sply.c	/^static s32 axp81x_resume(struct platform_device *dev)$/;"	f	file:
+axp81x_shutdown	axp81x-sply.c	/^static void axp81x_shutdown(struct platform_device *dev)$/;"	f	file:
+axp81x_suspend	axp81x-sply.c	/^static s32 axp81x_suspend(struct platform_device *dev, pm_message_t state)$/;"	f	file:
+axp81x_usb_ac_current_limit	axp81x-init.c	/^s32 axp81x_usb_ac_current_limit(struct axp_charger *charger, aw_charge_type port_type, u32 current_limit)$/;"	f
+axp81x_usb_ac_vol_limit	axp81x-init.c	/^s32 axp81x_usb_ac_vol_limit(struct axp_charger *charger, aw_charge_type port_type, u32 vol_limit)$/;"	f
+axp81x_vcc_dc1sw	axp81x-regu.c	/^	axp81x_vcc_dc1sw,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_dcdc1	axp81x-regu.c	/^	axp81x_vcc_dcdc1,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_dcdc2	axp81x-regu.c	/^	axp81x_vcc_dcdc2,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_dcdc3	axp81x-regu.c	/^	axp81x_vcc_dcdc3,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_dcdc4	axp81x-regu.c	/^	axp81x_vcc_dcdc4,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_dcdc5	axp81x-regu.c	/^	axp81x_vcc_dcdc5,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_dcdc6	axp81x-regu.c	/^	axp81x_vcc_dcdc6,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_dcdc7	axp81x-regu.c	/^	axp81x_vcc_dcdc7,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo1	axp81x-regu.c	/^	axp81x_vcc_ldo1,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo10	axp81x-regu.c	/^	axp81x_vcc_ldo10,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo11	axp81x-regu.c	/^	axp81x_vcc_ldo11,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo12	axp81x-regu.c	/^	axp81x_vcc_ldo12,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo13	axp81x-regu.c	/^	axp81x_vcc_ldo13,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo2	axp81x-regu.c	/^	axp81x_vcc_ldo2,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo3	axp81x-regu.c	/^	axp81x_vcc_ldo3,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo4	axp81x-regu.c	/^	axp81x_vcc_ldo4,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo5	axp81x-regu.c	/^	axp81x_vcc_ldo5,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo6	axp81x-regu.c	/^	axp81x_vcc_ldo6,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo7	axp81x-regu.c	/^	axp81x_vcc_ldo7,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo8	axp81x-regu.c	/^	axp81x_vcc_ldo8,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldo9	axp81x-regu.c	/^	axp81x_vcc_ldo9,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldoio0	axp81x-regu.c	/^	axp81x_vcc_ldoio0,$/;"	e	enum:axp_regls	file:
+axp81x_vcc_ldoio1	axp81x-regu.c	/^	axp81x_vcc_ldoio1,$/;"	e	enum:axp_regls	file:
+axp_ac_get_property	axp81x-sply.c	/^static s32 axp_ac_get_property(struct power_supply *psy,$/;"	f	file:
+axp_ac_props	axp81x-sply.c	/^static enum power_supply_property axp_ac_props[] = {$/;"	v	typeref:enum:power_supply_property	file:
+axp_adc_res	axp81x-sply.h	/^struct axp_adc_res {\/\/struct change$/;"	s
+axp_battery_adc_set	axp81x-init.c	/^static s32 axp_battery_adc_set(struct axp_charger *charger)$/;"	f	file:
+axp_battery_check_health	axp81x-sply.c	/^static void axp_battery_check_health(struct axp_charger *charger,$/;"	f	file:
+axp_battery_check_status	axp81x-sply.c	/^static void axp_battery_check_status(struct axp_charger *charger,$/;"	f	file:
+axp_battery_driver	axp81x-sply.c	/^static struct platform_driver axp_battery_driver = {$/;"	v	typeref:struct:platform_driver	file:
+axp_battery_event	axp-irq.c	/^static s32 axp_battery_event(struct notifier_block *nb, unsigned long event,$/;"	f	file:
+axp_battery_exit	axp81x-sply.c	/^module_exit(axp_battery_exit);$/;"	v
+axp_battery_exit	axp81x-sply.c	/^static void axp_battery_exit(void)$/;"	f	file:
+axp_battery_first_init	axp81x-init.c	/^static s32 axp_battery_first_init(struct axp_charger *charger)$/;"	f	file:
+axp_battery_get_property	axp81x-sply.c	/^static s32 axp_battery_get_property(struct power_supply *psy,$/;"	f	file:
+axp_battery_init	axp81x-sply.c	/^device_initcall(axp_battery_init);$/;"	v
+axp_battery_init	axp81x-sply.c	/^static s32 axp_battery_init(void)$/;"	f	file:
+axp_battery_probe	axp81x-sply.c	/^static s32 axp_battery_probe(struct platform_device *pdev)$/;"	f	file:
+axp_battery_props	axp81x-sply.c	/^static enum power_supply_property axp_battery_props[] = {$/;"	v	typeref:enum:power_supply_property	file:
+axp_battery_remove	axp81x-sply.c	/^static s32 axp_battery_remove(struct platform_device *dev)$/;"	f	file:
+axp_battery_setup_psy	axp81x-sply.c	/^static void axp_battery_setup_psy(struct axp_charger *charger)$/;"	f	file:
+axp_battery_update_vol	axp-state.c	/^void axp_battery_update_vol(struct axp_charger * charger)$/;"	f
+axp_capchange	axp-irq.c	/^static void axp_capchange(struct axp_charger *charger)$/;"	f	file:
+axp_change	axp-irq.c	/^static void axp_change(struct axp_charger *charger)$/;"	f	file:
+axp_charger	axp81x-sply.c	/^struct axp_charger *axp_charger;$/;"	v	typeref:struct:axp_charger
+axp_charger	axp81x-sply.h	/^struct axp_charger {$/;"	s
+axp_charger_update	axp-state.c	/^void axp_charger_update(struct axp_charger *charger, const struct axp_config_info *axp_config)$/;"	f
+axp_charger_update_state	axp-state.c	/^void axp_charger_update_state(struct axp_charger *charger)$/;"	f
+axp_charger_update_usb_state	axp-chg.c	/^static void axp_charger_update_usb_state(unsigned long data)$/;"	f	file:
+axp_charging_monitor	axp81x-sply.c	/^static void axp_charging_monitor(struct work_struct *work)$/;"	f	file:
+axp_check_sys_id	axp-depend-init.c	/^s32 axp_check_sys_id(const char *supply_id)$/;"	f
+axp_chg_exit	axp-chg.c	/^void axp_chg_exit(struct axp_charger *charger)$/;"	f
+axp_chg_init	axp-chg.c	/^s32 axp_chg_init(struct axp_charger *charger)$/;"	f
+axp_clear_irq_state	axp-irq.c	/^static s32 axp_clear_irq_state(struct axp_charger *charger, bool data, u32 event, u32 reg_count)$/;"	f	file:
+axp_clr_bits	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_clr_bits);$/;"	v
+axp_clr_bits	axp-rw.c	/^s32 axp_clr_bits(struct device *dev, s32 reg, u8 bit_mask)$/;"	f
+axp_clr_bits_sync	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_clr_bits_sync);$/;"	v
+axp_clr_bits_sync	axp-rw.c	/^s32 axp_clr_bits_sync(struct device *dev, s32 reg, u8 bit_mask)$/;"	f
+axp_config	axp-chg.c	/^static const struct axp_config_info *axp_config = &axp81x_config;$/;"	v	typeref:struct:axp_config_info	file:
+axp_config	axp-irq.c	/^static const struct axp_config_info *axp_config = &axp81x_config;$/;"	v	typeref:struct:axp_config_info	file:
+axp_config	axp-state.c	/^static const struct axp_config_info *axp_config = &axp81x_config;$/;"	v	typeref:struct:axp_config_info	file:
+axp_config_info	axp-cfg.h	/^struct axp_config_info{$/;"	s
+axp_consumer_supply	axp-regu.h	/^struct axp_consumer_supply {$/;"	s
+axp_debug	axp-filenode.c	/^s32 axp_debug = 0x0;$/;"	v
+axp_debugfs_init	axp-debugfs.c	/^ static s32 __init axp_debugfs_init(void)$/;"	f	file:
+axp_debugfs_init	axp-debugfs.c	/^late_initcall(axp_debugfs_init);$/;"	v
+axp_depend_class_attrs	axp-depend-set.c	/^struct class_attribute axp_depend_class_attrs[] = {$/;"	v	typeref:struct:class_attribute
+axp_dev_lookup	axp-mfd.c	/^EXPORT_SYMBOL_GPL(axp_dev_lookup);$/;"	v
+axp_dev_lookup	axp-mfd.c	/^struct axp_dev *axp_dev_lookup(s32 type)$/;"	f
+axp_device_driver	axp-device.c	/^static struct platform_driver axp_device_driver = {$/;"	v	typeref:struct:platform_driver	file:
+axp_device_match	axp-device.c	/^static struct of_device_id axp_device_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+axp_device_probe	axp-device.c	/^static s32 axp_device_probe(struct platform_device *pdev)$/;"	f	file:
+axp_device_tree_parse	axp-device.c	/^s32  axp_device_tree_parse(char * pmu_type, struct axp_config_info *axp_config)$/;"	f
+axp_disable	axp-regu.c	/^static s32 axp_disable(struct regulator_dev *rdev)$/;"	f	file:
+axp_disable_irq	axp-irq.c	/^s32 axp_disable_irq(struct axp_charger *charger, u32 reg_count)$/;"	f
+axp_early_suspend	axp81x-sply.c	/^static struct early_suspend axp_early_suspend;$/;"	v	typeref:struct:early_suspend	file:
+axp_earlysuspend	axp81x-sply.c	/^static void axp_earlysuspend(struct early_suspend *h)$/;"	f	file:
+axp_enable	axp-regu.c	/^static s32 axp_enable(struct regulator_dev *rdev)$/;"	f	file:
+axp_enable_irq	axp-irq.c	/^s32 axp_enable_irq(struct axp_charger *charger)$/;"	f
+axp_enable_time_regulator	axp-regu.c	/^static s32 axp_enable_time_regulator(struct regulator_dev *rdev)$/;"	f	file:
+axp_get_sys_id	axp-depend-init.c	/^char *axp_get_sys_id(u32 bitmap)$/;"	f
+axp_get_voltage	axp-regu.c	/^static s32 axp_get_voltage(struct regulator_dev *rdev)$/;"	f	file:
+axp_i2c_driver	axp81x-board.c	/^static struct i2c_driver axp_i2c_driver = {$/;"	v	typeref:struct:i2c_driver	file:
+axp_i2c_id_table	axp81x-board.c	/^static const struct i2c_device_id axp_i2c_id_table[] = {$/;"	v	typeref:struct:i2c_device_id	file:
+axp_i2c_probe	axp81x-board.c	/^static s32 axp_i2c_probe(struct i2c_client *client,$/;"	f	file:
+axp_i2c_remove	axp81x-board.c	/^static s32 axp_i2c_remove(struct i2c_client *client)$/;"	f	file:
+axp_iac_to_mA	axp-state.c	/^static inline s32 axp_iac_to_mA(u16 reg)$/;"	f	file:
+axp_ibat_to_mA	axp-state.c	/^static inline s32 axp_ibat_to_mA(u16 reg)$/;"	f	file:
+axp_icharge_to_mA	axp-state.c	/^static inline s32 axp_icharge_to_mA(u16 reg)$/;"	f	file:
+axp_irq_exit	axp-irq.c	/^void axp_irq_exit(struct axp_charger *charger)$/;"	f
+axp_irq_init	axp-irq.c	/^s32 axp_irq_init(struct axp_charger *charger, struct platform_device *pdev)$/;"	f
+axp_is_enabled	axp-regu.c	/^static s32 axp_is_enabled(struct regulator_dev *rdev)$/;"	f	file:
+axp_iusb_to_mA	axp-state.c	/^static inline s32 axp_iusb_to_mA(u16 reg)$/;"	f	file:
+axp_keydown	axp-irq.c	/^static void axp_keydown(struct axp_charger *charger)$/;"	f	file:
+axp_keyup	axp-irq.c	/^static void axp_keyup(struct axp_charger *charger)$/;"	f	file:
+axp_lateresume	axp81x-sply.c	/^static void axp_lateresume(struct early_suspend *h)$/;"	f	file:
+axp_ldoio01_disable	axp-regu.c	/^static s32 axp_ldoio01_disable(struct regulator_dev *rdev)$/;"	f	file:
+axp_ldoio01_enable	axp-regu.c	/^static s32 axp_ldoio01_enable(struct regulator_dev *rdev)$/;"	f	file:
+axp_ldoio01_is_enabled	axp-regu.c	/^static s32 axp_ldoio01_is_enabled(struct regulator_dev *rdev)$/;"	f	file:
+axp_ldoio01_ops	axp-regu.c	/^static struct regulator_ops axp_ldoio01_ops = {$/;"	v	typeref:struct:regulator_ops	file:
+axp_list_voltage	axp-regu.c	/^static s32 axp_list_voltage(struct regulator_dev *rdev, unsigned selector)$/;"	f	file:
+axp_mem_data_t	axp-mem-device.h	/^}axp_mem_data_t;$/;"	t	typeref:struct:__anon2
+axp_mem_device_driver	axp-mem-device.c	/^static struct platform_driver axp_mem_device_driver = {$/;"	v	typeref:struct:platform_driver	file:
+axp_mem_device_exit	axp-mem-device.c	/^module_exit(axp_mem_device_exit);$/;"	v
+axp_mem_device_exit	axp-mem-device.c	/^static void __exit axp_mem_device_exit(void)$/;"	f	file:
+axp_mem_device_init	axp-mem-device.c	/^module_init(axp_mem_device_init);$/;"	v
+axp_mem_device_init	axp-mem-device.c	/^static int __init axp_mem_device_init(void)$/;"	f	file:
+axp_mem_device_match	axp-mem-device.c	/^static struct of_device_id axp_mem_device_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+axp_mem_device_probe	axp-mem-device.c	/^static s32 axp_mem_device_probe(struct platform_device *pdev)$/;"	f	file:
+axp_mem_device_remove	axp-mem-device.c	/^static int axp_mem_device_remove(struct platform_device *pdev)$/;"	f	file:
+axp_mem_restore	axp-mem-device.c	/^EXPORT_SYMBOL(axp_mem_restore);$/;"	v
+axp_mem_restore	axp-mem-device.c	/^void axp_mem_restore(void)$/;"	f
+axp_mem_save	axp-mem-device.c	/^EXPORT_SYMBOL(axp_mem_save);$/;"	v
+axp_mem_save	axp-mem-device.c	/^int axp_mem_save(void)$/;"	f
+axp_mfd_add_subdevs	axp-mfd.c	/^static s32 axp_mfd_add_subdevs(struct axp_dev *dev)$/;"	f	file:
+axp_mfd_create_attrs	axp-mfd.c	/^static s32 axp_mfd_create_attrs(struct axp_dev *dev)$/;"	f	file:
+axp_mfd_exit	axp-mfd.c	/^module_exit(axp_mfd_exit);$/;"	v
+axp_mfd_exit	axp-mfd.c	/^static void __exit axp_mfd_exit(void)$/;"	f	file:
+axp_mfd_i2c_board_info	axp81x-board.c	/^static struct i2c_board_info __initdata axp_mfd_i2c_board_info[] = {$/;"	v	typeref:struct:__initdata	file:
+axp_mfd_init	axp-mfd.c	/^static s32 __init axp_mfd_init(void)$/;"	f	file:
+axp_mfd_init	axp-mfd.c	/^subsys_initcall(axp_mfd_init);$/;"	v
+axp_mfd_irq_cb	axp-mfd.c	/^static irqreturn_t axp_mfd_irq_cb(int irq, void *data)$/;"	f	file:
+axp_mfd_irq_handler	axp81x-board.c	/^static irqreturn_t axp_mfd_irq_handler(int irq, void *data)$/;"	f	file:
+axp_mfd_remove_subdevs	axp-mfd.c	/^static s32 axp_mfd_remove_subdevs(struct axp_dev *dev)$/;"	f	file:
+axp_ocvbat_to_mV	axp-state.c	/^static inline s32 axp_ocvbat_to_mV(u16 reg)$/;"	f	file:
+axp_ops	axp-regu.c	/^static struct regulator_ops axp_ops = {$/;"	v	typeref:struct:regulator_ops	file:
+axp_pdata	axp81x-board.c	/^static struct axp_platform_data axp_pdata = {$/;"	v	typeref:struct:axp_platform_data	file:
+axp_power_key	axp-irq.c	/^static s32 axp_power_key = 0;$/;"	v	file:
+axp_power_off	axp-mfd.c	/^static void axp_power_off(void)$/;"	f	file:
+axp_powerkey_get	axp-interface.c	/^s32 axp_powerkey_get(void){ return 0; };$/;"	f
+axp_powerkey_get	axp-irq.c	/^EXPORT_SYMBOL_GPL(axp_powerkey_get);$/;"	v
+axp_powerkey_get	axp-irq.c	/^s32 axp_powerkey_get(void)$/;"	f
+axp_powerkey_set	axp-interface.c	/^void axp_powerkey_set(int value){};$/;"	f
+axp_powerkey_set	axp-irq.c	/^EXPORT_SYMBOL_GPL(axp_powerkey_set);$/;"	v
+axp_powerkey_set	axp-irq.c	/^void axp_powerkey_set(s32 value)$/;"	f
+axp_presslong	axp-irq.c	/^static void axp_presslong(struct axp_charger *charger)$/;"	f	file:
+axp_pressshort	axp-irq.c	/^static void axp_pressshort(struct axp_charger *charger)$/;"	f	file:
+axp_read	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_read);$/;"	v
+axp_read	axp-rw.c	/^s32 axp_read(struct device *dev, s32 reg, u8 *val)$/;"	f
+axp_read_ac_chg	axp-chg.c	/^EXPORT_SYMBOL_GPL(axp_read_ac_chg);$/;"	v
+axp_read_ac_chg	axp-chg.c	/^s32 axp_read_ac_chg(void)$/;"	f
+axp_read_ac_chg	axp-interface.c	/^s32 axp_read_ac_chg(void){ return 0; };$/;"	f
+axp_read_adc	axp-state.c	/^static inline void axp_read_adc(struct axp_charger *charger,$/;"	f	file:
+axp_read_bat_cap	axp-interface.c	/^s32 axp_read_bat_cap(void){return 100;};$/;"	f
+axp_read_bat_cap	axp-state.c	/^EXPORT_SYMBOL_GPL(axp_read_bat_cap);$/;"	v
+axp_read_bat_cap	axp-state.c	/^s32 axp_read_bat_cap(void)$/;"	f
+axp_read_power_sply	axp-interface.c	/^u64 axp_read_power_sply(void){ return 0; };$/;"	f
+axp_read_power_sply	axp-state.c	/^EXPORT_SYMBOL(axp_read_power_sply);$/;"	v
+axp_read_power_sply	axp-state.c	/^u64 axp_read_power_sply(void)$/;"	f
+axp_reads	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_reads);$/;"	v
+axp_reads	axp-rw.c	/^s32 axp_reads(struct device *dev, s32 reg, s32 len, u8 *val)$/;"	f
+axp_reg_addr	axp81x-mfd.h	/^static u8 axp_reg_addr = 0;$/;"	v
+axp_reg_debug	axp-filenode.c	/^void axp_reg_debug(s32 reg, s32 len, u8 *val)$/;"	f
+axp_reg_debug	axp-interface.c	/^void axp_reg_debug(s32 reg, s32 len, u8 *val){return;};$/;"	f
+axp_reg_init	axp-regu.h	/^struct  axp_reg_init {$/;"	s
+axp_reg_init_data	axp-regu.h	/^	struct regulator_init_data axp_reg_init_data;$/;"	m	struct:axp_reg_init	typeref:struct:axp_reg_init::regulator_init_data
+axp_regdebug_show	axp-filenode.c	/^static ssize_t axp_regdebug_show(struct class *class,$/;"	f	file:
+axp_regdebug_store	axp-filenode.c	/^static ssize_t axp_regdebug_store(struct class *class,$/;"	f	file:
+axp_register_mfd	axp-mfd.c	/^EXPORT_SYMBOL(axp_register_mfd);$/;"	v
+axp_register_mfd	axp-mfd.c	/^s32 axp_register_mfd(struct axp_dev *dev)$/;"	f
+axp_register_notifier	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_register_notifier);$/;"	v
+axp_register_notifier	axp-rw.c	/^s32 axp_register_notifier(struct device *dev, struct notifier_block *nb,$/;"	f
+axp_regl_init_data	axp81x-regu.c	/^static struct axp_reg_init axp_regl_init_data[] = {$/;"	v	typeref:struct:axp_reg_init	file:
+axp_regldevs	axp81x-regu.c	/^static struct axp_funcdev_info axp_regldevs[] = {$/;"	v	typeref:struct:axp_funcdev_info	file:
+axp_regls	axp81x-regu.c	/^enum axp_regls{$/;"	g	file:
+axp_regu_attrs	axp-regu.c	/^static struct device_attribute axp_regu_attrs[] = {$/;"	v	typeref:struct:device_attribute	file:
+axp_regu_create_attrs	axp-regu.c	/^static s32 axp_regu_create_attrs(struct platform_device *pdev)$/;"	f	file:
+axp_regu_device_driver	axp-regu-device.c	/^static struct platform_driver axp_regu_device_driver = {$/;"	v	typeref:struct:platform_driver	file:
+axp_regu_device_match	axp-regu-device.c	/^static struct of_device_id axp_regu_device_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+axp_regu_device_probe	axp-regu-device.c	/^static s32 axp_regu_device_probe(struct platform_device *pdev)$/;"	f	file:
+axp_regu_device_tree_parse	axp-regu-device.c	/^s32  axp_regu_device_tree_parse(char * pmu_type, struct axp_reg_init *axp_init_data)$/;"	f
+axp_regulator_driver	axp-regu.c	/^static struct platform_driver axp_regulator_driver = {$/;"	v	typeref:struct:platform_driver	file:
+axp_regulator_exit	axp-regu.c	/^module_exit(axp_regulator_exit);$/;"	v
+axp_regulator_exit	axp-regu.c	/^static void __exit axp_regulator_exit(void)$/;"	f	file:
+axp_regulator_info	axp-regu.h	/^struct axp_regulator_info {$/;"	s
+axp_regulator_init	axp-regu.c	/^static s32 __init axp_regulator_init(void)$/;"	f	file:
+axp_regulator_init	axp-regu.c	/^subsys_initcall(axp_regulator_init);$/;"	v
+axp_regulator_probe	axp-regu.c	/^static s32  axp_regulator_probe(struct platform_device *pdev)$/;"	f	file:
+axp_regulator_remove	axp-regu.c	/^static s32 axp_regulator_remove(struct platform_device *pdev)$/;"	f	file:
+axp_set_bits	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_set_bits);$/;"	v
+axp_set_bits	axp-rw.c	/^s32 axp_set_bits(struct device *dev, s32 reg, u8 bit_mask)$/;"	f
+axp_set_bits_sync	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_set_bits_sync);$/;"	v
+axp_set_bits_sync	axp-rw.c	/^s32 axp_set_bits_sync(struct device *dev, s32 reg, u8 bit_mask)$/;"	f
+axp_set_charge	axp81x-init.c	/^static void axp_set_charge(struct axp_charger *charger)$/;"	f	file:
+axp_set_suspend_voltage	axp-regu.c	/^static s32 axp_set_suspend_voltage(struct regulator_dev *rdev, s32 uV)$/;"	f	file:
+axp_set_voltage	axp-regu.c	/^static s32 axp_set_voltage(struct regulator_dev *rdev,$/;"	f	file:
+axp_sply_init_data	axp81x-board.c	/^static struct axp_supply_init_data axp_sply_init_data = {$/;"	v	typeref:struct:axp_supply_init_data	file:
+axp_splydev	axp81x-board.c	/^static struct axp_funcdev_info axp_splydev[]={$/;"	v	typeref:struct:axp_funcdev_info	file:
+axp_unregister_mfd	axp-mfd.c	/^EXPORT_SYMBOL_GPL(axp_unregister_mfd);$/;"	v
+axp_unregister_mfd	axp-mfd.c	/^void axp_unregister_mfd(struct axp_dev *dev)$/;"	f
+axp_unregister_notifier	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_unregister_notifier);$/;"	v
+axp_unregister_notifier	axp-rw.c	/^s32 axp_unregister_notifier(struct device *dev, struct notifier_block *nb,$/;"	f
+axp_update	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_update);$/;"	v
+axp_update	axp-rw.c	/^s32 axp_update(struct device *dev, s32 reg, u8 val, u8 mask)$/;"	f
+axp_update_sync	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_update_sync);$/;"	v
+axp_update_sync	axp-rw.c	/^s32 axp_update_sync(struct device *dev, s32 reg, u8 val, u8 mask)$/;"	f
+axp_usb	axp-chg.c	/^static void axp_usb(struct work_struct *work)$/;"	f	file:
+axp_usb_ac_check_status	axp-chg.c	/^static void axp_usb_ac_check_status(struct axp_charger *charger)$/;"	f	file:
+axp_usb_det	axp-chg.c	/^EXPORT_SYMBOL_GPL(axp_usb_det);$/;"	v
+axp_usb_det	axp-chg.c	/^s32 axp_usb_det(void)$/;"	f
+axp_usb_det	axp-interface.c	/^s32 axp_usb_det(void){ return 0; };$/;"	f
+axp_usb_get_property	axp81x-sply.c	/^static s32 axp_usb_get_property(struct power_supply *psy,$/;"	f	file:
+axp_usb_props	axp81x-sply.c	/^static enum power_supply_property axp_usb_props[] = {$/;"	v	typeref:enum:power_supply_property	file:
+axp_usbac_checkst	axp-chg.c	/^void axp_usbac_checkst(struct axp_charger *charger)$/;"	f
+axp_usbac_in	axp-chg.c	/^void axp_usbac_in(struct axp_charger *charger)$/;"	f
+axp_usbac_out	axp-chg.c	/^void axp_usbac_out(struct axp_charger *charger)$/;"	f
+axp_usbcur	axp-chg.c	/^EXPORT_SYMBOL_GPL(axp_usbcur);$/;"	v
+axp_usbcur	axp-chg.c	/^s32 axp_usbcur(aw_charge_type type)$/;"	f
+axp_usbcur	axp-interface.c	/^s32 axp_usbcur(aw_charge_type type){ return 0; };$/;"	f
+axp_usbcurflag	axp-chg.c	/^static aw_charge_type axp_usbcurflag = CHARGE_AC;$/;"	v	file:
+axp_usbvol	axp-chg.c	/^EXPORT_SYMBOL_GPL(axp_usbvol);$/;"	v
+axp_usbvol	axp-chg.c	/^s32 axp_usbvol(aw_charge_type type)$/;"	f
+axp_usbvol	axp-interface.c	/^s32 axp_usbvol(aw_charge_type type){ return 0; };$/;"	f
+axp_usbvolflag	axp-chg.c	/^static aw_charge_type axp_usbvolflag = CHARGE_AC;$/;"	v	file:
+axp_vbat_to_mV	axp-state.c	/^static inline s32 axp_vbat_to_mV(u16 reg)$/;"	f	file:
+axp_vdc_to_mV	axp-state.c	/^static inline s32 axp_vdc_to_mV(u16 reg)$/;"	f	file:
+axp_vts_to_mV	axp-state.c	/^static inline s32 axp_vts_to_mV(u16 reg)$/;"	f	file:
+axp_vts_to_temp	axp-state.c	/^static inline s32 axp_vts_to_temp(s32 data, const struct axp_config_info *axp_config)$/;"	f	file:
+axp_wakeup_lock	axp-irq.c	/^static struct wake_lock axp_wakeup_lock;$/;"	v	typeref:struct:wake_lock	file:
+axp_write	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_write);$/;"	v
+axp_write	axp-rw.c	/^s32 axp_write(struct device *dev, s32 reg, u8 val)$/;"	f
+axp_writes	axp-rw.c	/^EXPORT_SYMBOL_GPL(axp_writes);$/;"	v
+axp_writes	axp-rw.c	/^s32 axp_writes(struct device *dev, s32 reg, s32 len, u8 *val)$/;"	f
+axpdbg_power_sply_open	axp-debugfs.c	/^static s32 axpdbg_power_sply_open(struct inode * inode, struct file * file)$/;"	f	file:
+axpdbg_power_sply_release	axp-debugfs.c	/^static s32 axpdbg_power_sply_release(struct inode * inode, struct file * file)$/;"	f	file:
+axpdbg_power_sply_write	axp-debugfs.c	/^static ssize_t axpdbg_power_sply_write(struct file *file, const char __user *buf, size_t count, loff_t *ppos)$/;"	f	file:
+axpdebug_show	axp-filenode.c	/^static ssize_t axpdebug_show(struct class *class,$/;"	f	file:
+axpdebug_store	axp-filenode.c	/^static ssize_t axpdebug_store(struct class *class,$/;"	f	file:
+axppower_class	axp-filenode.c	/^struct class axppower_class = {$/;"	v	typeref:struct:class
+axppower_class_attrs	axp-filenode.c	/^static struct class_attribute axppower_class_attrs[] = {$/;"	v	typeref:struct:class_attribute	file:
+base_addr	sunxi-nmi.h	/^	void __iomem *base_addr;$/;"	m	struct:__anon3
+base_restvol	axp81x-sply.h	/^	s32 base_restvol;$/;"	m	struct:axp_charger
+bat_current_direction	axp81x-sply.h	/^	bool bat_current_direction;$/;"	m	struct:axp_charger
+bat_det	axp81x-sply.h	/^	bool bat_det;$/;"	m	struct:axp_charger
+bat_temp	axp81x-sply.h	/^	s32 bat_temp;$/;"	m	struct:axp_charger
+batery_active	axp81x-sply.h	/^	bool batery_active;$/;"	m	struct:axp_charger
+batt	axp81x-sply.h	/^	struct power_supply batt;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::power_supply
+battery_critical	axp81x-sply.h	/^	void (*battery_critical)(void);$/;"	m	struct:axp_charger
+battery_data	axp81x-board.c	/^static struct power_supply_info battery_data ={$/;"	v	typeref:struct:power_supply_info	file:
+battery_info	axp81x-sply.h	/^	struct power_supply_info *battery_info;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::power_supply_info
+battery_low	axp81x-sply.h	/^	void (*battery_low)(void);$/;"	m	struct:axp_charger
+bypass	axp-mem-device.h	/^	unsigned int bypass:1;$/;"	m	struct:regulator
+bypass	virtual.h	/^	unsigned int bypass:1;$/;"	m	struct:regulator
+charge_on	axp81x-sply.h	/^	s32 charge_on;$/;"	m	struct:axp_charger
+charger_lock	axp81x-sply.h	/^	spinlock_t charger_lock;$/;"	m	struct:axp_charger
+check_range	axp-regu.c	/^static inline s32 check_range(struct axp_regulator_info *info,$/;"	f	file:
+check_sys_name	axp-depend-set.c	/^char check_sys_name[20] = {0};$/;"	v
+check_sys_show	axp-depend-set.c	/^static ssize_t check_sys_show(struct class *class,$/;"	f	file:
+check_sys_store	axp-depend-set.c	/^static ssize_t check_sys_store(struct class *class,$/;"	f	file:
+chg_usb_ac_current_set	axp81x-sply.h	/^	s32 (*chg_usb_ac_current_set)(struct axp_charger *charger, aw_charge_type port_type, u32 current_limit);$/;"	m	struct:axp_charger
+chg_usb_ac_vol_set	axp81x-sply.h	/^	s32 (*chg_usb_ac_vol_set)(struct axp_charger *charger, aw_charge_type port_type, u32 vol_limit);$/;"	m	struct:axp_charger
+chgcsttime	axp81x-sply.h	/^	s32 chgcsttime;$/;"	m	struct:axp_charger
+chgcur	axp81x-sply.h	/^	u32 chgcur;$/;"	m	struct:axp_charger
+chgen	axp81x-sply.h	/^	bool chgen;$/;"	m	struct:axp_charger
+chgend	axp81x-sply.h	/^	u32 chgend;$/;"	m	struct:axp_charger
+chgextcur	axp81x-sply.h	/^	s32 chgextcur;$/;"	m	struct:axp_charger
+chgexten	axp81x-sply.h	/^	bool chgexten;$/;"	m	struct:axp_charger
+chgpretime	axp81x-sply.h	/^	s32 chgpretime;$/;"	m	struct:axp_charger
+chgvol	axp81x-sply.h	/^	u32 chgvol;$/;"	m	struct:axp_charger
+clear_nmi_status	sunxi-nmi.c	/^EXPORT_SYMBOL(clear_nmi_status);$/;"	v
+clear_nmi_status	sunxi-nmi.c	/^void clear_nmi_status(void)$/;"	f
+consumer_supply_count	axp-regu-device.c	/^static struct axp_consumer_supply *consumer_supply_count = NULL;$/;"	v	typeref:struct:axp_consumer_supply	file:
+data2	axp81x-mfd.h	/^static u32 data2 = 2;$/;"	v
+debug_file	axp81x-sply.h	/^	struct dentry *debug_file;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::dentry
+debug_mask	axp-depend-init.c	/^static u32 debug_mask = 0;$/;"	v	file:
+debug_mask	sunxi-nmi.c	/^static u32 debug_mask = 0x0;$/;"	v	file:
+debugfs	axp-mem-device.h	/^	struct dentry *debugfs;$/;"	m	struct:regulator	typeref:struct:regulator::dentry
+debugfs	virtual.h	/^	struct dentry *debugfs;$/;"	m	struct:regulator	typeref:struct:regulator::dentry
+del_sys_pwr_dm	axp-depend-set.c	/^s32 del_sys_pwr_dm(const char *id)$/;"	f
+del_sys_store	axp-depend-set.c	/^static ssize_t del_sys_store(struct class *class,$/;"	f	file:
+delay	axp-debugfs.c	/^	atomic_t delay;$/;"	m	struct:power_supply_data	file:
+depend_class	axp-depend-set.c	/^static struct class depend_class = {$/;"	v	typeref:struct:class	file:
+depend_module_exit	axp-depend-set.c	/^module_exit(depend_module_exit);$/;"	v
+depend_module_exit	axp-depend-set.c	/^static void __exit depend_module_exit(void)$/;"	f	file:
+depend_module_init	axp-depend-set.c	/^module_init(depend_module_init);$/;"	v
+depend_module_init	axp-depend-set.c	/^static int __init depend_module_init(void)$/;"	f	file:
+desc	axp-regu.h	/^	struct regulator_desc desc;$/;"	m	struct:axp_regulator_info	typeref:struct:axp_regulator_info::regulator_desc
+dev	axp-mem-device.h	/^	struct device *dev;$/;"	m	struct:regulator	typeref:struct:regulator::device
+dev	virtual.h	/^	struct device *dev;$/;"	m	struct:regulator	typeref:struct:regulator::device
+dev_attr	axp-mem-device.h	/^	struct device_attribute dev_attr;$/;"	m	struct:regulator	typeref:struct:regulator::device_attribute
+dev_attr	virtual.h	/^	struct device_attribute dev_attr;$/;"	m	struct:regulator	typeref:struct:regulator::device_attribute
+disable_nmi	sunxi-nmi.c	/^EXPORT_SYMBOL(disable_nmi);$/;"	v
+disable_nmi	sunxi-nmi.c	/^void disable_nmi(void)$/;"	f
+disibat	axp81x-sply.h	/^	s32 disibat;$/;"	m	struct:axp_charger
+disvbat	axp81x-sply.h	/^	s32 disvbat;$/;"	m	struct:axp_charger
+dprintk	sunxi-nmi.h	28;"	d
+dvm_enable_bit	axp-regu.h	/^	s32	dvm_enable_bit;$/;"	m	struct:axp_regulator_info
+dvm_enable_reg	axp-regu.h	/^	s32	dvm_enable_reg;$/;"	m	struct:axp_regulator_info
+enable_bit	axp-regu.h	/^	s32	enable_bit;$/;"	m	struct:axp_regulator_info
+enable_nmi	sunxi-nmi.c	/^EXPORT_SYMBOL(enable_nmi);$/;"	v
+enable_nmi	sunxi-nmi.c	/^void enable_nmi(void)$/;"	f
+enable_reg	axp-regu.h	/^	s32	enable_reg;$/;"	m	struct:axp_regulator_info
+enabled	virtual.h	/^	int enabled;$/;"	m	struct:virtual_consumer_data
+ext_valid	axp81x-sply.h	/^	bool ext_valid;$/;"	m	struct:axp_charger
+fault	axp81x-sply.h	/^	u8 fault;$/;"	m	struct:axp_charger
+freq_reg	axp-regu.h	/^	s32	freq_reg;$/;"	m	struct:axp_regulator_info
+frequency_show	axp-regu.c	/^static ssize_t frequency_show(struct device *dev,$/;"	f	file:
+frequency_store	axp-regu.c	/^static ssize_t frequency_store(struct device *dev,$/;"	f	file:
+get_ldo_dependence	axp-depend-init.c	/^s32 get_ldo_dependence(const char *ldo_name, s32 count)$/;"	f
+get_pwr_regu_tree	axp-depend-init.c	/^void get_pwr_regu_tree(unsigned int *p)$/;"	f
+get_sys_dump_show	axp-depend-set.c	/^static ssize_t get_sys_dump_show(struct class *class,$/;"	f	file:
+get_sys_pwr_dm_id	axp-depend-set.c	/^char *get_sys_pwr_dm_id(u32 bitmap)$/;"	f
+get_sys_pwr_dm_mask	axp-depend-init.c	/^u32 get_sys_pwr_dm_mask(void)$/;"	f
+iac	axp81x-sply.h	/^	s32 iac;$/;"	m	struct:axp_charger
+iac_res	axp81x-sply.h	/^	u16 iac_res;$/;"	m	struct:axp_adc_res
+ibat	axp81x-sply.h	/^	s32 ibat;$/;"	m	struct:axp_charger
+ibat_res	axp81x-sply.h	/^	u16 ibat_res;$/;"	m	struct:axp_adc_res
+ic_temp	axp81x-sply.h	/^	s32 ic_temp;$/;"	m	struct:axp_charger
+ichar_res	axp81x-sply.h	/^	u16 ichar_res;$/;"	m	struct:axp_adc_res
+id_name	axp-mem-device.h	/^	char id_name[20];$/;"	m	struct:__anon2
+idischar_res	axp81x-sply.h	/^	u16 idischar_res;$/;"	m	struct:axp_adc_res
+in_short	axp81x-sply.h	/^	bool in_short;$/;"	m	struct:axp_charger
+info	axp-regu.h	/^	struct axp_regulator_info *info;$/;"	m	struct:axp_reg_init	typeref:struct:axp_reg_init::axp_regulator_info
+int_over_temp	axp81x-sply.h	/^	bool int_over_temp;$/;"	m	struct:axp_charger
+interval	axp81x-sply.h	/^	u32 interval;$/;"	m	struct:axp_charger
+is_finish	axp81x-sply.h	/^	bool is_finish;$/;"	m	struct:axp_charger
+is_on	axp81x-sply.h	/^	bool is_on;$/;"	m	struct:axp_charger
+is_sys_pwr_dm_active	axp-depend-set.c	/^s32 is_sys_pwr_dm_active(u32 bitmap)$/;"	f
+is_sys_pwr_dm_id	axp-depend-set.c	/^s32 is_sys_pwr_dm_id(const char *id)$/;"	f
+iusb	axp81x-sply.h	/^	s32 iusb;$/;"	m	struct:axp_charger
+iusb_res	axp81x-sply.h	/^	u16 iusb_res;$/;"	m	struct:axp_adc_res
+ldo_count	axp-mem-device.c	/^static u32 ldo_count = 0;$/;"	v	file:
+limit_on	axp81x-sply.h	/^	bool limit_on;$/;"	m	struct:axp_charger
+list	axp-mem-device.h	/^	struct list_head list;$/;"	m	struct:regulator	typeref:struct:regulator::list_head
+list	virtual.h	/^	struct list_head list;$/;"	m	struct:regulator	typeref:struct:regulator::list_head
+lock	virtual.h	/^	struct mutex lock;$/;"	m	struct:virtual_consumer_data	typeref:struct:virtual_consumer_data::mutex
+low_charge_current	axp81x-sply.h	/^	bool low_charge_current;$/;"	m	struct:axp_charger
+master	axp81x-sply.h	/^	struct device *master;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::device
+max_uA	virtual.h	/^	int max_uA;$/;"	m	struct:virtual_consumer_data
+max_uV	axp-mem-device.h	/^	int max_uV;$/;"	m	struct:regulator
+max_uV	axp-regu.h	/^	s32	max_uV;$/;"	m	struct:axp_regulator_info
+max_uV	virtual.h	/^	int max_uV;$/;"	m	struct:regulator
+max_uV	virtual.h	/^	int max_uV;$/;"	m	struct:virtual_consumer_data
+mem_data	axp-mem-device.h	/^	unsigned int mem_data;$/;"	m	struct:__anon2
+min_uA	virtual.h	/^	int min_uA;$/;"	m	struct:virtual_consumer_data
+min_uV	axp-mem-device.h	/^	int min_uV;$/;"	m	struct:regulator
+min_uV	axp-regu.h	/^	s32	min_uV;$/;"	m	struct:axp_regulator_info
+min_uV	virtual.h	/^	int min_uV;$/;"	m	struct:regulator
+min_uV	virtual.h	/^	int min_uV;$/;"	m	struct:virtual_consumer_data
+mode	virtual.h	/^	unsigned int mode;$/;"	m	struct:virtual_consumer_data
+mode_reg	axp-regu.h	/^	s32	mode_reg;$/;"	m	struct:axp_regulator_info
+my_axpdbg_root	axp-debugfs.c	/^static struct dentry *my_axpdbg_root;$/;"	v	typeref:struct:dentry	file:
+nb	axp81x-sply.h	/^	struct notifier_block nb;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::notifier_block
+new_level_uV	axp-regu.h	/^	s32	new_level_uV;$/;"	m	struct:axp_regulator_info
+nmi_data	sunxi-nmi.c	/^static nmi_struct *nmi_data;$/;"	v	file:
+nmi_irq_ctrl	sunxi-nmi.h	/^	u32 nmi_irq_ctrl;$/;"	m	struct:__anon3
+nmi_irq_en	sunxi-nmi.h	/^	u32 nmi_irq_en;$/;"	m	struct:__anon3
+nmi_irq_mask	sunxi-nmi.h	/^	u32 nmi_irq_mask;$/;"	m	struct:__anon3
+nmi_irq_status	sunxi-nmi.h	/^	u32 nmi_irq_status;$/;"	m	struct:__anon3
+nmi_platform_driver	sunxi-nmi.c	/^static struct platform_driver nmi_platform_driver = {$/;"	v	typeref:struct:platform_driver	file:
+nmi_struct	sunxi-nmi.h	/^}nmi_struct;$/;"	t	typeref:struct:__anon3
+ocv	axp81x-sply.h	/^	s32 ocv;$/;"	m	struct:axp_charger
+ocv_coulumb_100	axp-cfg.h	/^	u32	ocv_coulumb_100;$/;"	m	struct:axp_config_info
+ocv_rest_vol	axp81x-sply.h	/^	s32 ocv_rest_vol;$/;"	m	struct:axp_charger
+ocvbat_res	axp81x-sply.h	/^	u16 ocvbat_res;$/;"	m	struct:axp_adc_res
+out_factory_mode_show	axp-filenode.c	/^static ssize_t out_factory_mode_show(struct class *class,$/;"	f	file:
+out_factory_mode_store	axp-filenode.c	/^static ssize_t out_factory_mode_store(struct class *class,$/;"	f	file:
+pbat	axp81x-sply.h	/^	s32 pbat;$/;"	m	struct:axp_charger
+pmu_IRQ_wakeup	axp-cfg.h	/^	u32	pmu_IRQ_wakeup;$/;"	m	struct:axp_config_info
+pmu_ac_cur	axp-cfg.h	/^	u32	pmu_ac_cur;$/;"	m	struct:axp_config_info
+pmu_ac_vol	axp-cfg.h	/^	u32	pmu_ac_vol;$/;"	m	struct:axp_config_info
+pmu_bat_charge_htf	axp-cfg.h	/^	u32	pmu_bat_charge_htf;$/;"	m	struct:axp_config_info
+pmu_bat_charge_ltf	axp-cfg.h	/^	u32	pmu_bat_charge_ltf;$/;"	m	struct:axp_config_info
+pmu_bat_para1	axp-cfg.h	/^	u32	pmu_bat_para1;$/;"	m	struct:axp_config_info
+pmu_bat_para10	axp-cfg.h	/^	u32	pmu_bat_para10;$/;"	m	struct:axp_config_info
+pmu_bat_para11	axp-cfg.h	/^	u32	pmu_bat_para11;$/;"	m	struct:axp_config_info
+pmu_bat_para12	axp-cfg.h	/^	u32	pmu_bat_para12;$/;"	m	struct:axp_config_info
+pmu_bat_para13	axp-cfg.h	/^	u32	pmu_bat_para13;$/;"	m	struct:axp_config_info
+pmu_bat_para14	axp-cfg.h	/^	u32	pmu_bat_para14;$/;"	m	struct:axp_config_info
+pmu_bat_para15	axp-cfg.h	/^	u32	pmu_bat_para15;$/;"	m	struct:axp_config_info
+pmu_bat_para16	axp-cfg.h	/^	u32	pmu_bat_para16;$/;"	m	struct:axp_config_info
+pmu_bat_para17	axp-cfg.h	/^	u32	pmu_bat_para17;$/;"	m	struct:axp_config_info
+pmu_bat_para18	axp-cfg.h	/^	u32	pmu_bat_para18;$/;"	m	struct:axp_config_info
+pmu_bat_para19	axp-cfg.h	/^	u32	pmu_bat_para19;$/;"	m	struct:axp_config_info
+pmu_bat_para2	axp-cfg.h	/^	u32	pmu_bat_para2;$/;"	m	struct:axp_config_info
+pmu_bat_para20	axp-cfg.h	/^	u32	pmu_bat_para20;$/;"	m	struct:axp_config_info
+pmu_bat_para21	axp-cfg.h	/^	u32	pmu_bat_para21;$/;"	m	struct:axp_config_info
+pmu_bat_para22	axp-cfg.h	/^	u32	pmu_bat_para22;$/;"	m	struct:axp_config_info
+pmu_bat_para23	axp-cfg.h	/^	u32	pmu_bat_para23;$/;"	m	struct:axp_config_info
+pmu_bat_para24	axp-cfg.h	/^	u32	pmu_bat_para24;$/;"	m	struct:axp_config_info
+pmu_bat_para25	axp-cfg.h	/^	u32	pmu_bat_para25;$/;"	m	struct:axp_config_info
+pmu_bat_para26	axp-cfg.h	/^	u32	pmu_bat_para26;$/;"	m	struct:axp_config_info
+pmu_bat_para27	axp-cfg.h	/^	u32	pmu_bat_para27;$/;"	m	struct:axp_config_info
+pmu_bat_para28	axp-cfg.h	/^	u32	pmu_bat_para28;$/;"	m	struct:axp_config_info
+pmu_bat_para29	axp-cfg.h	/^	u32	pmu_bat_para29;$/;"	m	struct:axp_config_info
+pmu_bat_para3	axp-cfg.h	/^	u32	pmu_bat_para3;$/;"	m	struct:axp_config_info
+pmu_bat_para30	axp-cfg.h	/^	u32	pmu_bat_para30;$/;"	m	struct:axp_config_info
+pmu_bat_para31	axp-cfg.h	/^	u32	pmu_bat_para31;$/;"	m	struct:axp_config_info
+pmu_bat_para32	axp-cfg.h	/^	u32	pmu_bat_para32;$/;"	m	struct:axp_config_info
+pmu_bat_para4	axp-cfg.h	/^	u32	pmu_bat_para4;$/;"	m	struct:axp_config_info
+pmu_bat_para5	axp-cfg.h	/^	u32	pmu_bat_para5;$/;"	m	struct:axp_config_info
+pmu_bat_para6	axp-cfg.h	/^	u32	pmu_bat_para6;$/;"	m	struct:axp_config_info
+pmu_bat_para7	axp-cfg.h	/^	u32	pmu_bat_para7;$/;"	m	struct:axp_config_info
+pmu_bat_para8	axp-cfg.h	/^	u32	pmu_bat_para8;$/;"	m	struct:axp_config_info
+pmu_bat_para9	axp-cfg.h	/^	u32	pmu_bat_para9;$/;"	m	struct:axp_config_info
+pmu_bat_shutdown_htf	axp-cfg.h	/^	u32	pmu_bat_shutdown_htf;$/;"	m	struct:axp_config_info
+pmu_bat_shutdown_ltf	axp-cfg.h	/^	u32	pmu_bat_shutdown_ltf;$/;"	m	struct:axp_config_info
+pmu_bat_temp_enable	axp-cfg.h	/^	u32	pmu_bat_temp_enable;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para1	axp-cfg.h	/^	u32	pmu_bat_temp_para1;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para10	axp-cfg.h	/^	u32	pmu_bat_temp_para10;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para11	axp-cfg.h	/^	u32	pmu_bat_temp_para11;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para12	axp-cfg.h	/^	u32	pmu_bat_temp_para12;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para13	axp-cfg.h	/^	u32	pmu_bat_temp_para13;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para14	axp-cfg.h	/^	u32	pmu_bat_temp_para14;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para15	axp-cfg.h	/^	u32	pmu_bat_temp_para15;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para16	axp-cfg.h	/^	u32	pmu_bat_temp_para16;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para2	axp-cfg.h	/^	u32	pmu_bat_temp_para2;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para3	axp-cfg.h	/^	u32	pmu_bat_temp_para3;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para4	axp-cfg.h	/^	u32	pmu_bat_temp_para4;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para5	axp-cfg.h	/^	u32	pmu_bat_temp_para5;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para6	axp-cfg.h	/^	u32	pmu_bat_temp_para6;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para7	axp-cfg.h	/^	u32	pmu_bat_temp_para7;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para8	axp-cfg.h	/^	u32	pmu_bat_temp_para8;$/;"	m	struct:axp_config_info
+pmu_bat_temp_para9	axp-cfg.h	/^	u32	pmu_bat_temp_para9;$/;"	m	struct:axp_config_info
+pmu_batdeten	axp-cfg.h	/^	u32	pmu_batdeten;$/;"	m	struct:axp_config_info
+pmu_batt_cap_correct	axp-cfg.h	/^	u32	pmu_batt_cap_correct;$/;"	m	struct:axp_config_info
+pmu_battery_cap	axp-cfg.h	/^	u32	pmu_battery_cap;$/;"	m	struct:axp_config_info
+pmu_battery_rdc	axp-cfg.h	/^	u32	pmu_battery_rdc;$/;"	m	struct:axp_config_info
+pmu_battery_warning_level1	axp-cfg.h	/^	u32	pmu_battery_warning_level1;$/;"	m	struct:axp_config_info
+pmu_battery_warning_level2	axp-cfg.h	/^	u32	pmu_battery_warning_level2;$/;"	m	struct:axp_config_info
+pmu_chg_end_on_en	axp-cfg.h	/^	u32	pmu_chg_end_on_en;$/;"	m	struct:axp_config_info
+pmu_chg_ic_temp	axp-cfg.h	/^	u32     pmu_chg_ic_temp;$/;"	m	struct:axp_config_info
+pmu_chgled_func	axp-cfg.h	/^	u32	pmu_chgled_func;$/;"	m	struct:axp_config_info
+pmu_chgled_type	axp-cfg.h	/^	u32	pmu_chgled_type;$/;"	m	struct:axp_config_info
+pmu_hot_shutdown	axp-cfg.h	/^	u32	pmu_hot_shutdown;$/;"	m	struct:axp_config_info
+pmu_init_adc_freq	axp-cfg.h	/^	u32	pmu_init_adc_freq;$/;"	m	struct:axp_config_info
+pmu_init_adcts_freq	axp-cfg.h	/^	u32	pmu_init_adcts_freq;$/;"	m	struct:axp_config_info
+pmu_init_bc_en	axp-cfg.h	/^	u32	pmu_init_bc_en;$/;"	m	struct:axp_config_info
+pmu_init_chg_csttime	axp-cfg.h	/^	u32	pmu_init_chg_csttime;$/;"	m	struct:axp_config_info
+pmu_init_chg_enabled	axp-cfg.h	/^	u32	pmu_init_chg_enabled;$/;"	m	struct:axp_config_info
+pmu_init_chg_pretime	axp-cfg.h	/^	u32	pmu_init_chg_pretime;$/;"	m	struct:axp_config_info
+pmu_init_chgend_rate	axp-cfg.h	/^	u32	pmu_init_chgend_rate;$/;"	m	struct:axp_config_info
+pmu_init_chgvol	axp-cfg.h	/^	u32	pmu_init_chgvol;$/;"	m	struct:axp_config_info
+pmu_inshort	axp-cfg.h	/^	u32	pmu_inshort;$/;"	m	struct:axp_config_info
+pmu_irq_id	axp-cfg.h	/^	u32	pmu_irq_id;$/;"	m	struct:axp_config_info
+pmu_ocv_cou_adjust_time	axp-cfg.h	/^	u32	pmu_ocv_cou_adjust_time;$/;"	m	struct:axp_config_info
+pmu_powkey_long_time	axp-cfg.h	/^	u32	pmu_powkey_long_time;$/;"	m	struct:axp_config_info
+pmu_powkey_off_delay_time	axp-cfg.h	/^	u32     pmu_powkey_off_delay_time;$/;"	m	struct:axp_config_info
+pmu_powkey_off_en	axp-cfg.h	/^	u32	pmu_powkey_off_en;$/;"	m	struct:axp_config_info
+pmu_powkey_off_func	axp-cfg.h	/^	u32	pmu_powkey_off_func;$/;"	m	struct:axp_config_info
+pmu_powkey_off_time	axp-cfg.h	/^	u32	pmu_powkey_off_time;$/;"	m	struct:axp_config_info
+pmu_powkey_on_time	axp-cfg.h	/^	u32	pmu_powkey_on_time;$/;"	m	struct:axp_config_info
+pmu_pwroff_vol	axp-cfg.h	/^	u32	pmu_pwroff_vol;$/;"	m	struct:axp_config_info
+pmu_pwrok_time	axp-cfg.h	/^	u32	pmu_pwrok_time;$/;"	m	struct:axp_config_info
+pmu_pwron_vol	axp-cfg.h	/^	u32	pmu_pwron_vol;$/;"	m	struct:axp_config_info
+pmu_reset	axp-cfg.h	/^	u32	pmu_reset;$/;"	m	struct:axp_config_info
+pmu_reset_shutdown_en	axp-cfg.h	/^	u32     pmu_reset_shutdown_en;$/;"	m	struct:axp_config_info
+pmu_restvol_adjust_time	axp-cfg.h	/^	u32	pmu_restvol_adjust_time;$/;"	m	struct:axp_config_info
+pmu_runtime_chgcur	axp-cfg.h	/^	u32	pmu_runtime_chgcur;$/;"	m	struct:axp_config_info
+pmu_shutdown_chgcur	axp-cfg.h	/^	u32	pmu_shutdown_chgcur;$/;"	m	struct:axp_config_info
+pmu_suspend_chgcur	axp-cfg.h	/^	u32	pmu_suspend_chgcur;$/;"	m	struct:axp_config_info
+pmu_twi_addr	axp-cfg.h	/^	u32	pmu_twi_addr;$/;"	m	struct:axp_config_info
+pmu_twi_id	axp-cfg.h	/^	u32	pmu_twi_id;$/;"	m	struct:axp_config_info
+pmu_usbpc_cur	axp-cfg.h	/^	u32	pmu_usbpc_cur;$/;"	m	struct:axp_config_info
+pmu_usbpc_vol	axp-cfg.h	/^	u32	pmu_usbpc_vol;$/;"	m	struct:axp_config_info
+pmu_used	axp-cfg.h	/^	u32	pmu_used;$/;"	m	struct:axp_config_info
+pmu_vbusen_func	axp-cfg.h	/^	u32	pmu_vbusen_func;$/;"	m	struct:axp_config_info
+power_regu_tree	axp-depend-init.c	/^static u32 power_regu_tree[VCC_MAX_INDEX] = {0};$/;"	v	file:
+power_sply_ops	axp-debugfs.c	/^static const struct file_operations power_sply_ops = {$/;"	v	typeref:struct:file_operations	file:
+power_sply_work_func	axp-debugfs.c	/^static void power_sply_work_func(struct work_struct *work)$/;"	f	file:
+power_start	axp-cfg.h	/^	int	power_start;$/;"	m	struct:axp_config_info
+power_supply_data	axp-debugfs.c	/^static struct power_supply_data {$/;"	s	file:
+powerkeydev	axp-irq.c	/^static  struct input_dev * powerkeydev;$/;"	v	typeref:struct:input_dev	file:
+pwr_dm_bitmap_name_mapping	axp-depend-init.c	/^const bitmap_name_mapping_t pwr_dm_bitmap_name_mapping[] = {$/;"	v
+pwr_dm_bitmap_name_mapping_cnt	axp-depend-init.c	/^s32 pwr_dm_bitmap_name_mapping_cnt = sizeof(pwr_dm_bitmap_name_mapping)\/sizeof(pwr_dm_bitmap_name_mapping[0]);$/;"	v
+rdev	axp-mem-device.h	/^	struct regulator_dev *rdev;$/;"	m	struct:regulator	typeref:struct:regulator::regulator_dev
+rdev	virtual.h	/^	struct regulator_dev *rdev;$/;"	m	struct:regulator	typeref:struct:regulator::regulator_dev
+reg_debug	axp-filenode.c	/^static s32 reg_debug = 0x0;$/;"	v	file:
+regulator	axp-mem-device.h	/^struct regulator {$/;"	s
+regulator	virtual.h	/^	struct regulator *regulator;$/;"	m	struct:virtual_consumer_data	typeref:struct:virtual_consumer_data::regulator
+regulator	virtual.h	/^struct regulator {$/;"	s
+regulator_count	axp-mem-device.c	/^static axp_mem_data_t *regulator_count = NULL;$/;"	v	file:
+regulator_virtual_consumer_driver	virtual81x.c	/^static struct platform_driver regulator_virtual_consumer_driver[] = {$/;"	v	typeref:struct:platform_driver	file:
+regulator_virtual_consumer_exit	virtual81x.c	/^module_exit(regulator_virtual_consumer_exit);$/;"	v
+regulator_virtual_consumer_exit	virtual81x.c	/^static void __exit regulator_virtual_consumer_exit(void)$/;"	f	file:
+regulator_virtual_consumer_init	virtual81x.c	/^module_init(regulator_virtual_consumer_init);$/;"	v
+regulator_virtual_consumer_init	virtual81x.c	/^static s32 __init regulator_virtual_consumer_init(void)$/;"	f	file:
+regulator_virtual_consumer_probe	virtual81x.c	/^static s32 regulator_virtual_consumer_probe(struct platform_device *pdev)$/;"	f	file:
+regulator_virtual_consumer_remove	virtual81x.c	/^static s32 regulator_virtual_consumer_remove(struct platform_device *pdev)$/;"	f	file:
+rest_time	axp81x-sply.h	/^	s32 rest_time;$/;"	m	struct:axp_charger
+rest_vol	axp81x-sply.h	/^	s32 rest_vol;$/;"	m	struct:axp_charger
+sample_time	axp81x-sply.h	/^	u32 sample_time;$/;"	m	struct:axp_charger
+set_max_uA	virtual.h	/^static ssize_t set_max_uA(struct device *dev, struct device_attribute *attr,$/;"	f
+set_max_uV	virtual.h	/^static ssize_t set_max_uV(struct device *dev, struct device_attribute *attr,$/;"	f
+set_min_uA	virtual.h	/^static ssize_t set_min_uA(struct device *dev, struct device_attribute *attr,$/;"	f
+set_min_uV	virtual.h	/^static ssize_t set_min_uV(struct device *dev, struct device_attribute *attr,$/;"	f
+set_mode	virtual.h	/^static ssize_t set_mode(struct device *dev, struct device_attribute *attr,$/;"	f
+set_nmi_trigger	sunxi-nmi.c	/^EXPORT_SYMBOL(set_nmi_trigger);$/;"	v
+set_nmi_trigger	sunxi-nmi.c	/^void set_nmi_trigger(u32 trigger)$/;"	f
+set_pwr_regu_tree	axp-depend-init.c	/^void set_pwr_regu_tree(u32 value, u32 bitmap)$/;"	f
+set_sys_pwr_dm_mask	axp-depend-init.c	/^void set_sys_pwr_dm_mask(u32 bitmap, u32 enable)$/;"	f
+show_max_uA	virtual.h	/^static ssize_t show_max_uA(struct device *dev,$/;"	f
+show_max_uV	virtual.h	/^static ssize_t show_max_uV(struct device *dev,$/;"	f
+show_min_uA	virtual.h	/^static ssize_t show_min_uA(struct device *dev,$/;"	f
+show_min_uV	virtual.h	/^static ssize_t show_min_uV(struct device *dev,$/;"	f
+show_mode	virtual.h	/^static ssize_t show_mode(struct device *dev,$/;"	f
+step1_uV	axp-regu.h	/^	s32	step1_uV;$/;"	m	struct:axp_regulator_info
+step2_uV	axp-regu.h	/^	s32	step2_uV;$/;"	m	struct:axp_regulator_info
+sunxi_nmi_exit	sunxi-nmi.c	/^module_exit(sunxi_nmi_exit);$/;"	v
+sunxi_nmi_exit	sunxi-nmi.c	/^static void __exit sunxi_nmi_exit(void)$/;"	f	file:
+sunxi_nmi_init	sunxi-nmi.c	/^arch_initcall(sunxi_nmi_init);$/;"	v
+sunxi_nmi_init	sunxi-nmi.c	/^static int __init sunxi_nmi_init(void)$/;"	f	file:
+sunxi_nmi_match	sunxi-nmi.c	/^static const struct of_device_id sunxi_nmi_match[] = {$/;"	v	typeref:struct:of_device_id	file:
+sunxi_nmi_probe	sunxi-nmi.c	/^static int sunxi_nmi_probe(struct platform_device *pdev)$/;"	f	file:
+sunxi_nmi_remove	sunxi-nmi.c	/^static int sunxi_nmi_remove(struct platform_device *pdev)$/;"	f	file:
+supply	axp-regu.h	/^	char supply[20];	\/* consumer supply - e.g. "vcc" *\/$/;"	m	struct:axp_consumer_supply
+supply_data	axp-debugfs.c	/^} supply_data;$/;"	v	typeref:struct:power_supply_data	file:
+supply_list	axp81x-sply.c	/^static char *supply_list[] = {$/;"	v	file:
+supply_name	axp-mem-device.h	/^	char *supply_name;$/;"	m	struct:regulator
+supply_name	virtual.h	/^	char *supply_name;$/;"	m	struct:regulator
+switch_uV	axp-regu.h	/^	s32	switch_uV;$/;"	m	struct:axp_regulator_info
+sys_pwr_dm_mask	axp-depend-init.c	/^static u32 sys_pwr_dm_mask = 0;$/;"	v	file:
+to_axp_dev	axp-regu.c	/^static inline struct device *to_axp_dev(struct regulator_dev *rdev)$/;"	f	file:
+ts_res	axp81x-sply.h	/^	u16 ts_res;$/;"	m	struct:axp_adc_res
+uA_load	axp-mem-device.h	/^	int uA_load;$/;"	m	struct:regulator
+uA_load	virtual.h	/^	int uA_load;$/;"	m	struct:regulator
+update_current_limit_constraints	virtual.h	/^static void update_current_limit_constraints(struct virtual_consumer_data$/;"	f
+update_voltage_constraints	virtual.h	/^static void update_voltage_constraints(struct virtual_consumer_data *data)$/;"	f
+usb	axp81x-sply.h	/^	struct power_supply	usb;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::power_supply
+usb_adapter_valid	axp81x-sply.h	/^	bool usb_adapter_valid;$/;"	m	struct:axp_charger
+usb_det	axp81x-sply.h	/^	bool usb_det;$/;"	m	struct:axp_charger
+usb_status_timer	axp81x-sply.h	/^	struct timer_list usb_status_timer;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::timer_list
+usb_valid	axp81x-sply.h	/^	bool usb_valid;$/;"	m	struct:axp_charger
+usbwork	axp81x-sply.h	/^	struct delayed_work usbwork;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::delayed_work
+vac	axp81x-sply.h	/^	s32 vac;$/;"	m	struct:axp_charger
+vac_res	axp81x-sply.h	/^	u16 vac_res;$/;"	m	struct:axp_adc_res
+vbat	axp81x-sply.h	/^	s32 vbat;$/;"	m	struct:axp_charger
+vbat_res	axp81x-sply.h	/^	u16 vbat_res;$/;"	m	struct:axp_adc_res
+vbus_curr_limit_debug	axp-filenode.c	/^s32 vbus_curr_limit_debug = 1;$/;"	v
+vbuslimit_show	axp-filenode.c	/^static ssize_t vbuslimit_show(struct class *class,$/;"	f	file:
+vbuslimit_store	axp-filenode.c	/^static ssize_t vbuslimit_store(struct class *class,$/;"	f	file:
+virt	virtual81x_dev.c	/^static struct platform_device virt[]={$/;"	v	typeref:struct:platform_device	file:
+virtual_consumer_data	virtual.h	/^struct virtual_consumer_data {$/;"	s
+virtual_exit	virtual81x_dev.c	/^module_exit(virtual_exit);$/;"	v
+virtual_exit	virtual81x_dev.c	/^static void __exit virtual_exit(void)$/;"	f	file:
+virtual_init	virtual81x_dev.c	/^ static s32 __init virtual_init(void)$/;"	f	file:
+virtual_init	virtual81x_dev.c	/^module_init(virtual_init);$/;"	v
+vol_nbits	axp-regu.h	/^	s32	vol_nbits;$/;"	m	struct:axp_regulator_info
+vol_reg	axp-regu.h	/^	s32	vol_reg;$/;"	m	struct:axp_regulator_info
+vol_shift	axp-regu.h	/^	s32	vol_shift;$/;"	m	struct:axp_regulator_info
+vusb	axp81x-sply.h	/^	s32 vusb;$/;"	m	struct:axp_charger
+vusb_res	axp81x-sply.h	/^	u16 vusb_res;$/;"	m	struct:axp_adc_res
+work	axp-debugfs.c	/^	struct delayed_work work;$/;"	m	struct:power_supply_data	typeref:struct:power_supply_data::delayed_work	file:
+work	axp81x-sply.h	/^	struct delayed_work work;$/;"	m	struct:axp_charger	typeref:struct:axp_charger::delayed_work
+workmode_show	axp-regu.c	/^static ssize_t workmode_show(struct device *dev,$/;"	f	file:
+workmode_store	axp-regu.c	/^static ssize_t workmode_store(struct device *dev,$/;"	f	file:
