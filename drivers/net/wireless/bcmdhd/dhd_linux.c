@@ -495,8 +495,8 @@ uint dhd_download_fw_on_driverload = TRUE;
 /* Definitions to provide path to the firmware and nvram
  * example nvram_path[MOD_PARAM_PATHLEN]="/projects/wlan/nvram.txt"
  */
-char firmware_path[MOD_PARAM_PATHLEN] = "/etc/firmware/fw_bcm43438a0.bin";
-char nvram_path[MOD_PARAM_PATHLEN] = "/etc/firmware/nvram.txt";
+char firmware_path[MOD_PARAM_PATHLEN] = "/lib/firmware/ap6212/fw_bcm43438a0.bin";
+char nvram_path[MOD_PARAM_PATHLEN] = "/lib/firmware/ap6212/nvram.txt";
 char config_path[MOD_PARAM_PATHLEN];
 
 /* backup buffer for firmware and nvram path */
